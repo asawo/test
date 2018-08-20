@@ -1,0 +1,4155 @@
+
+
+"Word.Yen" = "円";
+
+/* 一度ポイントに交換すると売上金に戻すことはできません。よろしいですか？ */
+"一度ポイントに交換すると売上金に戻すことはできません。よろしいですか？" = "一度ポイントに交換すると売上金に戻すことはできません。よろしいですか？";
+
+/* 一部のポイントを利用 */
+"一部のポイントを利用" = "一部のポイントを利用";
+
+/* Purchase.storyboard, Purchase.storyboard */
+"一部のポイントを使う" = "一部のポイントを使う";
+
+/* Contact.storyboard */
+"退会理由（必須）" = "退会理由（必須）";
+
+/* 退会理由 : %@\n */
+"退会理由 : %@\n" = "退会理由 : %@\n";
+
+/* 退会理由を選択してください */
+"退会理由を選択してください" = "退会理由を選択してください";
+
+/* 退会申請の前にログインしてください */
+"退会申請の前にログインしてください" = "退会申請の前にログインしてください";
+
+/* Contact.storyboard, Contact.storyboard */
+"退会申請をする" = "退会申請をする";
+
+/* Contact.storyboard */
+"退会が完了しました。\nご利用ありがとうございました。" = "退会が完了しました。\nご利用ありがとうございました。";
+
+/* 退会したい */
+"退会したい" = "退会したい";
+
+/* 退会したい場合は下記のリンクを必ずお読みになってから、フォームよりご連絡ください。 */
+"退会したい場合は下記のリンクを必ずお読みになってから、フォームよりご連絡ください。" = "退会したい場合は下記のリンクを必ずお読みになってから、フォームよりご連絡ください。";
+
+/* Contact.storyboard */
+"退会した後、再登録したい" = "退会した後、再登録したい";
+
+/* Contact.storyboard */
+"退会すると復活できません" = "退会すると復活できません";
+
+/* 退会について */
+"退会について" = "退会について";
+
+/* Contact.storyboard */
+"退会は即時反映され、一度退会すると復活できません。\n売上金やポイントは全て消滅します。" = "退会は即時反映され、一度退会すると復活できません。\n売上金やポイントは全て消滅します。";
+
+/* 退会完了 */
+"退会完了" = "退会完了";
+
+/* 送る */
+"送る" = "送る";
+
+/* Purchase.storyboard */
+"送料込" = "送料込";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, ProductDetailViewController~ipad.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"送料込み" = "送料込み";
+"ProductDetailViewController.LikeDialogAlert.Title" = "いいね！しておくと商品が値下げされた時に通知を受け取ることが出来ます";
+"ProductDetailViewController.LikeDialogAlert.Yes" = "いいね！する";
+"ProductDetailViewController.LikeDialogAlert.No" = "今回はやめておく";
+"ProductDetailViewController.OrganizationUser.Obligation.Title" = "返品について";
+"ProductDetailViewController.OrganizationUser.Obligation.Message" = "お客さま都合は不可";
+"ProductDetailViewController.OrganizationUser.Question.Alert.Title" = "特定商取引に関する表記";
+"ProductDetailViewController.OrganizationUser.Question.Alert.Message" = "出品者のプロフィールページにある「・・・」メニューから詳細をご確認ください";
+"ProductDetailViewController.OrgUserProductLimitation.Message" = "この商品はJCBでの決済がご利用いただけません。他のカードもしくは決済方法をお選びください";
+
+/* ProductDetailViewController.xib */
+"+%@ SHIPPING" = "+%@ SHIPPING";
+
+/* Contact.storyboard */
+"送料込みの商品が着払いで届いた" = "送料込みの商品が着払いで届いた";
+
+/* CommentTableViewController.xib, ContactViewController.xib, PasswordResetViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"送信" = "送信";
+
+/* 送信中 */
+"送信中" = "送信中";
+
+/* Setting.storyboard */
+"市区町村" = "市区町村";
+
+/* Setting.storyboard */
+"都道府県を選択してください" = "選択してください";
+
+/* UsersAddressEditViewController.xib */
+"市町区村" = "市町区村";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"七分袖カーディガン" = "七分袖カーディガン";
+
+/* ProductDetailViewController.xib */
+"メルカリ安心への取り組み" = "メルカリ安心への取り組み";
+
+/* ProductDetailViewController.xib */
+"お金は事務局に支払われ、お互い評価後に振込まれます" = "お金は事務局に支払われ、評価後に振り込まれます";
+
+/* Exhibit.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard, Exhibit_iPad.storyboard */
+"理由：禁止出品物(クーポンなどの割引券、回数券)、禁止出品物(オンラインゲームのアイテムなど実態のないもの)" = "理由：禁止出品物(クーポンなどの割引券、回数券)、禁止出品物(オンラインゲームのアイテムなど実態のないもの)";
+
+/* 切り抜き */
+"切り抜き" = "切り抜き";
+
+/* Purchase.storyboard */
+"（送料込み）" = "（送料込み）";
+
+/* 変更 */
+"変更" = "変更";
+
+/* 変更中 */
+"変更中" = "変更中";
+
+/* 変更する */
+"変更する" = "変更する";
+
+/* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"上記で解決しない場合" = "上記で解決しない場合";
+
+/* Contact.storyboard */
+"上記に同意して退会する" = "上記に同意して退会する";
+
+/* 上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。 */
+"上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。" = "上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。";
+
+/* 上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります */
+"上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります" = "上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります";
+
+/* 下4ケタ%@ */
+"下4ケタ%@" = "下4ケタ%@";
+
+/* 下のボタンを押すと変更されます */
+"下のボタンを押すと変更されます" = "下のボタンを押すと変更されます";
+
+/* 下のボタンを押すと出品されます */
+"下のボタンを押すと出品されます" = "下のボタンを押すと出品されます";
+
+/* Setting.storyboard */
+"個人情報" = "個人情報";
+
+/* 個人情報の公開 */
+"個人情報の公開" = "個人情報の公開";
+
+/* Purchase Main */
+"PurchaseMain.Buy.Confirm.Message.Format.Coupons.Kyc" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nクーポン使用：%3$@\nポイント使用：%4$@\n支払い金額：%6$@";
+"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons.Kyc" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nポイント使用：%3$@\n支払い金額：%5$@";
+"PurchaseMain.Buy.Confirm.Message.Format.Coupons" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nクーポン使用：%3$@\nポイント使用：%4$@\n売上金使用：%5$@\n支払い金額：%6$@";
+"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nポイント使用：%3$@\n売上金使用：%4$@\n支払い金額：%5$@";
+"PurchaseMain.Address.Validation.Move" = "※配送先に変更はありませんか？";
+"PurchaseMain.Address.Validation.NoNumber" = "※部屋番号の入力をお忘れではないですか？";
+
+/* 「%@」を購入しますか？ */
+"「%@」を購入しますか？" = "「%@」を購入しますか？";
+
+/* Contact.storyboard */
+"「商品が届かない！」「返信がない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。\n\n" = "「商品が届かない！」「返信がない！」など短いコメントでは事務局で状況が把握できず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。\n\n";
+
+/* Contact.storyboard */
+"「エラーになる！」「繋がらない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。" = "「エラーになる！」「繋がらない！」など短いコメントでは事務局で状況が把握できず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。";
+
+/* PurchaseConfirmViewController.xib */
+"「購入する」ボタンを押してください" = "「購入する」ボタンを押してください";
+
+/* InformViewController.xib */
+"同意して続ける" = "同意して続ける";
+
+/* 不適切な商品の報告 */
+"不適切な商品の報告" = "不適切な商品の報告";
+
+/* 不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。 */
+"不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。" = "不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。";
+
+/* Contact.storyboard */
+"不適切なコメントの報告に基づいて随時、事務局でチェックさせていただき対応してまいります。\n特に返信はいたしませんが、ご了承ください。" = "不適切なコメントの報告に基づいて随時、事務局でチェックさせていただき対応してまいります。\n特に返信はいたしませんが、ご了承ください。";
+
+/* You have a response to your inquiry! */
+"You have a response to your inquiry!" = "You have a response to your inquiry!";
+
+/* Marketplace Guidelines */
+"Marketplace Guidelines" = "Marketplace Guidelines";
+
+/* LET US KNOW WHAT YOU THINK */
+"LET US KNOW WHAT YOU THINK" = "LET US KNOW WHAT YOU THINK";
+
+/* How do you feel about the Mercari? */
+"How do you feel about the Mercari?" = "How do you feel about the Mercari?";
+
+/* Happy */
+"Happy" = "Happy";
+
+/* Confused */
+"Confused" = "Confused";
+
+/* Sad */
+"Sad" = "Sad";
+
+/* Give Us your feedback */
+"Give Us your feedback" = "Give Us Your feedback";
+
+/* Feedback */
+"Feedback" = "Feedback";
+
+/* That's great to hear! \nIf you don't mind, we've love it if you could also rate us 5 stars in the App Store. It really helps :-) */
+"That's great to hear! \nIf you don't mind, we've love it if you could also rate us 5 stars in the App Store. It really helps :-)" = "That's great to hear! \nIf you don't mind, we've love it if you could also rate us 5 stars in the App Store. It really helps :-)";
+
+/* Rate Us On the App Store */
+"Rate Us On the App Store" = "Rate Us On the App Store";
+
+/* Check out our FAQs to see if it helps. If you still can't find what you're looking for, feel free to contact us */
+"Check out our FAQs to see if it helps. If you still can't find what you're looking for, feel free to contact us" = "Check out our FAQs to see if it helps. If you still can't find what you're looking for, feel free to contact us";
+
+/* View FAQs */
+"View FAQs" = "View FAQs";
+
+/* Oh no! We're so sorry to hear that. Would you mind letting us know what you didn't like about Mercari or what we can do better? */
+"Oh no! We're so sorry to hear that. Would you mind letting us know what you didn't like about Mercari or what we can do better?" = "Oh no! We're so sorry to hear that. Would you mind letting us know what you didn't like about Mercari or what we can do better?";
+
+/* Privacy Policy */
+"Privacy Policy" = "Privacy Policy";
+
+/* License */
+"License" = "License";
+
+/* Contact.storyboard */
+"不具合時に画面に表示されている文言" = "不具合時に画面に表示されている文言";
+
+/* 不具合時に画面に表示されている文言 : %@\n */
+"不具合時に画面に表示されている文言 : %@\n" = "不具合時に画面に表示されている文言 : %@\n";
+
+/* 不具合の報告 */
+"不具合の報告" = "不具合の報告";
+
+/* 不具合の詳細を選択してください */
+"不具合の詳細を選択してください" = "不具合の詳細を選択してください";
+
+/* Contact.storyboard */
+"不具合の詳細状況（必須）" = "不具合の詳細状況（必須）";
+
+/* 不具合の詳細状況 : %@\n */
+"不具合の詳細状況 : %@\n" = "不具合の詳細状況 : %@\n";
+
+/* Setting.storyboard */
+"名（全角）" = "名（全角）";
+
+/* UsersAddressEditViewController.xib */
+"名 (全角)" = "名 (全角)";
+
+/* ContactViewController.xib */
+"名前" = "名前";
+
+/* 名前を入力してください */
+"名前を入力してください" = "名前を入力してください";
+
+/* Setting.storyboard */
+"名カナ（全角）" = "名カナ（全角）";
+
+/* UsersAddressEditViewController.xib */
+"名カナ (全角)" = "名カナ (全角)";
+
+/* ProductCollectionViewCell.xib, ProductCollectionViewCell~ipad.xib */
+"１２３４５６７８９０１２" = "１２３４５６７８９０１２";
+
+/* NewsDetailViewController.xib, DetailListViewCell.xib */
+"１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０" = "１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"１２３４５６７８９０１２３４５６７８９０去年109のほげほげで買いました。3回くらい着ました。" = "１２３４５６７８９０１２３４５６７８９０去年109のほげほげで買いました。3回くらい着ました。";
+
+/* 外部サイトへの誘導 */
+"外部サイトへの誘導" = "外部サイトへの誘導";
+
+/* 会員によるキャンセル */
+"会員によるキャンセル" = "会員によるキャンセル";
+
+/* 会員登録 */
+"会員登録" = "Sign up";
+
+/* (タイトル)会員登録 */
+"(タイトル)会員登録" = "Sign up";
+
+/* 会員登録ありがとうございました */
+"会員登録ありがとうございました" = "会員登録ありがとうございました";
+
+/* 会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません */
+"会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません";
+
+/* 会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません */
+"会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません";
+
+/* 会員登録すると検索条件を保存できるようになります */
+"会員登録すると検索条件を保存できるようになります" = "会員登録すると検索条件を保存できるようになります";
+
+/* 会員登録するといいね！やコメントが出来るようになります */
+"会員登録するといいね！やコメントが出来るようになります" = "会員登録するといいね！やコメントができるようになります";
+
+/* 会員登録すると出品した商品を見られるようになります */
+"会員登録すると出品した商品を見られるようになります" = "会員登録すると出品した商品を見られるようになります";
+
+/* 会員登録すると購入した商品を見られるようになります */
+"会員登録すると購入した商品を見られるようになります" = "会員登録すると購入した商品を見られるようになります";
+
+/* LoginViewController.xib */
+"会員登録はこちら" = "会員登録はこちら";
+
+/* 会員登録・ログインについて */
+"会員登録・ログインについて" = "会員登録・ログインについて";
+
+/* SideMenuViewController.xib */
+"会員登録・ログインへ" = "Sign up or log in";
+
+/* Contact.storyboard */
+"会員情報を変更したい" = "会員情報を変更したい";
+
+/* 会員情報を確認中 */
+"会員情報を確認中" = "会員情報を確認中";
+
+/* 通信中... */
+"通信中..." = "通信中...";
+
+/* 通信に失敗しました */
+"通信に失敗しました" = "通信に失敗しました";
+"ErrorMessage.Connection.Failed" = "通信に失敗しました";
+
+/* Oops! Try listing again in an area with a stronger connection or via a wireless network. */
+"Oops! Try listing again in an area with a stronger connection or via a wireless network." = "通信環境が悪いため出品できません。通信環境のよいところで再度出品してください。";
+
+/* Search.storyboard */
+"〜" = "〜";
+
+/* 検索 */
+"検索" = "検索";
+
+/* 検索中 */
+"検索中" = "検索中";
+
+/* Search.storyboard */
+"検索結果と詳細検索画面　　　から検索条件を保存することができます" = "検索結果と詳細検索画面　　　から検索条件を保存することができます";
+
+/* Search.storyboard */
+"検索結果と詳細検索画面から検索条件を保存することができます" = "検索結果と詳細検索画面から検索条件を保存することができます";
+
+/* 検索条件をクリアしますか？ */
+"検索条件をクリアしますか？" = "検索条件をクリアしますか？";
+
+/* Search.storyboard */
+"検索条件を保存しておくことができます" = "検索条件を保存しておくことができます";
+
+/* 検索条件を保存しました */
+"検索条件を保存しました" = "検索条件を保存しました";
+
+/* Search.storyboard, Search.storyboard */
+"検索のヘルプ" = "検索のヘルプ";
+
+/* Recent Searches */
+"Recent Searches" = "検索履歴";
+
+/* ...and more!! */
+"...and more!!" = "もっと探す";
+
+/* Search for millions of items! */
+"Search for millions of items!" = "人気のアイテムを探してみよう";
+
+/* You don't have any recent searches yet! */
+"You don't have any recent searches yet!" = "検索履歴はありません";
+
+/* Got it! */
+"Got it!" = "OK";
+
+/* 初めて出品する方へ */
+"初めて出品する方へ" = "初めて出品する方へ";
+
+/* 初めて購入する方へ */
+"初めて購入する方へ" = "初めて購入する方へ";
+
+/* Purchase.storyboard */
+"期限" = "期限";
+
+/* 期限を入力してください */
+"期限を入力してください" = "期限を入力してください";
+
+/*  (%1$@〜%2$@) */
+" (%1$@〜%2$@)" = " (%1$@〜%2$@)";
+
+/* Setting.storyboard */
+"次に期限切れするポイント" = "次に期限切れするポイント";
+
+/* Setting.storyboard */
+"次に期限切れする日時" = "次に期限切れする日時";
+
+/* 次へ */
+"次へ" = "次へ";
+
+/* #,##0円 */
+"#,##0円" = "#,##0円";
+
+/* %1$@（手数料 %2$@） */
+"%1$@（手数料 %2$@）" = "%1$@\n(手数料 %2$@)";
+
+/* %1$@ %2$@ (%3$@ %4$@) 様\n */
+"%1$@ %2$@ (%3$@ %4$@) 様\n" = "%1$@ %2$@ (%3$@ %4$@) 様\n";
+
+/* %1$@ (%2$@ 利用) */
+"%1$@ (%2$@ 利用)" = "%1$@ (%2$@ 利用)";
+
+/* %1$@\n支店コード %2$@\n%3$@ %4$@\n%5$@ %6$@ */
+"%1$@\n支店コード %2$@\n%3$@ %4$@\n%5$@ %6$@" = "%1$@\n支店コード %2$@\n%3$@ %4$@\n%5$@ %6$@";
+
+/* %@ %@ (%@ %@) 様\n */
+"%@ %@ (%@ %@) 様\n" = "%1$@ %2$@ (%3$@ %4$@) 様\n";
+
+/* %@ (%@ 利用) */
+"%@ (%@ 利用)" = "%1$@ (%2$@ 利用)";
+
+/* %@ にパスワード再設定のメールを送りました */
+"%@ にパスワード再設定のメールを送りました" = "%@ にパスワード再設定のメールを送りました";
+
+/* %@ 使う */
+"%@ 使う" = "%@ 使う";
+
+/* %@からの評価： */
+"%@からの評価：" = "%@からの評価：";
+
+/* %@さん */
+"%@さん" = "%@さん";
+
+/* %@の評価： */
+"%@の評価：" = "%@の評価：";
+
+/* ContactViewController.xib */
+"%@わからないことがある場合はまずは以下のリンクをご覧ください。それでも解決しない場合は下記のフォームよりお問い合わせください。" = "%@わからないことがある場合はまずは以下のリンクをご覧ください。それでも解決しない場合は下記のフォームよりお問い合わせください。";
+
+/* %@を選択してください */
+"%@を選択してください" = "%@を選択してください";
+
+/* %d分前 */
+"%d分前__{one}__" = "%d分前";
+"%d分前__{other}__" = "%d分前";
+
+/* %d時間前 */
+"%d時間前__{one}__" = "%d時間前";
+"%d時間前__{other}__" = "%d時間前";
+
+/* %d日前 */
+"%d日前__{one}__" = "%d日前";
+"%d日前__{other}__" = "%d日前";
+
+/* %dヶ月前 */
+"%dヶ月前__{one}__" = "%dヶ月前";
+"%dヶ月前__{other}__" = "%dヶ月前";
+
+/* ProductDetailViewController.xib */
+"(送料込み)" = "(送料込み)";
+
+/* (振込無料チケット) */
+"(振込無料チケット)" = "(振込無料チケット)";
+
+/* (1,000文字まで)\n例）こんにちは☆\nハンドメイドを中心にどんどん出品していくのでよろしくお願いします♡ */
+"(1,000文字まで)\n例）こんにちは☆\nハンドメイドを中心にどんどん出品していくのでよろしくお願いします♡" = "(1,000文字まで)\n例）こんにちは☆\nハンドメイドを中心にどんどん出品していくのでよろしくお願いします♡";
+
+/* (必須) */
+"(必須)" = "(必須)";
+
+/* (任意) */
+"(任意)" = "(任意)";
+
+/* 利用しますか？ */
+"利用しますか？" = "利用しますか？";
+
+/* 利用規約 */
+"利用規約" = "利用規約";
+
+/* 利用ポイント */
+"利用ポイント" = "利用ポイント";
+
+/* 未振込の振込申請があるため退会できません */
+"未振込の振込申請があるため退会できません" = "未振込の振込申請があるため退会できません";
+
+/* 横%1$.0fpx以下、縦%2$.0fpx以下の画像を選択してください */
+"横%1$.0fpx以下、縦%2$.0fpx以下の画像を選択してください" = "横%1$.0fpx以下、縦%2$.0fpx以下の画像を選択してください";
+
+/* 本当にこのカード情報を消去してよろしいですか */
+"本当にこのカード情報を消去してよろしいですか" = "本当にこのカード情報を消去してよろしいですか";
+
+/* 有効期限 %@ */
+"有効期限 %@" = "有効期限 %@";
+
+/* 本物ではないブランド品 */
+"本物ではないブランド品" = "本物ではないブランド品";
+
+/* Setting.storyboard */
+"-" = "-";
+
+/* Setting.storyboard */
+"- P 1,500" = "- P 1,500";
+
+/* Setting.storyboard */
+"- ￥ 1,500" = "- ￥ 1,500";
+
+/* 設定 */
+"設定" = "Settings";
+
+/* 設定中 */
+"設定中" = "設定中";
+
+/* 設定してください */
+"設定してください" = "設定してください";
+
+/* 設定アプリの「位置情報サービス」でアクセスを有効にしてください */
+"設定アプリの「位置情報サービス」でアクセスを有効にしてください" = "設定アプリの「位置情報サービス」でアクセスを有効にしてください";
+
+/* 設定アプリの「プライバシー」→「写真」でアクセスを有効にしてください */
+"設定アプリの「プライバシー」→「写真」でアクセスを有効にしてください" = "設定アプリの「プライバシー」→「写真」でアクセスを有効にしてください";
+
+/* InputAccessoryCountView.xib */
+"/" = "/";
+
+/* 振込済み */
+"振込済み" = "振込済み";
+
+/* 振込申請 */
+"振込申請" = "振込申請金額を入力";
+
+/* 振込申請中 */
+"振込申請中" = "振込申請中";
+
+/* Contact.storyboard */
+"振込申請があると退会できない？" = "振込申請があると退会できない？";
+"contact.inquiry.section.title" = "お問い合わせ項目";
+"contact.support_community.section.title" = "公式Q＆A「メルカリボックス」で今すぐ解決";
+"contact.support_community.cell.title" = "解決策を検索または質問する";
+
+/* Inquiry */ // will move to Inquiry project :)
+"inquiry.inquiry_category_selection.title" = "お問い合わせ項目を選ぶ";
+"inquiry.selected_item.section.header" = "選択した商品";
+"inquiry.type_selection.choose_from_list.section.header" = "お問い合わせ項目より選ぶ";
+"inquiry.suggested_guides.faq.section.header" = "よくあるお問い合わせ";
+"inquiry.suggested_guides.if_not_resolved.secton.header" = "上記で解決しない場合";
+"inquiry.suggested_guides.if_not_resolved.cell.title" = "お問い合わせする";
+
+/* Setting.storyboard */
+"振込申請して現金を受け取る" = "振込申請して現金を受け取る";
+
+/* 振込申請しました */
+"振込申請しました" = "振込申請しました";
+
+/* (Payout)Success! */
+"(Payout)Success!" = "振込申請しました";
+
+/* Setting.storyboard */
+"振込申請履歴" = "振込申請履歴";
+
+/* 振込申請履歴一覧 */
+"振込申請履歴一覧" = "振込申請履歴一覧";
+
+/* 振込申請履歴はありません */
+"振込申請履歴はありません" = "振込申請履歴はありません";
+
+/* BillsTransferConfirmViewController.xib */
+"振込申請をする" = "振込申請をする";
+
+/* 振込申請確認 */
+"振込申請確認" = "振込申請確認";
+
+/* 振込申請金額 */
+"振込申請金額" = "振込申請金額";
+
+/* 振込先 */
+"振込先" = "振込先";
+
+/* 振込先を保存中 */
+"振込先を保存中" = "振込先を保存中";
+
+/* 振込先口座の設定 */
+"振込先口座の設定" = "振込先口座の指定";
+
+/* 振込先口座情報を確認中 */
+"振込先口座情報を確認中" = "振込先口座情報を確認中";
+
+/* 振込手数料 */
+"振込手数料" = "振込手数料";
+
+/* Contact.storyboard */
+"振込されないのですが？" = "振込されないのですが？";
+
+/* 振込金額 */
+"振込金額" = "振込金額";
+
+/* 振込日 */
+"振込日" = "振込日";
+
+/* BillsTransferFinishViewController.xib */
+"振込日や時間などはガイド「販売代金の受取」をご確認ください。" = "振込スケジュールは下の「ガイドへ」よりご確認ください";
+
+/* 支払い */
+"支払い" = "支払い";
+
+/* Contact.storyboard */
+"支払い前に商品を発送してもいい？" = "支払い前に商品を発送してもいい？";
+
+/* 支払い待ち */
+"支払い待ち" = "支払い待ち";
+
+/* 支払い方法 */
+"支払い方法" = "支払い方法";
+
+/* Purchase.storyboard */
+"支払い方法について" = "支払い方法について";
+
+/* Contact.storyboard */
+"支払い方法を変更したい" = "支払い方法を変更したい";
+
+/* 支払い方法を選択してください */
+"支払い方法を選択してください" = "支払い方法を選択してください";
+
+/* (支払い方法)選択してください */
+"(支払い方法)選択してください" = "選択してください";
+
+/* (配送先)設定してください */
+"(配送先)設定してください" = "設定してください";
+
+/* Purchase.storyboard */
+"支払い金額" = "支払い金額";
+
+/* Shipping fee */
+"Shipping fee" = "Shipping fee";
+
+/* Payment */
+"Payment" = "Payment";
+
+/* Mercari credits */
+"Mercari credits" = "Mercari credits";
+
+/* Complete checkout */
+"Complete checkout" = "Complete checkout";
+
+/* 支払い代金 */
+"支払い代金" = "支払い代金";
+
+/* <h1>メルカリ月イチ払いの履歴はありません</h1> */
+"<h1>メルカリ月イチ払いの履歴はありません</h1>" = "<h1>メルカリ月イチ払いの<br>履歴はありません</h1>";
+
+/* 支店コード */
+"支店コード" = "支店コード";
+
+/* 支店コードが未入力です */
+"支店コードが未入力です" = "支店コードが未入力です";
+
+/* 支店コードがわからない */
+"支店コードがわからない" = "支店コードがわからない";
+
+/* PointUseViewController.xib, ReviewListViewController.xib, ReviewListViewController.xib, ReviewListViewController.xib, ProfileHeaderReviewViewCell.xib, ProfileHeaderReviewViewCell.xib, ProfileHeaderReviewViewCell.xib, ProfileHeaderViewCell.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"0" = "0";
+
+/* ProductCollectionViewCell.xib, ProductCollectionViewCell.xib, ProductCollectionViewCell~ipad.xib, ProductCollectionViewCell~ipad.xib, ProductListViewCell.xib, ProductListViewCell.xib, ProductListViewCell~ipad.xib, ProductListViewCell~ipad.xib */
+"1" = "1";
+
+/* 1分以内 */
+"1分以内" = "1分以内";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"100" = "100";
+
+/* ProfileHeaderViewCell.xib */
+"100%" = "100%";
+
+/* InputAccessoryCountView.xib, InputAccessoryCountView.xib */
+"1000" = "1000";
+
+/* CommentBalloonView.xib */
+"報告" = "報告";
+
+/* Setting.storyboard, Setting.storyboard */
+"2013-05-31 13:21:28" = "2013-05-31 13:21:28";
+
+/* NewsDetailViewController.xib, ReviewListViewCell.xib */
+"2013/01/01 00:00" = "2013/01/01 00:00";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, CommentBalloonView.xib, NotificationListViewCell.xib */
+"23時間前" = "23時間前";
+
+/* 3回に1度程度 */
+"3回に1度程度" = "3回に1度程度";
+
+/* 申請中 */
+"申請中" = "申請中";
+
+/* Setting.storyboard */
+"申請をキャンセルする" = "申請をキャンセルする";
+
+/* 申請金額 */
+"申請金額" = "申請金額";
+
+/* 申請日時 */
+"申請日時" = "申請日時";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"500" = "500";
+
+/* 50音順 */
+"50音順" = "50音順";
+
+/* 5回に1度程度 */
+"5回に1度程度" = "5回に1度程度";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"9999" = "9999";
+
+/* SIMILAR ITEMS */
+"SIMILAR ITEMS" = "関連商品";
+
+/* Contact.storyboard */
+"不具合報告は詳細に記載してください" = "不具合報告は詳細に記載してください";
+
+/* EmailPasswordSettingViewController.xib */
+"EmailPasswordSettingViewController.Footer1" = "パスワードを変更したい場合は上記をすべて入力してください。\n※メルカリグループの他アプリをご利用の場合、パスワードを変更するとログアウトされます。変更後は各アプリ内より再度ログインをお願いします。";
+"EmailPasswordSettingViewController.Footer1.Proper" = "パスワードを設定したい場合は上記をすべて入力してください。\n※メルカリグループの他アプリをご利用の場合、パスワードを変更するとログアウトされます。変更後は各アプリ内より再度ログインをお願いします。";
+"メールアドレスを変更すると確認メールが送信されます。メール内のURLをクリックすると変更完了です。" = "メールアドレスを変更すると確認メールが送信されます。メール内のURLをクリックすると変更完了です。";
+"新パスワード(確認)" = "新パスワード(確認)";
+
+/* ※無料振込チケットがあるため、今回の振込手数料は無料です (残り%d枚) */
+"※無料振込チケットがあるため、今回の振込手数料は無料です (残り%d枚)" = "※振込無料チケットがあるため、今回の振込手数料は無料です (残り%d枚)";
+
+/* Setting.storyboard */
+"※振込申請のキャンセルは振込スケジュールの締め期間内（毎月前半と後半）のみ、24時間に1度だけ可能です。慎重にお願いいたします。" = "※振込申請のキャンセルは振込スケジュールの締め期間内のみです。\n※キャンセルは24時間に1度だけ可能です。";
+
+/* ※振込先が間違っている場合、再振込には組戻し手数料630円と再振込手数料210円が発生します。\n\n */
+"※振込先が間違っている場合、再振込には組戻し手数料630円と再振込手数料210円が発生します。\n\n" = "\n";
+
+/* Setting.storyboard */
+"※1ポイント=1円" = "※1ポイント=1円";
+
+/* PhoneNumberAuth.storyboard */
+"※2分以上SMSが届かない方は再送をお願いします\n※アクセスが集中すると配信が遅れる場合があります\n" = "※2分以上SMSが届かない方は再送をお願いします\n※アクセスが集中すると配信が遅れる場合があります\n";
+
+/* Contact.storyboard */
+"内容は詳細に記載してください" = "内容は詳細に記載してください";
+
+/* Contact.storyboard */
+"再起動/アップデートはしましたか？" = "再起動/アップデートはしましたか？";
+
+/* Contact.storyboard */
+"取引メッセージは送りましたか？" = "取引メッセージは送りましたか？";
+
+/* Setting.storyboard */
+"※ポイントは180日で消滅しますので、買物をするタイミングで必要な分を交換するようにしましょう\n※交換したポイントは戻せません" = "※ポイントは180日で消滅しますので、買物をするタイミングで必要な分を交換するようにしましょう\n※交換したポイントは戻せません";
+
+/* Contact.storyboard */
+"※メール及び取引画面に表示されています" = "※メール及び取引画面に表示されています";
+
+/* Contact.storyboard */
+"※メール及び取引画面に表示されています\n※特定商品へのお問い合わせには必要です" = "※メール及び取引画面に表示されています\n※特定商品へのお問い合わせには必要です";
+
+/* BankEditViewController */
+"※口座番号が7桁未満の場合は先頭に0をつけてください" = "※口座番号が7桁未満の場合は先頭に0をつけてください";
+"※振込先が間違っている場合、再振込手数料210円が発生します" = "※振込先が間違っている場合、再振込手数料210円が発生します";
+
+/* PhoneNumberAuth.storyboard */
+"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。";
+
+/* 本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います */
+"本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います" = "本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います";
+
+/* 携帯電話の番号を入力 */
+"Phone Number" = "携帯電話の番号を入力";
+
+/* ※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。 */
+"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。";
+
+/* 認証番号を入力 */
+"認証番号を入力" = "認証番号を入力";
+
+/* 電話番号認証 */
+"電話番号認証" = "電話番号認証";
+
+/* 30秒たっても認証番号が届かない方へ */
+"30秒たっても認証番号が届かない方へ" = "30秒たっても認証番号が届かない方へ";
+
+/* 電話で認証番号を聞くこともできます。 */
+"電話で認証番号を聞くこともできます。" = "電話で認証番号を聞くこともできます。";
+
+
+/* 電話で認証番号を聞く (通話無料) */
+"電話で認証番号を聞く (通話無料)" = "電話で認証番号を聞く (通話無料)";
+
+/* 認証番号を再送することもできます。もう一度電話番号を入力してください。 */
+"認証番号を再送することもできます。もう一度電話番号を入力してください。" = "認証番号を再送することもできます。もう一度電話番号を入力してください。";
+
+/* 電話番号を入力する */
+"電話番号を入力する" = "電話番号を入力する";
+
+/* ※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。 */
+"※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。" = "※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。";
+
+/* ☻ */
+"☻" = "☻";
+
+/* 主要金融機関 */
+"主要金融機関" = "主要金融機関";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"戻る" = "戻る";
+
+/* Contact.storyboard */
+"画像が表示されない" = "画像が表示されない";
+
+/* 画像の切り抜きに失敗しました */
+"画像の切り抜きに失敗しました" = "画像の切り抜きに失敗しました";
+
+/* Setting.storyboard, Setting.storyboard, Setting.storyboard */
+"所持ポイント" = "所持ポイント";
+
+/* App Storeに移動 */
+"App Storeに移動" = "App Storeに移動";
+
+/* App Storeへ */
+"App Storeへ" = "App Storeへ";
+
+/* ButtonSectionHeaderView.xib, ButtonSectionHeaderView~ipad.xib */
+"Button" = "Button";
+
+/* あとでレビューする */
+"あとでレビューする" = "あとでレビューする";
+
+/* %@までの後払いで今すぐ購入OK */
+"%@までの後払いで今すぐ購入OK" = "%@までの後払いで今すぐ購入OK";
+
+/* あなたへのお知らせ */
+"あなたへのお知らせ" = "Notifications";
+
+/* NotificationListViewCell.xib */
+"あるユーザが「ある商品」にいいねをつけました" = "あるユーザが「ある商品」にいいねをつけました";
+
+/* 時々 */
+"時々" = "時々";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard, Setting.storyboard, Setting.storyboard, Setting.storyboard */
+"Detail" = "Detail";
+
+/* いいえ */
+"いいえ" = "いいえ";
+
+/* いいね！一覧 */
+"いいね！一覧" = "Liked Items";
+
+/* My Likes & Views */
+"My Likes & Views" = "いいね！・ 閲覧履歴";
+
+/* My Views */
+"My Views" = "閲覧履歴";
+
+/* いいね！ %@ */
+"いいね！ %@" = "いいね！ %@";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"いいね！ 0" = "いいね！ 0";
+
+/* Like (ProductDetailViewController) */
+"Like" = "いいね!";
+
+/* Contact.storyboard */
+"いただいた商品の報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n商品の報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。" = "いただいた商品の報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n商品の報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。";
+
+/* Contact.storyboard */
+"いただいた機能の要望は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n機能の要望につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。" = "いただいた機能の要望は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n機能の要望につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。";
+
+/* Contact.storyboard */
+"いただいたコメントの報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\nコメントの報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。" = "いただいたコメントの報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\nコメントの報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。";
+
+/* いつもメルカリをご利用いただきありがとうございます。\n\nメルカリの新しいバージョンが公開されました。App Storeからアップデートをお願いいたします。 */
+"いつもメルカリをご利用いただきありがとうございます。\n\nメルカリの新しいバージョンが公開されました。App Storeからアップデートをお願いいたします。" = "いつもメルカリをご利用いただきありがとうございます。\n\nメルカリの新しいバージョンが公開されました。App Storeからアップデートをお願いいたします。";
+
+/* Facebookからアクセス権限を取得できませんでした */
+"Facebookからアクセス権限を取得できませんでした" = "Facebookからアクセス権限を取得できませんでした";
+
+/* Facebookから情報を取得できませんでした */
+"Facebookから情報を取得できませんでした" = "Facebookから情報を取得できませんでした";
+
+/* Facebookでは未登録です。Facebookでの会員登録画面へ移動します */
+"Facebookでは未登録です。Facebookでの会員登録画面へ移動します" = "Facebookでは未登録です。Facebookでの会員登録画面へ移動します";
+
+/* Facebookに問い合わせ中 */
+"Facebookに問い合わせ中" = "Facebookに問い合わせ中";
+
+/* Unable to Connect to Facebook */
+"Unable to Connect to Facebook" = "Facebookに接続できません";
+
+/* Facebookへの問い合わせが取り消されました */
+"Facebookへの問い合わせが取り消されました" = "Facebookの「設定」からアプリの利用制限についてご確認ください";
+
+/* Please Enable Mercari in System Settings */
+"Please Enable Mercari in System Settings" = "iOSの設定をご確認ください";
+
+/* Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください */
+"Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください" = "Facebookアカウントの使用が許可されていません。iOSの「設定」の「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください";
+
+/* Googleに問い合わせ中 */
+"Googleに問い合わせ中" = "Googleに問い合わせ中";
+
+/* 商品の写真を登録してください  */
+"商品の写真を登録してください" = "商品の写真を登録してください";
+
+/* 写真を撮る */
+"写真を撮る" = "写真を撮る";
+
+/* アルバムから選択する */
+"アルバムから選択する" = "アルバムから選択する";
+
+/* 商品変更の確認 */
+"商品変更の確認" = "商品変更の確認";
+
+/* 商品名 */
+"商品名" = "商品名";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"商品名 (必須 40文字まで)" = "商品名 (必須 40文字まで)";
+
+/* 商品名が最大文字数を超えています。%d文字削除してください */
+"商品名が最大文字数を超えています。%d文字削除してください__{one}__" = "商品名が最大文字数を超えています。%d文字削除してください";
+"商品名が最大文字数を超えています。%d文字削除してください__{other}__" = "商品名が最大文字数を超えています。%d文字削除してください";
+
+/* 商品名が未入力です */
+"商品名が未入力です" = "商品名が未入力です";
+
+/* 商品名と説明 */
+"商品名と説明" = "商品名と説明";
+
+/* 商品ID */
+"商品ID" = "商品ID";
+
+/* 商品ID : %@\n */
+"商品ID : %@\n" = "商品ID : %@\n";
+
+/* 商品IDを入力してください */
+"商品IDを入力してください" = "商品IDを入力してください";
+
+/* 商品削除中 */
+"商品削除中" = "商品削除中";
+
+/* Contact.storyboard, Contact.storyboard */
+"商品が届かない、受取評価をしてもらえないなどの場合、まずは取引メッセージを送ってください。\n返信がない、解決しない場合は下記のフォームよりお問い合わせください。" = "商品が届かない、受取評価をしてもらえないなどの場合、まずは取引メッセージを送ってください。\n返信がない、解決しない場合は下記のフォームよりお問い合わせください。";
+
+/* 商品の報告 */
+"商品の報告" = "商品の報告";
+
+/* Contact.storyboard */
+"商品の報告ありがとうございます" = "商品の報告ありがとうございます";
+
+/* 商品の詳細 */
+"商品の詳細" = "商品の詳細";
+
+/* 商品の説明 */
+"商品の説明" = "商品の説明";
+
+"ProductEditViewController.ProductDetailTextView.Placeholder" = "商品の説明 (任意 1,000文字以内)\n(色、素材、重さ、定価、注意点など)\n\n例)　2010年頃に1万円で購入したジャケットです。ライトグレーで傷はありません。あわせやすいのでおすすめです。\n\n#ジャケット #ジャケットコーデ";
+
+"ProductEditViewController.Alert.GoToDraftList" = "下書き一覧へ";
+
+"ProductEditViewController.Alert.ChooseFromLibrary" = "写真をアルバムから選択";
+
+"ProductEditViewController.SaveDraftAlert.Detail" = "スマートフォンに関する項目は保存されません。下書き保存をしますか？";
+
+"ProductEditViewController.AgreeBackToGeneralEditViewControllerAlert.Detail" = "スマートフォン用の出品画面から通常の出品画面に戻ります";
+
+"ProductEditViewController.Alert.CatalogSpecsNotEnough" = "スマートフォンの詳細項目に未入力のものがあります";
+
+"ProductEditViewController.Alert.CatalogSpecsEmpty" = "出品するスマホの機種が選ばれていません。「スマホの機種を選択する」 ボタンをタップしてください。";
+
+"ProductEditViewController.Alert.SafeSmartphoneUsable" = "商品の状態が「新品、未使用」の場合はあんしんスマホサポートはご利用いただけません";
+
+"ProductEditViewController.Alert.TOSCheckBoxEmpty" = "利用特約に同意していません";
+
+"ProductEditViewController.CatalogDetails.Other" = "上記以外";
+
+"ProductEditViewController.IMEI.Description.iPhone" = "IMEI番号を入力してください。\n「設定」 > 「一般」 > 「情報」の順に選択することでIMEI番号が確認できます。\nまた、電話をかける方法と同じ手順で「*#06#」と入力すると表示されます。";
+
+"ProductEditViewController.IMEI.Description.Other" = "IMEI番号を入力してください。\n「設定」>「端末情報」>「端末の状態」>「IMEI」の順に選択することでIMEI番号が確認できます。\nまた、電話をかける方法と同じ手順で「＊＃０６＃」と入力しても表示されます。\n\n※端末により表記が違う場合があります\n※複数のIMEI番号を持つ機種はどちらか片方を入力してください";
+
+"ProductEditViewController.SafeSmartphone.Title" = "あんしんスマホサポート";
+
+"ProductEditViewController.SafeSmartphone.Description" = "(データ削除・検品・保証付き)";
+
+"ProductEditViewController.SafeSmartphone.OptionFee" = "オプション料金";
+
+"ProductEditViewController.Header.Option" = "オプション";
+
+"ProductEditViewController.Footer.SafeSmartphoneExplain" = "スマホを販売する際に必要な、データ削除や初期化などの手続きをメルカリがサポートする有料オプションです。\n※配送方法はらくらくメルカリ便のみとなります\n※商品の状態が新品の場合はご利用いただけません";
+
+/* 商品の説明が最大文字数を超えています。%d文字削除してください */
+"商品詳細は1,000文字以内で入力してください" = "商品詳細は1,000文字以内で入力してください";
+
+/* 商品説明を入力してください */
+"商品説明を入力してください" = "商品説明を入力してください";
+
+/* ProductDetailItemView */
+"VerifyGuaranteedShippingTime" = "※検品を行うため、到着までお時間をいただきます";
+
+/* 商品の状態 */
+"商品の状態" = "商品の状態";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"商品の情報を入力" = "商品の情報を入力";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"商品の編集" = "商品の編集";
+
+/* Contact.storyboard, Contact.storyboard */
+"商品へ" = "商品へ";
+
+/* Contact.storyboard */
+"商品を送ったが、戻ってきた" = "商品を送ったが、戻ってきた";
+
+/* Contact.storyboard */
+"商品を受取る前に評価をしてしまった" = "商品を受取る前に評価をしてしまった";
+
+/* 商品情報 */
+"商品情報" = "商品情報";
+
+/* 商品情報が正しくありません */
+"商品情報が正しくありません" = "商品情報が正しくありません";
+
+/* Exhibit.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard, Exhibit_iPad.storyboard */
+"商品情報を確認する" = "商品情報を確認する";
+
+/* 商品情報を取得し終わるまでお待ちください */
+"商品情報を取得し終わるまでお待ちください" = "商品情報を取得し終わるまでお待ちください";
+
+/* 商品代金 */
+"Item Price" = "商品代金";
+
+/* 商品代金以下の数字を入力してください */
+"商品代金以下の数字を入力してください" = "商品代金以下の数字を入力してください";
+
+/* お名前 */
+"お名前" = "お名前";
+
+/* PaymentMethodSelectViewController.xib */
+"お支払いをどの方法にするか" = "お支払いをどの方法にするか";
+
+/* お支払い方法 */
+"お支払い方法" = "お支払い方法";
+
+/* お支払い方法の選択 */
+"お支払い方法の選択" = "お支払い方法の選択";
+
+/* お支払い代金 */
+"お支払い代金" = "お支払い代金";
+
+/* お届け先 */
+"お届け先" = "お届け先";
+
+/* お問い合わせ */
+"お問い合わせ" = "Contact Us";
+
+/* Contact.storyboard, Contact.storyboard */
+"お問い合わせ項目を選ぶ" = "お問い合わせ項目を選ぶ";
+
+/* Contact.storyboard */
+"お問い合わせありがとうございます" = "お問い合わせありがとうございます";
+
+/* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"お問い合わせする" = "お問い合わせする";
+
+/* Contact.storyboard */
+"お問い合わせの前に" = "お問い合わせの前に";
+
+/* ContactViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"お問い合わせ内容" = "お問い合わせ内容";
+
+/* お問い合わせ内容を入力してください */
+"お問い合わせ内容を入力してください" = "お問い合わせ内容を入力してください";
+
+/* 入力したデータは保存されません。このページから移動しますか？ */
+"Are you sure you want to go back to the contact frequency screen without saving contents?" = "入力したデータは保存されません。\nこのページから移動しますか？";
+
+/* 移動する */
+"移動する" = "移動する";
+
+/* 画像を保存せずにお問い合わせ画面に戻りますか？ */
+"Are you sure you want to go back to the contact form screen without saving photo?" = "画像を保存せずにお問い合わせ画面に戻りますか？";
+
+/* お問い合わせを送信しました */
+"お問い合わせを送信しました" = "お問い合わせを送信しました";
+
+/* および振込無料チケット */
+"および振込無料チケット" = "および振込無料チケット";
+
+/* UserRegisterViewController.xib */
+"お互いに安心取引するために" = "お互いに安心取引するために";
+
+/* UserRegisterViewController.xib */
+"お互いに安心取引するために\nまずは会員登録をよろしくお願いします" = "お互いに安心取引するために\nまずは会員登録をよろしくお願いします";
+
+/* Contact.storyboard */
+"お客様番号・確認番号とは？" = "お客様番号・確認番号とは？";
+
+/* FullscreenImageViewController.xib, Search.storyboard */
+"削除" = "削除";
+
+/* 削除中 */
+"削除中" = "削除中";
+
+/* ErrorView.xib */
+"削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。" = "削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。";
+
+/* 削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？ */
+"削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？" = "削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？";
+
+"Delete this draft?" = "本当に削除しますか？";
+
+/* 半年以上前 */
+"半年以上前" = "半年以上前";
+
+/* LoginViewController.xib */
+"半角英数" = "半角英数";
+
+/* EmailPasswordSettingViewController.xib, EmailPasswordSettingViewController.xib, EmailPasswordSettingViewController.xib, LoginViewController.xib, UserRegisterViewController.xib */
+"半角英数6文字以上" = "半角英数6文字以上";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"手数料と価格の決め方" = "手数料と価格の決め方";
+
+/* 運用情報を確認 */
+"運用情報を確認" = "Twitterを確認";
+
+/* ButtonSectionHeaderView.xib, ButtonSectionHeaderView~ipad.xib, DetailListViewCell.xib, NewsListViewCell.xib, NewsListViewCell.xib */
+"Label" = "Label";
+
+/* 行為 */
+"行為" = "行為";
+
+/* 題名 */
+"題名" = "題名";
+
+/* Purchase.storyboard */
+"MM/YY" = "MM/YY";
+
+/* Setting.storyboard */
+"Master 下4桁1234 08/14  " = "Master 下4桁1234 08/14  ";
+
+/* 前回の情報を使う */
+"前回の情報を使う" = "前回の情報を使う";
+
+/* 配送先 */
+"配送先" = "配送先";
+
+/* ポイントを使用 */
+"ポイントを使用" = "ポイントを使用";
+
+/* 選択できません */
+"選択できません" = "選択できません";
+
+/* ポイントがあります */
+"ポイントがあります" = "ポイントがあります";
+
+/* ポイント使用の変更 */
+"ポイント使用の変更" = "ポイント使用の変更";
+
+/* 購入が完了しました！ */
+"購入が完了しました！" = "購入が完了しました";
+
+/* 買い物を続ける */
+"買い物を続ける" = "買い物を続ける";
+
+/* 全額ポイント */
+"全額ポイント" = "全額ポイント";
+
+/* 住所の変更 */
+"住所の変更" = "住所の変更";
+
+/* 住所の登録 */
+"住所の登録" = "住所の登録";
+
+/* 使用できるポイントを超えています */
+"使用できるポイントを超えています" = "使用できるポイントを超えています";
+
+/* 支払い代金を超えています */
+"支払い代金を超えています" = "支払い代金を超えています";
+
+/* カード番号を入力してください */
+"カード番号を入力してください" = "カード番号を入力してください";
+
+/* UsersAddressEditViewController.xib, Setting.storyboard */
+"住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。" = "住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。";
+
+/* 住所の確認 */
+"住所の確認" = "住所の確認";
+
+/* 配送先を設定してください */
+"配送先を設定してください" = "配送先を設定してください";
+
+/* 住所を登録中 */
+"住所を登録中" = "住所を登録中";
+
+/* Setting.storyboard */
+"住所" = "住所";
+
+/* 住所を変更しました */
+"住所を変更しました" = "住所を変更しました";
+
+/* 住所を確認中 */
+"住所を確認中" = "住所を確認中";
+
+/* 配送について */
+"Shipping" = "配送について";
+
+/* オプション */
+"Option" = "オプション";
+
+/* 配送のガイド */
+"配送のガイド" = "配送のガイド";
+
+/* 配送の方法 */
+"配送の方法" = "配送の方法";
+
+/* 配送料の負担 */
+"配送料の負担" = "配送料の負担";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"配送方法の種類" = "配送方法の種類";
+
+/* TimelineViewController.xib, TimelineViewController.xib, TimelineViewController~ipad.xib, TimelineViewController~ipad.xib */
+"N" = "N";
+
+/* <h1>過去に取引した商品がありません</h1> */
+"<h1>過去に取引した商品がありません</h1>" = "<h1>過去に取引した商品がありません</h1>";
+
+/* 過去の取引 */
+"過去の取引" = "過去の取引";
+
+/* No comment provided by engineer. */
+"Okay" = "Okay";
+
+/* No comment provided by engineer. */
+"Only %d photos please!" = "Only %d photos please!";
+
+/* Setting.storyboard, Setting.storyboard, Setting.storyboard, Setting.storyboard */
+"P 0" = "P 0";
+
+/* Purchase.storyboard */
+"P 1,000" = "P 1,000";
+
+/* Purchase.storyboard, Purchase.storyboard */
+"P 100" = "P 100";
+
+/* EmailPasswordSettingViewController.xib, FacebookRegisterViewController.xib, LoginViewController.xib, UserRegisterViewController.xib */
+"PC・携帯どちらでも可" = "PC・携帯どちらでも可";
+
+/* PhoneNumberAuth.storyboard */
+"SMSで届いた認証番号を入力してください" = "SMSで届いた認証番号を入力してください";
+
+/* PhoneNumberAuth.storyboard */
+"SMSの受信拒否設定について確認する" = "SMSの受信拒否設定について確認する";
+
+/* NotificationListViewController.xib */
+"ここでは、いいね！やコメントされた時などメルカリ内での新着情報が表示されます" = "ここでは、いいね！やコメントされた時などメルカリ内での新着情報が表示されます";
+
+/* NotificationListViewController.xib */
+"ここでは、取引上であなたにやって欲しいことが表示されます\n（例：発送してください）" = "This list will show actions that must be taken in order to proceed with your transactions (e.g. Please ship your item).";
+
+/* こちらの振込先で登録してよろしいですか？ */
+"こちらの振込先で登録してよろしいですか？" = "こちらの振込先で登録してよろしいですか？";
+
+/* この検索条件を保存しました */
+"この検索条件を保存しました" = "この検索条件を保存しました";
+
+/* この検索条件を保存する */
+"この検索条件を保存する" = "この検索条件を保存する";
+
+/* この振込申請をキャンセルしてよろしいですか？売上金%@は戻されます。 */
+"この振込申請をキャンセルしてよろしいですか？売上金%@は戻されます。" = "この振込申請をキャンセルしてよろしいですか？売上金%@は戻されます。";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"この商品を削除する" = "この商品を削除する";
+
+/* この条件はすでに保存しています */
+"この条件はすでに保存しています" = "この条件はすでに保存しています";
+
+/* Search.storyboard */
+"この条件を保存" = "この条件を保存";
+
+/* Setting.storyboard */
+"このカード情報を消去" = "このカード情報を消去";
+
+/* このページは存在しません */
+"このページは存在しません" = "このページは存在しません";
+
+/* 当座預金 */
+"当座預金" = "当座預金";
+
+/* Exhibit.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard, Exhibit_iPad.storyboard, Setting.storyboard, Setting.storyboard */
+"Title" = "Title";
+
+/* Contact.storyboard */
+"ご確認いただいても解決しない場合は、お問い合わせフォームに必要事項を記載いただきお問い合わせください。" = "ご確認いただいても解決しない場合は、お問い合わせフォームに必要事項を記載いただきお問い合わせください。";
+
+/* ProfileHeaderViewCell.xib */
+"評価" = "評価";
+
+/* 評価一覧 */
+"評価一覧" = "評価一覧";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, ProfileHeaderReviewViewCell.xib */
+"評価：" = "評価：";
+
+/* 評価待ち */
+"評価待ち" = "評価待ち";
+
+/* Contact.storyboard */
+"評価を変更したい" = "評価を変更したい";
+
+/* Contact.storyboard, Contact.storyboard */
+"違反の種類" = "違反の種類";
+
+/* 違反の種類 : %@\n */
+"違反の種類 : %@\n" = "違反の種類 : %@\n";
+
+/* 違反の種類を選択してください */
+"違反の種類を選択してください" = "違反の種類を選択してください";
+
+/* VISAかMasterCardのカード番号を入力してください */
+"VISAかMasterCardのカード番号を入力してください" = "VISAかMasterCardのカード番号を入力してください";
+
+/* No comment provided by engineer. */
+"You can only send %d photos at a time." = "You can only send %d photos at a time.";
+
+/* すでにFacebookを利用して会員登録済みです。ログインします */
+"すでにFacebookを利用して会員登録済みです。ログインします" = "すでにFacebookを利用して会員登録済みです。ログインします";
+
+/* すべて */
+"すべて" = "すべて";
+
+/* すべてのコメントを見る */
+"すべてのコメントを見る" = "すべてのコメントを見る";
+
+/* すべてのポイントを利用 */
+"すべてのポイントを利用" = "すべてのポイントを利用";
+
+/* Purchase.storyboard */
+"すべてのポイントを使う" = "すべてのポイントを使う";
+
+/* その他 */
+"その他" = "その他";
+
+/* Contact.storyboard */
+"その他のトラブル" = "その他のトラブル";
+
+/* 機能の要望 */
+"機能の要望" = "機能の要望";
+
+/* Contact.storyboard */
+"機能の要望ありがとうございます" = "機能の要望ありがとうございます";
+
+/* 機能要望 */
+"機能要望" = "機能要望";
+
+/* Setting.storyboard */
+"api" = "api";
+
+/* 入力中のデータがあります。そこから再開しますか？ */
+"入力中のデータがあります。そこから再開しますか？" = "入力中のデータがあります。そこから再開しますか？";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"入力された情報から禁止されている行為・出品物に当たると判断されたため出品できません。" = "入力された情報から禁止されている行為・出品物に当たると判断されたため出品できません。";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"入力された情報から禁止されている行為・出品物に当たる可能性があります。" = "入力された情報から禁止されている行為・出品物に当たる可能性があります。";
+
+/* 入力されていない項目があります */
+"入力されていない項目があります" = "入力されていない項目があります";
+
+/* UserRegisterViewController.xib */
+"facebookを利用して登録" = "facebookを利用して登録";
+
+/* LoginViewController.xib */
+"facebookを利用してログイン" = "facebookを利用してログイン";
+
+/* Setting.storyboard */
+"frontend" = "frontend";
+
+/* Setting.storyboard */
+"guide" = "guide";
+
+/* 全額ポイント払い */
+"全額ポイント払い" = "全額ポイント払い";
+
+/* どのような商品が報告対象になるか下記のリンクに記載されています。お読みになってから、フォームよりご連絡ください。 */
+"どのような商品が報告対象になるか下記のリンクに記載されています。お読みになってから、フォームよりご連絡ください。" = "どのような商品が報告対象になるか下記のリンクに記載されています。お読みになってから、フォームよりご連絡ください。";
+
+/* ImageClipViewController.xib */
+"適用" = "適用";
+
+/* UsersAddressEditViewController.xib, Setting.storyboard */
+"番地" = "番地";
+
+/* 番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。 */
+"番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。" = "番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。";
+
+/* 建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所に変更してよろしいですか？ */
+"建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所に変更してよろしいですか？" = "建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所に変更してよろしいですか？";
+
+/* 建物名に数字(部屋番号)が入力されていませんが、以下の住所に変更してよろしいですか？ */
+"建物名に数字(部屋番号)が入力されていませんが、以下の住所に変更してよろしいですか？" = "建物名に数字(部屋番号)が入力されていませんが、以下の住所に変更してよろしいですか？";
+
+/* 公開停止中 */
+"公開停止中" = "公開停止中";
+
+/* My Addresses */
+"My Addresses" = "住所一覧";
+
+/* Add new shipping address */
+"Add new address" = "新しい住所を登録";
+"Add new facility" = "新しい受取場所を登録";
+
+/* Your address will not be changed for purchases that are currently in progress.\n\nTo change your address for a purchase in progress, please contact us through the Help Center. */
+"Your address will not be changed for purchases that are currently in progress.\n\nTo change your address for a purchase in progress, please contact us through the Help Center." = "取引中の商品のお届け先は変更されません。変更が必要な場合、取引メッセージで出品者に連絡してください。";
+
+/* Your address will not be changed for purchases that are currently in progress */
+"Your address will not be changed for purchases that are currently in progress" = "取引中の商品のお届け先は変更されません。変更が必要な場合、取引メッセージで出品者に連絡してください。";
+
+/* ContactViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"mercari.jpのドメイン指定方法" = "mercari.jpのドメイン指定方法";
+
+/* UserRegisterViewController.xib */
+"mercari.jpのドメイン指定解除方法" = "mercari.jpのドメイン指定解除方法";
+
+/* SideMenuViewController.xib */
+"のぞみん" = "のぞみん";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"のぞみんのぞみん のぞみんのぞみん ☆プロフィール必読☆" = "のぞみんのぞみん のぞみんのぞみん ☆プロフィール必読☆";
+
+/* 普通 */
+"普通" = "普通";
+
+/* 普通預金 */
+"普通預金" = "普通預金";
+
+/* ReviewListViewController.xib */
+"普通：" = "普通：";
+
+/* LoginViewController.xib, UserRegisterViewController.xib */
+"or" = "or";
+
+/* はい */
+"はい" = "はい";
+
+/* 良い */
+"良い" = "良い";
+
+/* ReviewListViewController.xib */
+"良い：" = "良い：";
+
+/* 良い/普通 */
+"良い/普通" = "良い/普通";
+
+/* <h1>評価はまだありません</h1> */
+"<h1>評価はまだありません</h1>" = "<h1>評価はまだありません</h1>";
+
+/* ProductDetailViewController~ipad.xib */
+"ぱんだしゃちょうほげほげああああ" = "ぱんだしゃちょうほげほげああああ";
+
+/* SearchViewNoResultViewCell.xib */
+"該当する商品が見つかりません。<br/>商品は毎日増えていますので、これからの出品に期待してください。" = "該当する商品が見つかりません。<br/>商品は毎日増えていますので、これからの出品に期待してください。";
+
+/* 該当する商品は削除されています */
+"該当する商品は削除されています" = "該当する商品は削除されています";
+
+/* 該当する商品は公開されていません */
+"該当する商品は公開されていません" = "該当する商品は公開されていません";
+
+/* 詳細検索 */
+"詳細検索" = "絞り込み";
+
+/* or (no search result) */
+"or(no search result)" = "or";
+
+/* You can also try adjusting your %@ for better results. */
+"You can also try adjusting your %@ for better results." = "%@";
+
+/* 詳細検索でさがす */
+"Search.Change.Filter" = "検索条件を変更する";
+
+/* ¥ */
+"¥" = "¥";
+
+/* Contact.storyboard */
+"詳しい理由" = "詳しい理由";
+
+/* Setting.storyboard */
+"v1.0" = "v1.0";
+
+/* 選択してください */
+"選択してください" = "選択してください";
+
+/* 選択しない */
+"選択しない" = "選択しない";
+
+/* Purchase.storyboard */
+"決済手数料" = "決済手数料";
+
+/* Purchase.storyboard, Purchase.storyboard */
+"決定" = "決定";
+
+/* ProductEditViewController */
+"ProductEditViewController.Row.RequiredPlaceholder" = "(必須)";
+"ProductEditViewController.Row.OptionalPlaceholder" = "(任意)";
+"ProductEditViewController.Shipping.Header" = "配送について";
+"ProductEditViewController.Shipping.Payer" = "配送料の負担";
+"ProductEditViewController.Shipping.Method" = "配送の方法";
+"ProductEditViewController.Shipping.Origin" = "発送元の地域";
+"ProductEditViewController.Shipping.DeliveryTime" = "発送までの日数";
+"ProductEditViewController.Price.Header" = "販売価格 (%1$@〜%2$@)"; // minPrice, maxPrice
+"ProductEditViewController.Alert.DeleteConfirmation.Message" = "削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？";
+
+/* NetworkLimitationCheckViewController */
+"NetworkLimitationCheck.SaveToClipboard.Success" = "コピーしました";
+"NetworkLimitationCheck.CopyDescription" = "＊長押しでコピー";
+"NetworkLimitationCheck.FirstDescription.Check" = "① 出品する端末のIMEI番号を確認";
+"NetworkLimitationCheck.FirstDescription.Copy" = "① 出品する端末のIMEI番号をコピー";
+"NetworkLimitationCheck.Limitation.Unselected" = "未選択";
+"NetworkLimitationCheck.Listing.Enabled" = "（出品可能）";
+"NetworkLimitationCheck.Listing.Disabled" = "（出品不可）";
+"NetworkLimitationCheck.Error.ListingDisabled" = "『△』『×』の商品は出品できません";
+
+/* 発送元の地域 */
+"発送元の地域" = "発送元の地域";
+
+/* 発送するまでの日数 */
+"発送するまでの日数" = "発送までの日数";
+
+/* 発送されるまでの日数 */
+"発送されるまでの日数" = "発送までの日数";
+
+/* Contact.storyboard */
+"発送までの日数を過ぎても発送されない" = "発送までの日数を過ぎても発送されない";
+
+/* 発送待ち */
+"発送待ち" = "発送待ち";
+
+/* 発送・受取・評価について */
+"発送・受取・評価について" = "発送・受取・評価について";
+
+/* Contact.storyboard */
+"発生頻度（必須）" = "発生頻度（必須）";
+
+/* 発生頻度 : %@\n */
+"発生頻度 : %@\n" = "発生頻度 : %@\n";
+
+/* 発生頻度を選択してください */
+"発生頻度を選択してください" = "発生頻度を選択してください";
+
+/* Contact.storyboard */
+"発生日時（必須）" = "発生日時（必須）";
+
+/* 発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況： */
+"発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況：" = "発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況：";
+
+/* 発生日時 : %@\n */
+"発生日時 : %@\n" = "発生日時 : %@\n";
+
+/* 発生日時を選択してください */
+"発生日時を選択してください" = "発生日時を選択してください";
+
+/* Purchase.storyboard */
+"ほげほげタルトキーホルダーかわいいほげほげあいうえお" = "ほげほげタルトキーホルダーかわいいほげほげあいうえお";
+
+/* 登録 */
+"登録" = "登録";
+
+/* 登録中 */
+"登録中" = "登録中";
+
+/* 登録中のクレジットカード情報 */
+"登録中のクレジットカード情報" = "登録中のクレジットカード情報";
+
+/* 登録する */
+"登録する" = "登録する";
+
+/* 登録をして出品する */
+"登録をして出品する" = "登録をして出品する";
+
+/* 登録をして購入する */
+"登録をして購入する" = "登録をして購入する";
+
+/* Contact.storyboard */
+"偽物が届いた" = "偽物が届いた";
+
+/* 偽ブランドの販売 */
+"偽ブランドの販売" = "偽ブランドの販売";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"偽ブランド品の禁止" = "偽ブランド品の禁止";
+
+/* Contact.storyboard */
+"まずは、ガイドとよくある質問をお読みください" = "まずは、ガイドとよくある質問をお読みください";
+
+/* Contact.storyboard */
+"ガイドとよくある質問" = "ガイドとよくある質問";
+
+/* Contact.storyboard */
+"送信する" = "送信する";
+
+/* Contact.storyboard */
+"退会に関するガイドを確認しました" = "退会に関するガイドを確認しました";
+
+/* Contact.storyboard */
+"退会に関するガイド" = "退会に関するガイド";
+
+/* UserRegisterViewController.xib */
+"まずは会員登録をよろしくお願いします" = "まずは会員登録をよろしくお願いします";
+
+/* <h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p> */
+"<h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p>" = "<h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p>";
+
+/* <h1>まだ閲覧した商品がありません</h1> */
+"<h1>まだ閲覧した商品がありません</h1>" = "<h1>まだ閲覧した商品がありません</h1>";
+
+/* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
+"みつばちさんと白い花" = "みつばちさんと白い花";
+
+/* 使い方がわからない */
+"使い方がわからない" = "使い方がわからない";
+
+/* Purchase.storyboard */
+"使うポイントを入力" = "使うポイントを入力";
+
+/* 使えるポイントがあります */
+"使えるポイントがあります" = "使えるポイントがあります";
+
+/* 使わない */
+"使わない" = "使わない";
+
+/* 銀行名 */
+"銀行名" = "銀行名";
+
+/* 銀行の選択 */
+"銀行の選択" = "銀行の選択";
+
+/* 銀行を選択してください */
+"銀行を選択してください" = "銀行を選択してください";
+
+/* 禁止されている商品 */
+"禁止されている商品" = "禁止されている商品";
+
+/* 禁止されている行為 */
+"禁止されている行為" = "禁止されている行為";
+
+/* Contact.storyboard */
+"禁止されている行為について" = "禁止されている行為について";
+
+/* 禁止されている出品 */
+"禁止されている出品" = "禁止されている出品";
+
+/* html.warning.exhibit */
+"html.warning.exhibit" = "禁止されている<a href=\"getting_started/prohibited_conduct\">行為</a>および<a href=\"getting_started/prohibited_items\">出品物</a>を必ずご確認ください。<a href=\"getting_started/counterfeit_goods\">偽ブランド品</a>や<a href=\"getting_started/report_counterfeit_goods\">盗難品</a>などの販売は犯罪であり、法律により処罰される可能性があります。";
+
+"html.warning.exhibit.kyc" = "禁止されている<a href=\"getting_started/prohibited_conduct\">行為</a>および<a href=\"getting_started/prohibited_items\">出品物</a>を必ずご確認ください。<a href=\"getting_started/counterfeit_goods\">偽ブランド品</a>や<a href=\"getting_started/report_counterfeit_goods\">盗難品</a>などの販売は犯罪であり、法律により処罰される可能性があります。また、出品をもちまして<a href=\"jp/seller_terms\">加盟店規約</a>に同意したことになります。";
+
+/* html.warning.kauru_product */
+"html.warning.kauru_product" = "この商品は、姉妹アプリ「メルカリ カウル」にも表示されます。詳細は<a href=\"article/496\">ガイドより</a>ご確認ください。";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"禁止されている出品物" = "禁止されている出品物";
+
+/* Contact.storyboard */
+"禁止されている出品物について" = "禁止されている出品物について";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"禁止出品物" = "禁止出品物";
+
+/* CommentBalloonView.xib */
+"もっと読む" = "もっと読む";
+
+/* やることリスト */
+"やることリスト" = "To Do List";
+
+/* 内容 */
+"内容" = "内容";
+
+/* 内容に同意したらチェックを２つ入れてください */
+"内容に同意したらチェックを２つ入れてください" = "内容に同意したらチェックを２つ入れてください";
+
+/* 内部エラーが発生しました */
+"内部エラーが発生しました" = "内部エラーが発生しました";
+
+/* ゆうちょ銀行に振り込むには？ */
+"ゆうちょ銀行に振り込むには？" = "ゆうちょ銀行に振り込むには？";
+
+/* Contact.storyboard */
+"ゆうちょ銀行の振込申請について" = "ゆうちょ銀行の振込申請について";
+
+/* Contact.storyboard */
+"When will it be transfered？" = "いつ振り込まれるんですか？";
+
+/* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"よくあるお問い合わせ" = "よくあるお問い合わせ";
+
+/* Contact.storyboard */
+"よくある質問" = "よくある質問";
+
+/* よくある質問と答え */
+"よくある質問と答え" = "よくある質問と答え";
+
+/* よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。 */
+"よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。" = "よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。";
+
+/* FullscreenImageViewController.xib, Purchase.storyboard */
+"閉じる" = "閉じる";
+
+/* 事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。 */
+"事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。" = "事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。";
+
+/* Contact.storyboard */
+"事務局にて確認し、回答いたします。\n\n現在、お問い合わせが多く寄せられており、調査などを含めますと返信まで数日かかる場合もございます。\n大変申し訳ありませんが、いましばらくお待ちください。\n\n※サポート時間短縮に向けて現在体制づくりをしております" = "事務局にて確認し、回答いたします。\n\n現在、お問い合わせが多く寄せられており、調査などを含めますと返信まで数日かかる場合もございます。\n大変申し訳ありませんが、いましばらくお待ちください。\n\n※サポート時間短縮に向けて現在体制づくりをしております";
+
+/* 事務局によるキャンセル */
+"事務局によるキャンセル" = "事務局によるキャンセル";
+
+/* Setting.storyboard */
+"例）横浜市緑区" = "例）横浜市緑区";
+
+/* Setting.storyboard */
+"例）09012345678" = "例）09012345678";
+
+/* Setting.storyboard */
+"例）1234567" = "例）1234567";
+
+/* FacebookRegisterViewController.xib, ProfileEditViewController.xib, UserRegisterViewController.xib */
+"例）AYA☆セール中" = "例）AYA☆セール中";
+
+/* Setting.storyboard */
+"例）青山 1-1-1" = "例）青山 1-1-1";
+
+/* Setting.storyboard */
+"例）彩" = "例）彩";
+
+/* Setting.storyboard */
+"例）山田" = "例）山田";
+
+/* Setting.storyboard */
+"例）アヤ" = "例）アヤ";
+
+/* 例）データが取得出来ません */
+"例）データが取得出来ません" = "例）データが取得できません";
+
+/* 例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。 */
+"例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。" = "例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。";
+
+/* Setting.storyboard */
+"例）ヤマダ" = "例）ヤマダ";
+
+/* Setting.storyboard */
+"例）柳ビル 103" = "例）柳ビル 103";
+
+/* 例) %@ */
+"例) %@" = "例) %@";
+
+/* UsersAddressEditViewController.xib */
+"例) 横浜市緑区" = "例) 横浜市緑区";
+
+/* UsersAddressEditViewController.xib */
+"例) 09012345678" = "例) 09012345678";
+
+/* 例) 123 (数字3桁) */
+"例) 123 (数字3桁)" = "例) 123 (数字3桁)";
+
+/* UsersAddressEditViewController.xib */
+"例) 1234567" = "例) 1234567";
+
+/* 例) 1234567 (数字7桁) */
+"例) 1234567 (数字7桁)" = "例) 1234567 (数字7桁)";
+
+/* UsersAddressEditViewController.xib */
+"例) 青山 1-1-1" = "例) 青山 1-1-1";
+
+/* UsersAddressEditViewController.xib */
+"例) 彩" = "例) 彩";
+
+/* UsersAddressEditViewController.xib */
+"例) 山田" = "例) 山田";
+
+/* 例) アヤ */
+"例) アヤ" = "例) アヤ";
+
+/* 例) ヤマダ */
+"例) ヤマダ" = "例) ヤマダ";
+
+/* UsersAddressEditViewController.xib */
+"例) 柳ビル 103" = "例) 柳ビル 103";
+
+/* 残さない */
+"残さない" = "残さない";
+
+/* 残す */
+"残す" = "残す";
+
+/* 完了 */
+"完了" = "完了";
+"Word.Done" = "完了";
+
+/* PhoneNumberAuth.storyboard */
+"認証して完了" = "認証して完了";
+
+/* PhoneNumberAuth.storyboard */
+"認証番号" = "認証番号";
+
+/* 認証番号を送信しました */
+"認証番号を送信しました" = "認証番号を送信しました";
+
+/* 認証番号を入力してください */
+"認証番号を入力してください" = "認証番号を入力してください";
+
+/* PhoneNumberAuth.storyboard */
+"認証番号を再送" = "認証番号を再送";
+
+/* 認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。 */
+"認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。" = "認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。";
+
+/* 福袋（中身が不明のセット） */
+"福袋（中身が不明のセット）" = "福袋（中身がわからないセット）";
+
+/* アダルト商品 */
+"アダルト商品" = "アダルト商品";
+
+/* クリップボードにコピーしました */
+"クリップボードにコピーしました" = "クリップボードにコピーしました";
+
+/* 準備中 */
+"準備中" = "準備中";
+
+/* 写真 */
+"写真" = "写真";
+
+/* 写真にアクセスできません */
+"写真にアクセスできません" = "写真にアクセスできません";
+
+/* FullscreenImageViewController.xib */
+"写真の編集" = "写真の編集";
+
+/* 写真選択 */
+"写真選択" = "写真選択";
+
+/* 写真を削除してもよろしいですか？ */
+"写真を削除してもよろしいですか？" = "写真を削除してもよろしいですか？";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"続けて出品" = "続けて出品";
+
+/* Search.storyboard */
+"価格" = "価格";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"価格の決め方" = "価格の決め方";
+
+/* 価格を正しく入力してください */
+"価格を正しく入力してください" = "価格を正しく入力してください";
+
+/* アカウント情報を確認中 */
+"アカウント情報を確認中" = "アカウント情報を確認中";
+
+/* Setting.storyboard */
+"アップデート" = "アップデート";
+
+/* アップデートのお知らせ */
+"アップデートのお知らせ" = "アップデートのお知らせ";
+
+/* Contact.storyboard */
+"アプリが落ちる" = "アプリが落ちる";
+
+/* Contact.storyboard */
+"アプリの動作が不安定な場合は端末の再起動やアプリのアップデートで直る場合がありますので、お試しいただいてからお問い合わせください。" = "アプリの動作が不安定な場合は端末の再起動やアプリのアップデートで直る場合がありますので、お試しいただいてからお問い合わせください。";
+
+/* Setting.storyboard */
+"アプリケーション情報" = "アプリケーション情報";
+
+/* 関連する商品名 : %@\n */
+"関連する商品名 : %@\n" = "関連する商品名 : %@\n";
+
+/* Contact.storyboard */
+"関係する商品名" = "関係する商品名";
+
+/* 宣伝、探し物 */
+"宣伝、探し物" = "宣伝・探し物";
+
+/* インテリア・雑貨 */
+"インテリア・雑貨" = "インテリア・雑貨";
+
+/* 交換中 */
+"交換中" = "交換中";
+
+/* Setting.storyboard */
+"交換前" = "交換前";
+
+/* Setting.storyboard */
+"交換額" = "交換額";
+
+/* 交換額には0より大きい数を入力してください */
+"交換額には0より大きい数を入力してください" = "交換額には0より大きい数を入力してください";
+
+/* Setting.storyboard */
+"交換後" = "交換後";
+
+/* ProductDetailViewController~ipad.xib */
+"¥1,500" = "¥1,500";
+
+/* Search.storyboard */
+"¥100,000" = "¥100,000";
+
+/* Search.storyboard */
+"¥300" = "¥300";
+
+/* エラー */
+"エラー" = "エラー";
+"Error" = "エラー";
+
+/* エンタメ */
+"エンタメ" = "エンタメ";
+
+/* 販売利益 */
+"販売利益" = "販売利益";
+
+/* 販売中 */
+"販売中" = "販売中";
+
+/* 販売手数料 */
+"販売手数料" = "販売手数料";
+
+/* 販売手数料 (%@) */
+"販売手数料 (%@)" = "販売手数料 (%@)";
+
+/* 販売手数料 (%d%%) */
+"販売手数料 (%d%%)" = "販売手数料 (%d%%)";
+
+/* ProductEditViewController */
+"Save Draft Confirm" = "はい";
+"Save Change Confirm" = "はい";
+"Don't Save Confirm" = "いいえ";
+"ProductEditViewController.SmartphoneGuidedFlowButton.Title" = "スマホの機種を選択する";
+"ProductEditViewController.EntertainmentGuidedFlowButton.Title" = "バーコードでかんたん入力";
+"ProductEditViewController.AlertAction.Barcode" = "バーコードで出品（本など）";
+"ProductEditViewController.AlertController.OpenKauru.Title" = "メルカリ カウルを起動しますか?";
+"ProductEditViewController.AlertController.KauruAppStore.Title" = "App Storeを起動しますか?";
+"ProductEditViewController.AlertController.KauruCampaignPage.Title" = "キャンペーンページに移動しますか?";
+"ProductEditViewController.PriceSectionFooter.LargeShipping" = "※上記の金額に送料が加算されます";
+"ProductEditViewController.PriceSectionFooter.Relist" = "※購入価格より高く設定することは出来ません（購入価格：%@）"; // original price
+"ProductEditViewController.Error.RelistPrice" = "購入商品から出品では購入時よりも高い価格をつけることはできません";
+"ProductEditViewController.CategorySectionHeader.Title" = "商品のカテゴリー";
+"ProductEditImagesSelectView.BarcodeCamera.Title" = "バーコードにカメラをかざしてください\n（本・CD/DVD/BD・ゲームソフトのみ）";
+"ProductEditViewController.OptionFee.Title" = "オプション料金";
+"ProductEditViewController.TOS.Title" = "あんしんスマホサポートご利用の場合は、以下確認をお願いします。";
+"ProductEditViewController.TOS.Description" = "あんしんスマホサポート<a href=\"https://www.mercari.com/jp/tos_smartphone_support/\">利用特約</a>に同意する";
+"ProductEditImagesSelectView.BarcodeCamera.Title" = "バーコードにカメラをかざしてください\n（本・CD/DVD/BD・ゲームソフトのみ）";
+"ProductEditViewController.AlertController.LargeShipment.Title" = "発送元の住所に不備がある場合、商品の取引ができない可能性があります。以下の住所で出品しますか？\n\n%@";
+
+/* Exhibit.storyboard */
+
+"Save Draft" = "下書きに保存";
+
+/* Exhibit.storyboard */
+
+"Save Changes" = "上書き保存";
+
+"Save changes to draft?" = "上書き保存しますか？";
+
+/* Exhibit.storyboard */
+
+"Delete this Draft" = "削除";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"販売手数料 (10%)" = "販売手数料 (10%)";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"販売手数料 (プレオープン中)" = "販売手数料 (プレオープン中)";
+
+/* DraftItemsListViewController.storyboard */
+
+"Drafts" = "下書き一覧";
+
+"Create New Listing" = "新しく出品する";
+
+"No Draft!" = "下書き中の商品がありません";
+
+/* 販売手数料(10%) */
+"販売手数料(10%)" = "販売手数料(10%)";
+
+/* 販売価格 */
+"販売価格" = "販売価格";
+
+/* 販売価格 (300〜100,000) */
+"販売価格 (300〜100,000)" = "販売価格 (300〜100,000)";
+
+/* 販売価格は%1$@〜%2$@円の範囲で入力してください */
+"販売価格は%1$@〜%2$@円の範囲で入力してください" = "販売価格は%1$@〜%2$@円の範囲で入力してください";
+
+/* 販売価格は300〜100,000円の範囲で入力してください */
+"販売価格は300〜100,000円の範囲で入力してください" = "販売価格は300〜100,000円の範囲で入力してください";
+
+/* Contact.storyboard */
+"販売価格を変更したい" = "販売価格を変更したい";
+
+/* Shipping methods */
+"shipping_method.title" = "配送オプション";
+"shipping_method.all" = "すべての配送オプション";
+"shipping_method.anonymous" = "匿名配送";
+"shipping_method.japan_post" = "郵便局/コンビニ受取";
+"shipping_method.no_option" = "オプションなし";
+
+/* 販売状況 */
+"販売状況" = "販売状況";
+
+/* 販売代金の受取 */
+"販売代金の受取" = "販売代金の受取";
+
+/* 販売代金の受取について */
+"販売代金の受取について" = "販売代金の受取について";
+
+/* 悪い */
+"悪い" = "悪い";
+
+/* ReviewListViewController.xib */
+"悪い：" = "悪い：";
+
+/* カテゴリー */
+"カテゴリー" = "カテゴリー";
+
+/* Search.storyboard */
+"カテゴリーからさがす" = "カテゴリーからさがす";
+
+/* Search.storyboard */
+"ブランドからさがす" = "ブランドからさがす";
+
+/* SquareCameraViewController.xib, SquareCameraViewController~ipad.xib */
+"カメラが搭載されていません\n左下のボタンから写真を選んでください" = "カメラが搭載されていません\n左下のボタンから写真を選んでください";
+
+/* Purchase.storyboard */
+"カード番号" = "カード番号";
+
+/* カード番号が%d桁ではありません */
+"カード番号が%d桁ではありません" = "カード番号が%d桁ではありません";
+
+/* カード番号が正しくありません */
+"カード番号が正しくありません" = "カード番号が正しくありません";
+
+/* Purchase.storyboard */
+"カード情報" = "カード情報";
+
+/* カード情報を消去しました */
+"カード情報を消去しました" = "カード情報を消去しました";
+
+/* ガイド */
+"ガイド" = "Help Center";
+
+/* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"ガイドへ" = "ガイドへ";
+
+/* Contact.storyboard */
+"説明文と違う商品が届いた" = "説明文と違う商品が届いた";
+
+/* キャッシュの消去 */
+"キャッシュの消去" = "キャッシュの消去";
+
+/* キャッシュを消去しました */
+"キャッシュを消去しました" = "キャッシュを消去しました";
+
+/* Setting.storyboard */
+"キャッシュを消去する" = "キャッシュを消去する";
+
+/* キャンセル */
+"キャンセル" = "キャンセル";
+
+/* Search.storyboard */
+"キーワード" = "キーワード";
+
+/* SearchBarView.xib, Search.storyboard */
+"キーワードからさがす" = "キーワードからさがす";
+
+/* ProductCollectionNextViewCell.xib, ProductListNextViewCell.xib */
+"読み込み中…" = "読み込み中…";
+
+/* Contact.storyboard */
+"読んでも解決しないのでお問い合わせをする" = "読んでも解決しないのでお問い合わせをする";
+
+/* Search.storyboard */
+"クリア" = "クリア";
+
+/* クレジットカード */
+"クレジットカード" = "クレジットカード";
+
+/* Purchase.storyboard */
+"クレジットカード （手数料 ￥0）" = "クレジットカード （手数料 ￥0）";
+
+/* クレジットカード支払い */
+"クレジットカード支払い" = "クレジットカード支払い";
+
+/* クレジットカード入力 */
+"クレジットカード入力" = "クレジットカード入力";
+
+/* Purchase.storyboard */
+"クレジットカードを変更" = "クレジットカードを変更";
+
+/* クレジットカードを設定してください */
+"クレジットカードを設定してください" = "クレジットカードを設定してください";
+
+/* クレジットカードを追加しました */
+"クレジットカードを追加しました" = "クレジットカードを追加しました";
+
+/* クレジットカード情報 */
+"クレジットカード情報" = "クレジットカード情報";
+
+/* クレジットカード情報を確認中 */
+"クレジットカード情報を確認中" = "クレジットカード情報を確認中";
+
+/* 貯蓄預金 */
+"貯蓄預金" = "貯蓄預金";
+
+/* EmailPasswordSettingViewController.xib */
+"新パスワード" = "新パスワード";
+
+/* EmailPasswordSettingViewController.xib */
+"新パスワード (確認)" = "新パスワード (確認)";
+
+/* 新パスワードが一致しません */
+"新パスワードが一致しません" = "新パスワードが一致しません";
+
+/* 新パスワードが未入力です */
+"新パスワードが未入力です" = "新パスワードが未入力です";
+
+/* 新パスワードは6文字以上15文字以下です */
+"新パスワードは6文字以上15文字以下です" = "新パスワードは6文字以上15文字以下です";
+
+/* Digital item */
+"Digital item" = "Digital item";
+
+/* コスメ・美容 */
+"コスメ・美容" = "コスメ・美容";
+
+/* コメント */
+"コメント" = "コメント";
+
+/* Comment (ProductDetailViewController) */
+"Comment" = "コメント";
+
+/* コメント %@ */
+"コメント %@" = "コメント %@";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"コメント 0" = "コメント 0";
+
+/* コメントする */
+"コメントする" = "コメントする";
+
+/* コメントの報告 */
+"コメントの報告" = "コメントの報告";
+
+/* Contact.storyboard */
+"コメントの報告ありがとうございます" = "コメントの報告ありがとうございます";
+
+/* コメントは1,000文字以内です */
+"コメントは1,000文字以内です" = "コメントは1,000文字以内です";
+
+/* コンタクトレンズ・カラコン */
+"コンタクトレンズ・カラコン" = "医薬品・医療品";
+
+/* コンビニ/ATM */
+"コンビニ/ATM" = "コンビニ/ATM";
+
+/* Purchase.storyboard */
+"コンビニ/ATM （手数料 ￥100）" = "コンビニ/ATM （手数料 ￥100）";
+
+/* コンビニ・ATM支払い */
+"コンビニ・ATM支払い" = "コンビニ・ATM支払い";
+
+/* 暴言・脅迫 */
+"暴言・脅迫" = "暴言・脅迫";
+
+/* サイズ */
+"サイズ" = "サイズ";
+
+/* サーバーにつながりにくい状況が発生しております。ご迷惑をおかけしますが、しばらくお待ちいただいてからアプリをご利用ください。\n\n最新の運用情報をTwitterのメルカリアカウントで配信しておりますのでご確認ください。 */
+"Comment.Server.Disconnect" = "ご迷惑をおかけし申し訳ございません。\nサーバーにつながりにくい状況が発生しております。\n恐れ入りますが、復旧までしばらくお待ちください。\n\nTwitterのメルカリアカウントで進展をご案内させて頂く場合もございますので、併せてご確認ください。";
+
+/* 家電・スマホ */
+"家電・スマホ" = "家電・スマホ";
+
+/* システムエラーです。管理者にお問い合わせ下さい */
+"システムエラーです。管理者にお問い合わせ下さい" = "サーバーにつながりにくい状況が発生しております。ご迷惑をおかけしますが、しばらくお待ちいただいてからアプリをご利用ください。";
+
+/* 買いたい商品がない */
+"買いたい商品がない" = "買いたい商品がない";
+
+/* スポーツ・レジャー */
+"スポーツ・レジャー" = "スポーツ・レジャー";
+
+/* 誹謗中傷 */
+"誹謗中傷" = "誹謗中傷";
+
+/* 確認 */
+"確認" = "確認";
+
+/* Setting.storyboard */
+"確認済み" = "確認済み";
+
+/* Purchase.storyboard */
+"セキュリティコード" = "セキュリティコード";
+
+/* Purchase.storyboard */
+"セキュリティコードとは？" = "セキュリティコードとは？";
+
+/* セキュリティコードを入力してください */
+"セキュリティコードを入力してください" = "セキュリティコードを入力してください";
+
+/* Purchase.storyboard, Purchase.storyboard */
+"必須" = "必須";
+
+/* データを取得できませんでした。しばらくしてからお試しください。 */
+"データを取得できませんでした。しばらくしてからお試しください。" = "データを取得できませんでした。しばらくしてからお試しください。";
+
+/* トラブルがあった */
+"トラブルがあった" = "トラブルがあった";
+
+/* Contact.storyboard */
+"トラブルがあった / その他" = "トラブルがあった / その他";
+
+/* Contact.storyboard */
+"トラブルがあった / 出品者側" = "トラブルがあった / 出品者側";
+
+/* Contact.storyboard */
+"トラブルがあった / 購入者側" = "トラブルがあった / 購入者側";
+
+/* トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。 */
+"トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。" = "トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。";
+
+/* 今後、表示しない */
+"今後、表示しない" = "今後、表示しない";
+
+/* FacebookRegisterViewController.xib, ProfileEditViewController.xib, UserRegisterViewController.xib */
+"ニックネーム" = "ニックネーム";
+
+/* ニックネームが最大文字数を超えています。%d文字削除してください */
+"ニックネームが最大文字数を超えています。%d文字削除してください" = "ニックネームが最大文字数を超えています。%d文字削除してください";
+
+/* ニックネームが未入力です */
+"ニックネームが未入力です" = "ニックネームが未入力です";
+
+/* ニックネームと写真の登録 */
+"ニックネームと写真の登録" = "ニックネームと写真の登録";
+
+/* FacebookRegisterViewController.xib */
+"ニックネームと写真を登録してください" = "ニックネームと写真を登録してください";
+
+/* ニックネームは20文字以内です */
+"ニックネームは20文字以内です" = "ニックネームは20文字以内です";
+
+/* ニュース */
+"ニュース" = "News";
+
+/* ニュース一覧 */
+"ニュース一覧" = "All News";
+
+/* NewsDetailViewController.xib */
+"ニュースタイトル" = "ニュースタイトル";
+
+/* Contact.storyboard */
+"嫌がらせ・荒らし行為をされた" = "嫌がらせ・荒らし行為をされた";
+
+/* 毎回 */
+"毎回" = "毎回";
+
+/* ハンドメイド */
+"ハンドメイド" = "ハンドメイド";
+
+/* チケット */
+"チケット" = "チケット";
+
+/* Setting.storyboard */
+"バージョン情報" = "バージョン情報";
+
+/* FacebookRegisterViewController.xib, LoginViewController.xib, UserRegisterViewController.xib */
+"パスワード" = "パスワード";
+
+/* UserRegisterViewController.xib */
+"パスワード (確認)" = "パスワード (確認)";
+
+/* パスワードが未入力です */
+"パスワードが未入力です" = "パスワードが未入力です";
+
+/* パスワードは6文字以上15文字以下です */
+"パスワードは6文字以上15文字以下です" = "パスワードは6文字以上15文字以下です";
+
+/* PasswordResetViewController.xib */
+"パスワードをリセットする" = "パスワードをリセットする";
+
+/* Contact.storyboard */
+"パスワードを忘れた" = "パスワードを忘れた";
+
+/* パスワードを忘れた方 */
+"パスワードを忘れた方" = "パスワードを忘れた方";
+
+/* LoginViewController.xib */
+"パスワードを忘れた方はこちら" = "パスワードを忘れた方はこちら";
+
+/* 金券、クーポン、WEBマネー、現行紙幣 */
+"金券、クーポン、WEBマネー、現行紙幣" = "金券・クーポン・WebMoney";
+
+/* Setting.storyboard */
+"姓（全角）" = "姓（全角）";
+
+/* UsersAddressEditViewController.xib */
+"姓 (全角)" = "姓 (全角)";
+
+/* Setting.storyboard */
+"姓カナ（全角）" = "姓カナ（全角）";
+
+/* UsersAddressEditViewController.xib */
+"姓カナ (全角)" = "姓カナ (全角)";
+
+/* ブランド */
+"ブランド" = "ブランド";
+
+/* ブランドの偽造品・模造品・レプリカ */
+"ブランドの偽造品・模造品・レプリカ" = "ブランドの偽造品・模造品・レプリカ";
+
+/* 他のサービスの方がよい */
+"他のサービスの方がよい" = "他のサービスの方がよい";
+
+/* 他の方法でシェア */
+"他の方法でシェア" = "他の方法でシェア";
+
+/* 取引中 */
+"取引中" = "取引中";
+
+/* 取引中の商品がありません */
+"取引中の商品がありません" = "取引中の商品がありません";
+
+/* 取引中の商品があるため退会できません */
+"取引中の商品があるため退会できません" = "取引中の商品があるため退会できません";
+
+/* Contact.storyboard */
+"取引中のトラブル" = "取引中のトラブル";
+
+/* 取引画面 */
+"取引画面" = "取引画面";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
+"取引画面へ" = "取引画面へ";
+
+/* 取引が不安だ */
+"取引が不安だ" = "取引が不安だ";
+
+/* 取引の流れ */
+"取引の流れ" = "取引の流れ";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"取引の流れを確認する" = "取引の流れを確認する";
+
+/* 取引完了 */
+"取引完了" = "取引完了";
+
+/* PhoneNumberAuth.storyboard */
+"取引をより安全にするため、SMSにて電話番号を確認させて頂いております。" = "取引をより安全にするため、SMSにて電話番号を確認させて頂いております。";
+
+/* Contact.storyboard */
+"取引をキャンセルしたい" = "取引をキャンセルしたい";
+
+/* Contact.storyboard */
+"プレオープン期間について" = "プレオープン期間について";
+
+/* プレオープン中につき￥0 */
+"プレオープン中につき￥0" = "プレオープン中につき￥0";
+
+/* Setting.storyboard */
+"プロフィール" = "プロフィール";
+
+/* プロフィールの設定 */
+"プロフィールの設定" = "プロフィールの設定";
+
+/* プロフィールを設定しました */
+"プロフィールを設定しました" = "プロフィールを設定しました";
+
+/* Contact.storyboard, Contact.storyboard */
+"受取評価してくれない" = "受取評価してくれない";
+
+/* 受取評価待ち */
+"受取評価待ち" = "受取評価待ち";
+
+/* ベビー・キッズ */
+"ベビー・キッズ" = "ベビー・キッズ";
+
+/* SideMenuViewCell.xib */
+"ヘッダー" = "ヘッダー";
+
+/* ホーム */
+"ホーム" = "Home";
+
+/* BillsTransferFinishViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"ホームへ" = "ホームへ";
+
+/* ProductListViewController */
+
+"Deactivate" = "公開停止";
+
+"Activate" = "公開";
+
+"Deactivate all" = "すべて公開停止にする";
+
+"Activate all" = "すべて公開にする";
+
+"Done Select" = "決定";
+
+"Deactivate all listings?" = "すべて公開停止にしますか？";
+
+"Activate all listings?" = "すべて公開にしますか？";
+
+"Deactivate/Activate Success" = "設定しました";
+
+"Deactivate/Activate Fail" = "一部設定に失敗しました\n再度設定してください";
+
+"You have %d drafts__{other}__" = "下書きが%d件あります";
+
+"You have %d drafts__{one}__" = "下書きが%d件あります";
+
+/* ProductListViewCell.xib, ProductListViewCell~ipad.xib */
+"補足説明" = "補足説明";
+
+/* ポイント利用 */
+"ポイント利用" = "ポイント利用";
+
+/* Purchase.storyboard */
+"ポイント利用の変更" = "ポイント利用の変更";
+
+/* ポイント履歴 */
+"ポイント履歴" = "ポイント履歴";
+
+/* <h1>ポイント履歴はまだありません</h1> */
+"PointHistory.NoPoint.Prepay" = "<h1>所持しているポイントはありません</h1>";
+
+/* Setting.storyboard */
+"ポイント履歴を見る" = "ポイント履歴を見る";
+
+/* Setting.storyboard */
+"ポイントとは？" = "ポイントとは？";
+
+/* Setting.storyboard */
+"ポイントと交換する" = "ポイントと交換する";
+
+/* ポイントに交換 */
+"ポイントに交換" = "ポイントに交換";
+
+/* Setting.storyboard */
+"ポイントに交換する" = "ポイントに交換する";
+
+/* ポイントの利用 */
+"ポイントの利用" = "ポイントの利用";
+
+/* ポイントの確認 */
+"ポイントの確認" = "ポイント";
+
+/* ポイントはありません */
+"ポイントはありません" = "ポイントはありません";
+
+/* ポイントを利用しない */
+"ポイントを利用しない" = "ポイントを利用しない";
+
+/* ポイントを利用することができます */
+"ポイントを利用することができます" = "ポイントを利用することができます";
+
+/* Balance */
+"Balance" = "売上金を使用";
+
+/* 売上金があります */
+"売上金があります" = "売上金があります";
+
+/* 売上金はありません */
+"売上金はありません" = "売上金はありません";
+
+/* 売上金を使わない */
+"売上金を使わない" = "売上金を使わない";
+
+/* すべての売上金を使う */
+"すべての売上金を使う" = "すべての売上金を使う";
+
+/* 一部の売上金を使う */
+"一部の売上金を使う" = "一部の売上金を使う";
+
+/* 使う売上金を入力 */
+"使う売上金を入力" = "使う売上金を入力";
+
+/* 売上金使用の変更 */
+"売上金使用の変更" = "売上金使用の変更";
+
+/* 所持売上金 */
+"所持売上金" = "売上金";
+
+/* 全額売上金 */
+"全額売上金" = "全額売上金";
+
+/* ポイント・売上金 */
+"ポイント・売上金" = "ポイント・売上金";
+
+/* 使用できる金額を超えています */
+"使用できる金額を超えています" = "使用できる金額を超えています";
+
+/* 禁止出品物と偽ブランド品の禁止 */
+"禁止出品物と偽ブランド品の禁止" = "禁止出品物と偽ブランド品の禁止";
+
+/* 販売代金と受取について */
+"販売代金と受取について" = "振込申請とスケジュール";
+
+/* Purchase.storyboard */
+"ポイントを使わない" = "ポイントを使わない";
+
+/* Setting.storyboard */
+"ポイントを交換する" = "ポイントを交換する";
+
+/* ポイント交換 */
+"ポイント交換" = "ポイント交換";
+
+/* ポイント交換可能な売上金がありません */
+"ポイント交換可能な売上金がありません" = "ポイント交換可能な売上金がありません";
+
+/* ポイント情報を確認中 */
+"ポイント情報を確認中" = "ポイント情報を確認中";
+
+/* Setting.storyboard */
+"ポイント・売上" = "売上・ポイント";
+
+/* Purchase.storyboard, Purchase.storyboard */
+"保有ポイント数" = "保有ポイント数";
+
+/* 保有ポイント以下の数字を入力してください */
+"保有ポイント以下の数字を入力してください" = "保有ポイント以下の数字を入力してください";
+
+/* 保存中 */
+"保存中" = "保存中";
+
+/* 保存した検索条件 */
+"保存した検索条件" = "保存した検索条件";
+
+/* Search.storyboard */
+"保存した検索条件はまだありません" = "保存した検索条件はまだありません";
+
+/* 保留中 */
+"保留中" = "保留中";
+
+/* SideMenuViewController.xib */
+"メルカリおすすめのアプリ" = "メルカリおすすめのアプリ";
+
+/* UserRegisterViewController.xib */
+"メルカリが許可なく投稿することはありません" = "メルカリが許可なく投稿することはありません";
+
+/* メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？ */
+"メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？" = "メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？";
+
+/* メンズ */
+"メンズ" = "メンズ";
+
+/* メール */
+"メール" = "メール";
+
+/* PasswordResetViewController.xib */
+"メールが届かない" = "メールが届かない";
+
+/* EmailPasswordSettingViewController.xib */
+"メールが届かない場合" = "メールが届かない場合";
+
+/* LoginViewController.xib */
+"メールまたは電話番号" = "メールまたは電話番号";
+
+/* メールアカウントを設定してください */
+"メールアカウントを設定してください" = "メールアカウントを設定してください";
+
+/* メールアドレス */
+"メールアドレス" = "メールアドレス";
+
+/* メールアドレス（確認） */
+"メールアドレス（確認）" = "メールアドレス（確認）";
+
+/* ContactViewController.xib */
+"メールアドレス (確認)" = "メールアドレス (確認)";
+
+/* メールアドレスが一致していません */
+"メールアドレスが一致していません" = "メールアドレスが一致していません";
+
+/* メールアドレスが未入力です */
+"メールアドレスが未入力です" = "メールアドレスが未入力です";
+
+/* メールアドレスまたは電話番号が未入力です */
+"メールアドレスまたは電話番号が未入力です" = "メールアドレスまたは電話番号が未入力です";
+
+/* ErrorView.xib */
+"メールアドレスが削除されました" = "メールアドレスが削除されました";
+
+/* ContactViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
+"メールアドレスが間違っていたり、ドメイン指定受信していると返答が届きませんのでご注意ください。" = "メールアドレスが間違っていたり、ドメイン指定受信していると返答が届きませんのでご注意ください。";
+
+/* メールアドレスは255文字以内です */
+"メールアドレスは255文字以内です" = "メールアドレスは255文字以内です";
+
+/* メールアドレスは\n%@\nで登録してもよろしいですか？ */
+"メールアドレスは\n%@\nで登録してもよろしいですか？" = "メールアドレスは\n%@\nで登録してもよろしいですか？";
+
+/* メールアドレスを入力してください */
+"メールアドレスを入力してください" = "メールアドレスを入力してください";
+
+/* Setting.storyboard */
+"メール・パスワード" = "メール・パスワード";
+
+/* メール・パスワードの設定 */
+"メール・パスワードの設定" = "メール・パスワードの設定";
+
+/* FullscreenImageViewController.xib */
+"拡大・縮小" = "拡大・縮小";
+
+/* 口座名義(セイ) */
+"口座名義(セイ)" = "口座名義(セイ)";
+
+/* 口座名義(セイ)が未入力です */
+"口座名義(セイ)が未入力です" = "口座名義(セイ)が未入力です";
+
+/* 口座名義(メイ) */
+"口座名義(メイ)" = "口座名義(メイ)";
+
+/* 口座名義(メイ)が未入力です */
+"口座名義(メイ)が未入力です" = "口座名義(メイ)が未入力です";
+
+/* 口座種別 */
+"口座種別" = "口座種別";
+
+/* 口座種別の選択 */
+"口座種別の選択" = "口座種別の選択";
+
+/* 口座種別を選択してください */
+"口座種別を選択してください" = "口座種別を選択してください";
+
+/* 口座番号 */
+"口座番号" = "口座番号";
+
+/* 口座番号が未入力です */
+"口座番号が未入力です" = "口座番号が未入力です";
+
+/* PurchaseConfirmViewController.xib */
+"以下の内容でよろしければ" = "以下の内容でよろしければ";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"以下のボタンを押すと上記フォームでの変更は反映されません" = "以下のボタンを押すと上記フォームでの変更は反映されません";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"日本と海外のサイズ比較" = "日本と海外のサイズ比較";
+
+/* Setting.storyboard, Setting.storyboard, Setting.storyboard, Setting.storyboard */
+"￥ 0 " = "￥ 0 ";
+
+/* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
+"￥ 99,999" = "￥ 99,999";
+
+/* ProductDetailViewController.xib */
+"￥10,0000" = "￥10,0000";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
+"￥100,000" = "￥100,000";
+
+/* Purchase.storyboard, Purchase.storyboard, Purchase.storyboard, Purchase.storyboard, Purchase.storyboard, Purchase.storyboard, Purchase.storyboard */
+"￥12,345" = "￥12,345";
+
+/* ProductCollectionViewCell.xib, ProductCollectionViewCell~ipad.xib */
+"￥3,000" = "￥3,000";
+
+/* CommentBalloonView.xib, ReviewListViewCell.xib */
+"ユーザ名" = "ユーザ名";
+
+/* 編集内容がクリアされますがよろしいですか？ */
+"編集内容がクリアされますがよろしいですか？" = "編集内容がクリアされますがよろしいですか？";
+
+/* Search.storyboard */
+"リズリサ" = "リズリサ";
+
+/* ProfileEditViewController.xib */
+"自己紹介" = "自己紹介";
+
+/* 自己紹介が最大文字数を超えています。%d文字削除してください */
+"自己紹介が最大文字数を超えています。%d文字削除してください" = "自己紹介が最大文字数を超えています。%d文字削除してください";
+
+/* ProductDetailItemView.xib */
+"ルームウェア" = "ルームウェア";
+
+/* レディース */
+"レディース" = "レディース";
+
+/* Prohibited Item */
+"Prohibited Item" = "Prohibited Item"; //翻訳必要なし
+
+/* ログイン */
+"ログイン" = "ログイン";
+
+/* (タイトル)ログイン */
+"(タイトル)ログイン" = "ログイン";
+
+/* ログイン中 */
+"ログイン中" = "ログイン中";
+
+/* Contact.storyboard */
+"ログインできない" = "ログインできない";
+
+/* 売上履歴 */
+"売上履歴" = "売上履歴";
+
+/* <h1>売上履歴はまだありません</h1> */
+"SalesHistory.NoHistory.Prepay" = "<h1>所持している売上金はありません</h1>";
+
+/* 売上金の振込申請期限 */
+"売上金の振込申請期限" = "売上金の振込申請期限";
+
+/* 振込申請期限が3ヶ月以内の売上金 */
+"振込申請期限が3ヶ月以内の売上金" = "振込申請期限が3ヶ月以内の売上金";
+
+/* 振込申請期限が3ヶ月以内の売上金はありません */
+"振込申請期限が3ヶ月以内の売上金はありません" = "振込申請期限が3ヶ月以内の売上金はありません";
+
+/* 売上の振込申請について */
+"売上の振込申請について" = "売上の振込申請について";
+
+/* Setting.storyboard */
+"売上の確認・振込申請" = "売上・振込申請";
+
+/* 売上の受取・振込のスケジュールについて */
+"売上の受取・振込のスケジュールについて" = "売上の受取・振込のスケジュールについて";
+
+/* 売上はいつ反映される？ */
+"売上はいつ反映される？" = "売上はいつ反映される？";
+
+/* Setting.storyboard, Setting.storyboard */
+"売上金" = "売上金";
+
+/* 売上金%1$@と所持ポイント%2$@を放棄します */
+"売上金%1$@と所持ポイント%2$@を放棄します" = "売上金%1$@と所持ポイント%2$@を放棄します";
+
+/* 売上金を超えています */
+"売上金を超えています" = "売上金を超えています";
+
+/* 売上金を確認中 */
+"売上金を確認中" = "売上金を確認中";
+
+/* 売上確認・振込申請 */
+"売上確認・振込申請" = "売上確認・振込申請";
+
+/* 売上金 %1$@ をポイント交換し、所持ポイントが %2$@ になりました */
+"売上金 %1$@ をポイント交換し、所持ポイントが %2$@ になりました" = "売上金 %1$@ をポイント交換し、所持ポイントが %2$@ になりました";
+
+/* 売上金をポイントに交換しました */
+"売上金をポイントに交換しました" = "売上金をポイントに交換しました";
+
+/* 売却済み */
+"売却済み" = "売却済み";
+
+/* <h1>売却済みの商品がありません</h1> */
+"<h1>売却済みの商品がありません</h1>" = "<h1>売却済みの商品がありません</h1>";
+
+/* 売り切れ */
+"売り切れ" = "売り切れ";
+
+/* CommentTableViewController.xib */
+"売り切れのためコメントできません" = "売り切れのためコメントできません";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"売り切れました" = "売り切れました";
+
+/* 直接取引、交換、半交換 */
+"直接取引、交換、半交換" = "直接取引、交換、半交換";
+
+/* 直接取引、交換、半交換の持ちかけ */
+"直接取引、交換、半交換の持ちかけ" = "他サービス誘導・直接取引・交換";
+
+/* Setting.storyboard */
+"郵便番号（数字）" = "郵便番号（数字）";
+
+/* 姓(カナ)はカタカナで入力してください */
+"姓(カナ)はカタカナで入力してください" = "姓(カナ)はカタカナで入力してください";
+
+/* 名(カナ)はカタカナで入力してください */
+"名(カナ)はカタカナで入力してください" = "名(カナ)はカタカナで入力してください";
+
+/* 郵便番号は数字７桁です */
+"郵便番号は数字７桁です" = "郵便番号は数字７桁です";
+
+/* CommentTableViewController.xib */
+"相手のことを考え丁寧なコメントを心がけましょう。不快な言葉づかいなどは<b>アクセス禁止</b>や<b>退会処分</b>となることがあります。" = "相手のことを考え丁寧なコメントを心がけましょう。不快な言葉づかいなどは<b>利用制限</b>や<b>退会処分</b>となることがあります。";
+
+/* 出品者 */
+"出品者" = "出品者";
+
+/* Contact.storyboard */
+"出品者側" = "出品者側";
+
+/* Contact.storyboard */
+"出品者側/購入者側を選択してください" = "出品者側/購入者側を選択してください";
+
+/* 出品者情報 */
+"出品者情報" = "出品者情報";
+
+/* 出品中 */
+"出品中" = "出品中";
+
+/* ProductListViewController.m */
+"ProductListViewController.TableFooter.ProductListViewModeSell.SegmentSellOnSale" = "<h1>出品中の商品がありません</h1><br/><br/><p>メルカリでは3分で簡単に出品できます。<a href=\"category/9/#22\">出品の流れ</a>をぜひご覧ください。</p>";
+
+/* Contact.storyboard */
+"出品中・取引中の商品がある場合" = "出品中・取引中の商品がある場合";
+
+/* 出品中・取引中の商品があるため退会できません */
+"出品中・取引中の商品があるため退会できません" = "出品中・取引中の商品があるため退会できません";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"出品が完了しました！" = "出品が完了しました！";
+
+/* 出品した商品 */
+"出品した商品" = "Selling";
+
+/* 出品しても売れない */
+"出品しても売れない" = "出品しても売れない";
+
+/* 出品する */
+"出品する" = "出品する";
+
+/* 出品停止中 */
+"出品停止中" = "出品停止中";
+
+/* 出品の流れ */
+"出品の流れ" = "出品の流れ";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, ProfileHeaderViewCell.xib */
+"出品数：" = "出品数：";
+
+/* 出品再開中 */
+"出品再開中" = "出品再開中";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"出品を一旦停止する" = "出品を一旦停止する";
+
+/* ProductEditViewController.m */
+"Save draft for later?" = "下書きに保存しますか？";
+
+/* 出品を削除しました */
+"出品を削除しました" = "出品を削除しました";
+
+/* 出品を停止しました */
+"出品を停止しました" = "出品を停止しました";
+
+/* 出品を再開しました */
+"出品を再開しました" = "出品を再開しました";
+
+/* Exhibit.storyboard, Exhibit_iPad.storyboard */
+"出品を再開する" = "出品を再開する";
+
+/* 出品情報の確認 */
+"出品情報の確認" = "出品情報の確認";
+
+/* Setting.storyboard */
+"建物名（任意）" = "建物名（任意）";
+
+/* 建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？ */
+"建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？" = "建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？";
+
+/* 建物名に数字(部屋番号)が入力されていませんが、以下の住所で登録してよろしいですか？ */
+"建物名に数字(部屋番号)が入力されていませんが、以下の住所で登録してよろしいですか？" = "建物名に数字(部屋番号)が入力されていませんが、以下の住所で登録してよろしいですか？";
+
+/* UsersAddressEditViewController.xib */
+"建物名・部屋番号 (任意)" = "建物名・部屋番号 (任意)";
+
+/* UsersAddressEditViewController.xib, PhoneNumberAuth.storyboard, Setting.storyboard */
+"電話番号" = "電話番号";
+
+/* 電話番号の確認 */
+"電話番号の確認" = "電話番号の確認";
+
+/* 電話番号の確認がとれました */
+"電話番号の確認がとれました" = "電話番号の確認がとれました";
+
+/* PhoneNumberAuth.storyboard */
+"電話番号の確認が必要な理由" = "電話番号の確認が必要な理由";
+
+/* 電話番号を入力してください */
+"電話番号を入力してください" = "電話番号を入力してください";
+
+/* PhoneNumberAuth.storyboard */
+"電話接続による認証" = "電話接続による認証";
+
+/* Setting.storyboard */
+"購入" = "購入";
+
+/* 購入者 */
+"購入者" = "購入者";
+
+/* 購入者/出品者 : %@\n */
+"購入者/出品者 : %@\n" = "購入者/出品者 : %@\n";
+
+/* 購入者/出品者かを選択してください */
+"購入者/出品者かを選択してください" = "購入者/出品者かを選択してください";
+
+/* ReviewListViewCell.xib */
+"購入者からの評価：" = "購入者からの評価：";
+
+/* Contact.storyboard, Contact.storyboard */
+"購入者が支払いを完了しない" = "購入者が支払いを完了しない";
+
+/* ReviewListViewCell.xib */
+"購入者の評価：" = "購入者の評価：";
+
+/* Contact.storyboard */
+"購入者側" = "購入者側";
+
+/* 購入者側/出品者側 : %@\n */
+"購入者側/出品者側 : %@\n" = "購入者側/出品者側 : %@\n";
+
+/* 購入者側/出品者側どちらですか？ */
+"購入者側/出品者側どちらですか？" = "購入者側/出品者側どちらですか？";
+
+/* Purchase.storyboard */
+"購入手続き" = "購入手続き";
+
+/* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
+"購入手続きへ" = "購入手続きへ";
+
+/* 購入した商品 */
+"購入した商品" = "Buying";
+
+/* 購入する */
+"購入する" = "購入する";
+
+/* (確認)購入する */
+"(確認)購入する" = "購入する";
+
+/* 購入の流れ */
+"購入の流れ" = "購入の流れ";
+
+/* 購入完了 */
+"購入完了" = "購入完了";
+
+/* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
+"PurchaseFinishViewController.DescriptionLabel.ATM" = "取引画面で各コンビニ/銀行ATMを選択してお支払いください";
+"PurchaseFinishViewController.DescriptionLabel.NotATM" = "出品者の発送通知をお待ちください";
+"PurchaseFinishViewController.DescriptionLabel.NotATM.IsShopItem" = "商品の到着をお待ちください";
+"PurchaseFinishViewController.SuggestSell.ButtonTitle" = "出品する";
+
+/* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
+"購入後の流れを確認する" = "購入後の流れを確認する";
+
+/* 購入確認 */
+"購入確認" = "購入確認";
+
+/* 購入情報を確認中 */
+"購入情報を確認中" = "購入情報を確認中";
+
+/* 購入処理中 */
+"購入処理中" = "購入処理中";
+
+/* 購入・支払いについて */
+"購入・支払いについて" = "購入・支払いについて";
+
+/* UsersAddressEditViewController.xib, Setting.storyboard */
+"都道府県" = "都道府県";
+
+/* Contact.storyboard */
+"対象商品" = "対象商品";
+
+/* NotificationListViewController.xib */
+"現在、あなたへのお知らせはありません" = "You have no notifications";
+
+/* Setting.storyboard */
+"現在、登録済みのクレジットカード情報はありません" = "現在、登録済みのクレジットカード情報はありません";
+
+/* <h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p> */
+"<h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p>" = "<h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p>";
+
+/* NotificationListViewController.xib */
+"現在、やることリストはありません" = "There's nothing in your To Do List";
+
+/* Purchase.storyboard */
+"現在ご利用可能なカードは、VISA / MasterCardです" = "現在ご利用可能なカードは、VISA / MasterCardです";
+
+/* Purchase.storyboard */
+"配送料" = "配送料";
+
+/* EmailPasswordSettingViewController.xib */
+"現在のパスワード" = "現在のパスワード";
+
+/* 現在のパスワードが未入力です */
+"現在のパスワードが未入力です" = "現在のパスワードが未入力です";
+
+/* 現在の売上金 */
+"現在の売上金" = "現在の売上金";
+
+/* 評価: %1$@   出品数: %2$@ */
+"評価: %1$@   出品数: %2$@" = "評価: %1$@   出品数: %2$@";
+
+/* 評価: <b>%1$@</b>   出品数: <b>%2$@</b> */
+"評価: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;出品数: <b>%2$@</b>" = "評価: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;出品数: <b>%2$@</b>";
+
+/* ProfileHeaderViewCell.xib */
+"もっと読む"  = "もっと読む";
+
+/* 編集 */
+"編集" = "編集";
+"Word.Edit" = "編集";
+
+/* ProductListViewController.m */
+"ProductListViewController.TableFooter.ProductListViewModeBuy.SegmentBuyWaiting" = "<h1>取引中の商品がありません</h1><br/><br/><p>メルカリでは安全・簡単に購入できます。<a href=\"category/5/#9\">購入の流れ</a>をぜひご覧ください。</p>";
+
+/* 自己紹介文を書きましょう！ */
+"自己紹介文を書きましょう！" = "自己紹介文を書きましょう！";
+
+/* 自己紹介文がまだ記入されてません！ */
+"自己紹介文がまだ記入されてません！" = "自己紹介文がまだ記入されてません！";
+
+/* <h1>取引中の商品がありません</h1>	 */
+"<h1>取引中の商品がありません</h1>" = "<h1>取引中の商品がありません</h1>";
+
+/* 保存 */
+"保存" = "保存";
+
+/* Registration.storyboard */
+"メールアドレスで登録" = "メールアドレスで登録";
+"Facebookで登録" = "Facebookで登録";
+"Google+で登録" = "Googleで登録";
+"Registration.Gender.TopDescription" = "性別（任意）";
+
+/* ProductDetailViewController.m %1=title %2=pricing */
+"Check it out: %1$@ is %2$@ on Mercari!" = "『%1$@ (%2$@)』 フリマアプリ「メルカリ」で販売中♪";
+
+/*
+ ProductDetailViewController.m
+ ExhibitFinishViewController.m
+ ProductCollectionViewController.m
+ %1=invitation code
+ */
+"Use \"%1$@\" to sign up and get %2$@ off!" = "";
+
+/* LINEでシェア */
+"LINEでシェア" = "LINEでシェア";
+
+/* Twitterでシェア */
+"Twitterでシェア" = "Twitterでシェア";
+
+/* Facebookでシェア */
+"Facebookでシェア" = "Facebookでシェア";
+
+/* メールでシェア */
+"メールでシェア" = "メールでシェア";
+
+/* SMSの設定を確認してください */
+"SMSの設定を確認してください" = "SMSの設定を確認してください";
+
+/* SMSでシェア */
+"SMSでシェア" = "SMSでシェア";
+
+/* あなたが出品した商品は「出品した商品」からいつでも見ることができます */
+"あなたが出品した商品は「出品した商品」からいつでも見ることができます" = "あなたが出品した商品は「出品した商品」からいつでも見ることができます";
+
+"Please make sure you set the Item Price so what you make is $0 or more." = "販売価格は配送手数料以上の値を入力してください";
+
+/* 口座番号がわからない */
+"口座番号がわからない" = "口座番号がわからない";
+
+/* 振込先 */
+"振込先" = "振込先";
+
+/* ※振込申請は売上金が211円以上からできます */
+"※振込申請は売上金が211円以上からできます" = "※振込申請は売上金が211円以上からできます";
+
+/* 申請金額は211円から可能です */
+"申請金額は211円から可能です" = "申請金額は211円から可能です";
+
+/* 申請金額は211円から可能で、%@円未満は振込手数料210円がかかります */
+"BillTransfer.Footer.Title" = "申請金額は211円から可能で、%@円未満は振込手数料210円がかかります";
+
+/* 手数料が%@円かかります。%@円以上の振込申請は無料となりますが、よろしいですか？\n\n【注意】\n複数の振込申請で%@円を超えても複数回分の手数料がかかります */
+"BillTransfer.Caution.Message" = "手数料が%@円かかります。%@円以上の振込申請は無料となりますが、よろしいですか？\n\n【注意】\n複数の振込申請で%@円を超えても複数回分の手数料がかかります";
+
+/* Account number: %1$@\nRouting number: %2$@ */
+"Account number: %1$@\nRouting number: %2$@" = "Account number: %1$@\nRouting number: %2$@";
+
+/* 振込内容 */
+"振込内容" = "振込内容";
+
+/* お互いに安心取引するためにまずは会員登録をよろしくお願いします */
+"お互いに安心取引するためにまずは会員登録をよろしくお願いします" = "お互いに安心取引するためにまずは会員登録をよろしくお願いします";
+
+/* Unable to Connect to Google */
+"Unable to Connect to Google" = "ログインエラー";
+
+/* Google+ログインがサポートされていません */
+"Google+ログインがサポートされていません" = "Googleログインがサポートされていません";
+
+/* Google+ログインがキャンセルされました */
+"Google+ログインがキャンセルされました" = "Googleログインがキャンセルされました。再度お試しください";
+
+/* この機能を利用するためには会員登録が必要です */
+"この機能を利用するためには会員登録が必要です" = "この機能を利用するためには会員登録が必要です";
+
+/* カテゴリー一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。 */
+"カテゴリー一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。" = "カテゴリー一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。";
+
+/* ブランド一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。 */
+"ブランド一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。" = "ブランド一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。";
+
+/* 不明なエラーです */
+"不明なエラーです" = "不明なエラーです";
+
+/* 配送料の負担(出品) */
+"配送料の負担(出品)" = "配送料の負担";
+
+/* 配送料の負担(検索) */
+"配送料の負担(検索)" = "配送料の負担";
+
+/* Fee */
+"Fee" = "Fee";
+
+/* I'll ship the item myself */
+"I'll ship the item myself" = "I'll ship the item myself";
+
+/* Shipping on your own? */
+"Shipping on your own?" = "Shipping on your own?";
+
+/* If so you must agree to provide the name of the shipping carrier & tracking no. when it's time to ship. If not you must use Mercari's shipping label. */
+"If so you must agree to provide the name of the shipping carrier & tracking no. when it's time to ship. If not you must use Mercari's shipping label." = "If so you must agree to provide the name of the shipping carrier & tracking no. when it's time to ship. If not you must use Mercari's shipping label.";
+
+/* I Agree */
+"I Agree" = "I Agree";
+
+/* I Disagree */
+"I Disagree" = "I Disagree";
+
+/* Just a friendly reminder */
+"Just a friendly reminder" = "Just a friendly reminder";
+
+/* Make sure you've chosen the recommended shipping label that best matches the weight of your item.\nChoosing the wrong label may cause non-delivery of your shipment. */
+"Make sure you've chosen the recommended shipping label that best matches the weight of your item.\nChoosing the wrong label may cause non-delivery of your shipment." = "Make sure you've chosen the recommended shipping label that best matches the weight of your item.\nChoosing the wrong label may cause non-delivery of your shipment.";
+
+/* Shipping */
+"Shipping" = "配送について";
+
+/* Item Weight & Cost */
+"Item Weight & Cost" = "Item Weight & Cost";
+
+/* Questions? Review our <a href=\"mercari://shippingClass/openFooterGuide/\">shipping guide!</a> */
+"Questions? Review our <a href=\"mercari://shippingClass/openFooterGuide/\">shipping guide!</a>" = "Questions? Review our <a href=\"mercari://shippingClass/openFooterGuide/\">shipping guide!</a>";
+
+/* Who pays for shipping? */
+"Who pays for shipping?" = "Paid by";
+
+/* I'll pay for shipping */
+"I'll pay for shipping" = "I'll pay for shipping (Recommended)";
+
+/* Display FREE Shipping on your item! */
+"Display FREE Shipping on your item!" = "Display FREE Shipping on your item!";
+
+/* Charge buyer */
+"Charge buyer" = "Charge buyer";
+
+/* Buyer pays for shipping */
+"Buyer pays for shipping" = "Buyer pays for shipping";
+
+/* WHO PAYS? */
+"WHO PAYS?" = "WHO PAYS?";
+
+/* Mercari offers fixed, low-rate shipping label. Just select your item’s weight and we’ll email you the shipping label when your item sells! */
+"Mercari offers fixed, low-rate shipping label. Just select your item’s weight and we’ll email you the shipping label when your item sells!" = "Mercari offers fixed, low-rate shipping label. Just select your item’s weight and we’ll email you the shipping label when your item sells!";
+
+/* Tip: Select "I'll pay for shipping" to display FREE SHIPPING on your item */
+"Fact: Items sell faster when you include FREE Shipping!" = "Fact: Items sell faster when you include FREE Shipping!";
+
+/* カード番号（必須） */
+"カード番号（必須）" = "必須";
+
+/* セキュリティコード（必須） */
+"セキュリティコード（必須）" = "必須";
+
+/* ※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。 */
+"※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。" = "※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。";
+
+/* "~" */
+"~" = "~";
+
+/* Registration.storyboard */
+"メールアドレスでログイン" = "メールまたは電話番号でログイン";
+
+/* Registration.storyboard */
+"Facebookでログイン" = "Facebookでログイン";
+
+/* Registration.storyboard */
+"Google+でログイン" = "Googleでログイン";
+
+/* "本当にこのコメントを削除してよろしいですか？" */
+"本当にこのコメントを削除してよろしいですか？" = "本当にこのコメントを削除してよろしいですか？";
+
+/* その他設定 */
+"その他設定" = "その他設定";
+
+/* 通知設定 */
+"通知設定" = "お知らせ設定";
+
+/* プッシュ通知 */
+"プッシュ通知" = "プッシュ通知";
+
+/* メルカリへのプッシュ通知が許可されていません。プッシュ通知を有効にするにはiOSの「設定」の「通知センター」からメルカリの各種通知設定を有効にしてください。 */
+"メルカリへのプッシュ通知が許可されていません。プッシュ通知を有効にするにはiOSの「設定」の「通知センター」からメルカリの各種通知設定を有効にしてください。" = "メルカリへのプッシュ通知が許可されていません。プッシュ通知を有効にするにはiOSの「設定」の「通知センター」からメルカリの各種通知設定を有効にしてください。";
+
+/* (通知設定)いいね */
+"(通知設定)いいね！" = "いいね！";
+
+/* (通知設定)コメント */
+"(通知設定)コメント" = "コメント";
+
+/* コメント（返信） */
+"(通知設定)コメント（返信）" = "コメント（返信）";
+
+/* 取引 */
+"(通知設定)取引" = "取引関連";
+
+/* オファー */
+"(通知設定)オファー" = "オファー";
+
+/* メルカリニュース */
+"メルカリニュース" = "アナウンス";
+
+/* いいね！した商品の値下げ */
+"いいね！した商品の値下げ" = "いいね！した商品の値下げ";
+
+/* 保存した検索条件の新着 */
+"保存した検索条件の新着" = "保存した検索条件の新着";
+
+/* おすすめ商品 */
+"おすすめ商品" = "おすすめ商品";
+
+/* 取引についてはプッシュまたはメールを有効にする必要があります。 */
+"取引についてはプッシュまたはメールを有効にする必要があります。" = "取引関連についてはプッシュ通知またはメールを有効にする必要があります";
+
+/* 夜間のプッシュ通知を制限するには？ */
+"夜間のプッシュ通知を制限するには？" = "夜間のプッシュ通知を制限するには？";
+
+/* ご確認ください */
+"ご確認ください" = "ご確認ください";
+
+/* 出品できません */
+"出品できません" = "出品できません";
+
+/* (出品完了)シェアする */
+"(出品完了)シェアする" = "シェアする";
+
+/* ExhibitFinishViewController.m %1=item name $2=pricing */
+"I’m selling %1$@ on Mercari!" = "『%1$@ (%2$@)』 フリマアプリ「メルカリ」で販売中♪";
+
+/* (購入完了)シェアする */
+"(購入完了)シェアする" = "商品をシェアしよう!";
+
+/* (購入完了)フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』 */
+"(購入完了)フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』" = "フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』";
+
+/* Edit profile */
+"Edit profile" = "プロフィール編集";
+
+/* Share items */
+"Share profile" = "プロフィールシェア";
+
+/* ProductCollectionViewController.m */
+"Take a look at what's on sale now at Mercari!" = "フリマアプリ「メルカリ」で販売してます";
+
+/* ProductCollectionViewController.m */
+"%1$@ on Mercari has great deals!" = "フリマアプリ「メルカリ」で %1$@さんが販売中";
+
+/* How long does it take? */
+"How long does it take?" = "振込スケジュール";
+
+/* Camera disabled\n\nOpen device Settings > Privacy > Camera > Mercari and switch on the camera */
+"Camera disabled\n\nOpen device Settings > Privacy > Camera > Mercari and switch on the camera" = "カメラにアクセスが許可されていません\n\niOSの「設定」→「プライバシー」→「カメラ」で「メルカリ」をオンにしてください";
+
+/* Cancel */
+"Cancel" = "キャンセル";
+
+/* Unblock this user */
+"Unblock this user" = "ブロックを解除";
+
+/* Block this user */
+"Block this user" = "この会員をブロック";
+
+/* Do you want to block this user? */
+"Do you want to block this user?" = "ブロックしますか？";
+
+/* If you block, this user will not be able to buy, comment or like your items. */
+"If you block, this user will not be able to buy, comment or like your items." = "ブロックすると、あなたをフォローすることや、あなたの出品に購入・コメント・いいね！などができなくなります。";
+
+/* Do you want to unblock this user? */
+"Do you want to unblock this user?" = "ブロックを解除しますか？";
+
+/* This user has been blocked */
+"This user has been blocked" = "この会員をブロックしました";
+
+/* This user has been unblocked */
+"This user has been unblocked" = "この会員のブロックを解除しました";
+
+/* No */
+"No" = "いいえ";
+
+/* Yes */
+"Yes" = "はい";
+
+/* Billing zip code */
+"Billing zip code" = "郵便番号";
+
+/* (section)Bank account holder's name */
+"(section)Bank account holder's name" = "Bank account holder's name";
+
+/* (section)Bank routing number */
+"(section)Bank routing number" = "Bank routing number";
+
+/* (section)Bank checking account number */
+"(section)Bank checking account number" = "Bank checking account number";
+
+/* First & Last Name */
+"First & Last Name" = "First & Last Name";
+
+/* Bank Routing Number */
+"Bank routing number" = "Bank routing number";
+
+/* 9 Digits */
+"9 Digits" = "9 Digits";
+
+/* Bank Checking Account Number */
+"Bank checking account number" = "Bank checking account number";
+
+/* Enter checking account number */
+"Enter checking account number" = "Enter checking account number";
+
+/* Confirm checking account number */
+"Confirm checking account number" = "Confirm checking account number";
+
+/* (セクション)振込申請金額 */
+"(セクション)振込申請金額" = "振込申請金額";
+
+/* Acct. holder's name: %1$@\nBank routing number: %2$@\nChecking account number: %3$@ */
+"Acct. holder's name: %1$@\nBank routing number: %2$@\nChecking account number: %3$@" = "Acct. holder's name: %1$@\nBank routing number: %2$@\nChecking account number: %3$@";
+
+/* Bank routing number: %1$@\nChecking account number: %2$@ */
+"Bank routing number: %1$@\nChecking account number: %2$@" = "Bank routing number: %1$@\nChecking account number: %2$@";
+
+/* Checking Account Information Doesn't Match */
+"Checking Account Information Doesn't Match" = "Checking Account Information Doesn't Match";
+
+/* Please check the Checking Account information you entered and try again */
+"Please check the Checking Account information you entered and try again" = "Please check the Checking Account information you entered and try again";
+
+/* Invalid Checking Account Number */
+"Invalid Checking Account Number" = "Invalid Checking Account Number";
+
+/* It looks like you have entered a credit card number. If you believe you have entered a valid checking account number, tap \"Confirm\". Otherwise tap \"Edit\" to update your information */
+"It looks like you have entered a credit card number. If you believe you have entered a valid checking account number, tap \"Confirm\". Otherwise tap \"Edit\" to update your information" = "It looks like you have entered a credit card number. If you believe you have entered a valid checking account number, tap \"Confirm\". Otherwise tap \"Edit\" to update your information";
+
+/* We couldn't find an account associated with your Google account. Please try signing in with a different method. */
+"We couldn't find an account associated with your Google account. Please try signing in with a different method." = "Googleでの登録情報はありません。他の方法でログインをお試しください。";
+
+/* We couldn't find an account associated with your Facebook. Please try signing in with a different method. */
+"We couldn't find an account associated with your Facebook. Please try signing in with a different method." = "Facebookでの登録情報はありません。他の方法でログインをお試しください。";
+
+/* Are you sure you want to delete your bank account information? */
+"Are you sure you want to delete your bank account information?" = "Are you sure you want to delete your bank account information?";
+
+/* お知らせ設定とは */
+"お知らせ設定とは" = "お知らせ設定とは";
+
+/* 機種変更をする時の注意 */
+"機種変更をする時の注意" = "機種変更をする時の注意";
+
+/* 発送通知が来たのに商品が届かない */
+"発送通知が来たのに商品が届かない" = "発送通知が来たのに商品が届かない";
+
+/* 商品を発送したのに購入者に届かない */
+"商品を発送したのに購入者に届かない" = "商品を発送したのに購入者に届かない";
+
+/* 商品到着前に受取評価をお願いされた */
+"商品到着前に受取評価をお願いされた" = "商品到着前に受取評価をお願いされた";
+
+/* Mercari credits expiration */
+"Mercari credits expiration" = "ポイントの有効期限";
+
+/* Credits Expiration */
+"Credits Expiration" = "ポイントの有効期限";
+
+/* You don't have any Credits expiring soon */
+"PointExpire.NoPoint.Prepay" = "所持しているポイントはありません";
+"PointExpire.NoPoint" = "3ヶ月以内に失効するポイントはありません";
+
+/* Credits below will expire within 3 months */
+"Credits below will expire within 3 months" = "3ヶ月以内に失効するポイントです";
+
+/* (購入中の住所編集)登録する */
+"(購入中の住所編集)登録する" = "登録する";
+
+/* (購入中の住所編集)変更する */
+"(購入中の住所編集)変更する" = "変更する";
+
+/* My Account */
+"My Account" = "My Account";
+
+/* My Listings */
+"My Listings" = "My Listings";
+
+/* My Purchases */
+"My Purchases" = "My Purchases";
+
+/* Technical Issue */
+"Technical Issue" = "Technical Issue";
+
+/* My Direct Deposit */
+"My Direct Deposit" = "My Direct Deposit";
+
+/* Feature Request */
+"Feature Request" = "Feature Request";
+
+/* PaymentMethod.Carrier */
+"PaymentMethod.Carrier.Docomo" = "d払い (ドコモ)";
+
+/* auかんたん決済 */
+"auかんたん決済" = "auかんたん決済";
+
+/* ソフトバンクまとめて支払い */
+"ソフトバンクまとめて支払い" = "ソフトバンクまとめて支払い";
+
+/* ・ */
+"・" = "・";
+
+/* %@の場合、決済代行会社への手数料が必要となります */
+"%@の場合、決済代行会社への手数料が必要となります" = "%@の場合、決済代行会社への手数料が必要となります";
+
+/* 出品した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。 */
+"出品した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。" = "出品した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。";
+
+/* 購入した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。 */
+"購入した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。" = "購入した商品を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。";
+
+/* 評価一覧を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。 */
+"評価一覧を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。" = "評価一覧を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。";
+
+/* 商品を編集するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。 */
+"商品を編集するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。" = "商品を編集するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。";
+
+/* Join Mercari & invite your friends! Tap Sign up or Sign in from the side menu. */
+"Join Mercari & invite your friends! Tap Sign up or Sign in from the side menu." = "招待画面を表示するには会員登録・ログインが必要です。サイドメニューより会員登録・ログインをしてください。";
+
+/* My Payments */
+"My Payments" = "支払い方法";
+
+/* Add credit card */
+"Add credit card" = "クレジットカードの追加";
+
+/* Add Credit Card */
+"Add Credit Card" = "クレジットカードの追加";
+
+/* not selected */
+"not selected" = "指定しない";
+
+/* All Categories */
+"All Categories" = "すべてのカテゴリー";
+
+/* All Sizes */
+"All Sizes" = "すべてのサイズ";
+
+/* All Colors */
+"All Colors" = "すべての色";
+
+/* All Conditions */
+"All Conditions" = "すべての商品状態";
+
+/* Shipping paid by buyer/seller */
+"Shipping paid by buyer/seller" = "すべての配送料負担";
+
+/* All Statuses */
+"All Statuses" = "すべての販売状況";
+
+/* Dates for Transfer */
+"Dates for Transfer" = "振込完了予定日";
+
+/* Address.storyboard */
+
+"Missing information of address" = "Your address may be missing information.";
+
+/* The closest match */
+"The closest match" = "The closest match we found:";
+
+/* Edit Address */
+"Edit Address" = "Edit Address";
+
+/* Save this Address */
+"Save this Address" = "Save this Address";
+
+/* Check your address */
+"Check your address" = "Check Your Address";
+
+/* Edit Image (button title to push aviary photo editor) */
+"EditImage" = "加工";
+
+/* Selected */
+"Selected" = "選択中: %ld/%ld";
+
+/* Allow Access to iMessage */
+"Allow Access to iMessage" = "Allow Access to iMessage";
+
+/* Allow Access to iMessage message */
+"Allow Access to iMessage message" = "Please allow Mercari access to iMessage by going to Settings > Messages and switching on iMessage";
+
+/* Allow Access to Contacts */
+"Allow Access to Contacts" = "Allow Access to Contacts";
+
+/* Allow Access to Contacts message */
+"Allow Access to Contacts message" = "Please allow Mercari access to your Contacts by going to Settings > Privacy and switching on Contacts";
+
+/* Send to Friend */
+"Send to Friend" = "Send to 1 Friend";
+
+/* Send to Friends */
+"Send to Friends" = "Send to %d Friends";
+
+/* Search Friends */
+"Search Friends" = "友達を検索";
+
+/* No Items yet */
+"No Items yet" = "まだ商品がありません";
+
+/* Section Titles (ProductDetailViewController) */
+"Description" = "商品の説明";
+"Details" = "商品の情報";
+"Seller" = "出品者";
+"Comments" = "コメント";
+
+/* Free (ProductDetailViewController) */
+"Free" = "Free";
+
+/* iv send done message */
+"Invitations Sent!\n\nKeep spreading the word.\nInvite more to get more!" = "Invitations Sent!\n\nKeep spreading the word.\nInvite more to get more!";
+
+/* Pay with */
+"Pay with" = "支払い方法";
+
+/* Credit or Debit card */
+"Credit or Debit card" = "クレジットカード";
+
+/* Add Credit or Debit card */
+"Add Credit or Debit card" = "クレジットカードの追加";
+
+/* 3-digit security code on the back of your card */
+"3-digit security code on the back of your card" = "カードの背面に記載されている3桁の番号をご確認ください";
+
+/* 4-digit security code on the front of your card */
+"4-digit security code on the front of your card" = "カードの前面に記載されている4桁の番号をご確認ください";
+
+/* 3-digit security code on the back of your card or 4-digit security code on the front of your card */
+"3-digit security code on the back of your card or 4-digit security code on the front of your card" = "カードの前面に記載されている4桁の番号、もしくは背面に記載されている3桁の番号をご確認ください";
+
+/* New to Mercari? */
+"New to Mercari?" = "New to Mercari?";
+
+/* Tutrial Purchase */
+"Okay, Got it!" = "Okay, Got it!";
+"Learn More" = "Learn More";
+
+/* IntroductionRegistrationViewController */
+"Next" = "次へ";
+"Get Started" = "さあ、はじめよう！";
+
+/* Thank you */
+"Thank you!" = "Thank you!";
+"We're sending your order confirmation" = "We're sending your order confirmation";
+"by push notification!" = "by push notification!";
+"to your email address!" = "to your email address!";
+"to:" = "to:";
+"We'll notify you as soon as the item ships!" = "We'll notify you as soon as the item ships!";
+"Don't forget to rate your seller once you've received the item." = "Don't forget to rate your seller once you've received the item.";
+
+/* Suggested Categories */
+"Suggested Categories" = "お探しのカテゴリーはこちらですか？";
+
+/* Search Categories */
+"Search Categories" = "カテゴリー検索";
+
+/* Incentive Notification View */
+"Here's %@ in Mercari Credit to\nget you started." = "Here's %@ in Mercari Credit to\nget you started.";
+
+/* sort type in seach result screen */
+"Sort" = "並べ替え";
+"Newest" = "新しい順";
+"Best Match" = "おすすめ順";
+"Highest Price" = "価格の高い順";
+"Lowest Price" = "価格の安い順";
+"Likes" = "いいね！順";
+
+/* search filter */
+"Done" = "完了";
+
+/* In app return */
+"Don't see your item?" = "Don't see your item?";
+"There are no items eligible for return" = "There are no items eligible for return";
+"Select a reason" = "Select a reason";
+"Return Request" = "Return Request";
+"Would you like to submit this return request?" = "Would you like to submit this return request?";
+"Return requested" = "Return requested";
+"Return in progress" = "Return in progress";
+"Why are you requesting a return for this item?" = "Why are you requesting a return for this item?";
+"Please do NOT rate your seller while we review this request." = "Please do NOT rate your seller while we review this request.\n\nPlease attach clear and focused photos of the item and original packaging, if available, and provide any additional information to support your claim.\n\nThe photos should show the entire item and all the items (if multiple).";
+
+/* Apple Pay */
+"Credit" = "Credit";
+"%@ VIA MERCARI" = "%@ VIA MERCARI";
+"Expected Delivery" = "Expected Delivery";
+
+/* Introduction for Launch */
+"Easily buy & sell new or used items" = "Easily buy & sell new or used items";
+"Find what you've been looking for!" = "Find what you've been looking for!";
+"Get the best deals delivered straight to your door" = "Get the best deals delivered straight to your door";
+"Clean out your room!" = "Clean out your room!";
+"List your items and make extra cash" = "List your items and make extra cash";
+
+/* Coupons */
+"Coupon" = "クーポン";
+"Coupons" = "クーポン";
+"Choose a Coupon!" = "以下のクーポンがご利用できます";
+"Use coupons" = "クーポンを使用";
+"Apply coupons" = "クーポンがあります";
+"Exp" = "有効期限";
+"BALANCE, CREDITS & COUPONS" = "売上・ポイント・クーポン";
+"No coupons yet!" = "利用可能なクーポンはありません";
+"Use the coupons below towards your next purchase" = "以下のクーポンがご利用できます";
+
+/* Identity Verification */  // 翻訳必要なし
+"Identity Verification" = "Identity Verification";
+"Thanks for verifying your details." = "Thanks for verifying your details.";
+"Please enter your SSN" = "Please enter your SSN";
+"Please enter your date of birth" = "Please enter your date of birth";
+"Please enter your first name" = "Please enter your first name";
+"Please enter your last name" = "Please enter your last name";
+"Please enter your address" = "Please enter your address";
+"Please enter your ZIP code" = "Please enter your ZIP code";
+"Please enter your city" = "Please enter your city";
+"Please enter select state" = "Please select your state";
+"The information you entered could not be verified.\nPlease check the information and try again." = "The information you entered could not be verified.\nPlease check the information and try again.";
+"Verified" = "Verified";
+"Not Verified" = "Not Verified";
+
+/* Help Center */
+"GETTING STARTED" = "GETTING STARTED";
+"QUESTIONS" = "QUESTIONS";
+"ABOUT MERCARI" = "ABOUT MERCARI";
+"Browse by Topic" = "Browse by Topic";
+
+/* Saved Search Edit */
+"Edit Notification Setting" = "新着通知設定の編集";
+"Saved Search" = "新着商品の通知設定";
+"Edit Notification" = "新着通知設定の編集";
+"NAME YOUR SEARCH" = "検索条件名";
+"New Item Notifications" = "新着商品の通知を受け取る";
+"Switch on to get notified when new items are added matching your search." = "通知をONにすると、この検索条件にマッチする新着商品のお知らせを受け取ることができます。";
+"FREQUENCY" = "通知の頻度";
+"High - twice a day" = "多め - 1日に2回";
+"Medium - once a day" = "普通 - 1日に1回";
+"Low - once every 3 days" = "少なめ - 3日に1回";
+
+/* installment payment */
+"%d times" = "%d回払い";
+"Payment Times" = "クレジット支払い回数";
+
+"Suggested Brands" = "お探しのブランドはこちらですか？";
+
+/* RegistrationInvitationViewController.swift */
+"Invite Friends" = "Invite Friends";
+"Registration Invitation Share Message Format" = "Use my code \"%@\" to join Mercari and get %@ off your first purchase!\nhttps://www.mercari.com/dl/";
+
+/* New Camera */
+
+"All Photos" = "すべての写真";
+"Are you sure you want to go back to the listing screen without saving photo?__{one}__" = "画像を保存せずに出品画面に戻りますか？";
+"Are you sure you want to go back to the listing screen without saving photo?__{other}__" = "画像を保存せずに出品画面に戻りますか？";
+
+"Go Back" = "はい";
+"Library" = "アルバム";
+"Camera" = "カメラ";
+"Barcode" = "バーコード";
+"Photo Library Access" = "アルバムから選択できません";
+"Mercari needs access to your photo library\nto upload item images to your listing" = "メルカリでアルバムから写真を選択するために、\niOSの設定で写真へのアクセスを許可してください";
+"Enable library access" = "設定画面へ";
+"Camera Access" = "カメラを使用できません";
+"Camera.AccessView.Description.EnableCameraAccess" = "メルカリで写真を撮影するために、\niOSの設定でカメラへのアクセスを許可してください";
+"Camera.AccessView.Description.CanNotUseInLive" = "配信中はカメラを起動できません。\nアルバムから写真を選択してください。";
+"Camera.AccessView.ShortDescription.CanNotUseInLive" = "配信中はカメラを起動できません。";
+"Enable camera access" = "設定画面へ";
+"Drag and drop photos to change the order." = "画像を長押しすると、画像の順番を\n入れ替えることができます。";
+"Guide for selling items" = "撮影ガイド";
+"Show off the front\nwhen used" = "正面から撮りましょう";
+"Show off the back" = "次に背面も撮りましょう";
+"Zoom in for details" = "近づいて撮って\n素材感を伝えましょう";
+"Show flaws or stains" = "汚れや傷も見せましょう";
+"Could not open photo" = "写真は開けませんでした";
+"Please try again in a moment" = "後ほどもう一度実行してください";
+
+/* IV Menu */
+"Mercari Credit!" = "(No need to translate)";
+"FREE CREDITS" = "(No need to translate)";
+
+/* 3D Touch */
+"Sell Now" = "出品する";
+
+/* PurchaseCardAddViewController */
+"Card Number" = "Card Number";
+"Add Card" = "追加する";
+
+/* GMOPG */
+"GMOPG.ErrorDescription.100-109" = "カード番号が正しくありません。";
+"GMOPG.ErrorDescription.110-119" = "有効期限が正しくありません。";
+"GMOPG.ErrorDescription.120-129" = "セキュリティコードが正しくありません。";
+"GMOPG.ErrorDescription.130-499" = "エラーが発生しました。申し訳ありませんが、しばらくしてから再度お試しください。";
+"GMOPG.ErrorDescription.500-Int.max" = "エラーが発生しました。申し訳ありませんが、しばらくしてから再度お試しください。";
+"GMOPG.ErrorDescription.Default" = "エラーが発生しました。申し訳ありませんが、しばらくしてから再度お試しください。";
+
+/* AddressListViewController */
+"Select Address" = "SELECT ADDRESS";
+
+/* AddressListViewModel */
+"HeaderLabel.HomeOrOffice" = "ご自宅/勤務先など";
+"HeaderLabel.PostOfficeOrConveni" = "郵便局/コンビニ受取";
+"FooterLabel.WarningForNonYuYu" = "※「新しい住所を登録」に郵便局/コンビニの住所を設定されても、商品を受取ることはできません";
+
+/* AddressEditViewController */
+"AddressEdit.Header.Default" = "住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。";
+"AddressEdit.Header.Now" = "※本人確認書類と同じ住所を登録してください\n\n※お金に変えたアイテムはこの住所に集荷に伺います";
+
+/* Encourage Save Search Dialog */
+"Get notified when new items are available!" = "この検索条件にマッチした新着商品があった場合にすぐ知りたい！";
+"No thanks" = "今回はやめておく";
+"Cool, save my search" = "この検索条件を保存する";
+
+/* Mercari Large Shipping */
+"Mecari Large Shipping" = "大型らくらくメルカリ便";
+"html.warning.largeShipping" = "大型らくらくメルカリ便の<a href=\"category/15/#50\">注意事項</a>を必ずお読みください。実際の商品の大きさにより送料が変更になる場合や、荷受け出来ない場合がございます。";
+"Shipping from" = "発送元";
+"Show only prefectures" = "※出品時は都道府県のみ表示されます";
+"Enter telephone number" = "電話番号を入力してください";
+"Parsel Size for Product" = "商品の三辺合計サイズ";
+"Confirm important points" = "注意事項を必ずご確認ください";
+"Description for Parsel Size 1" = "1．セット商品は個別に送料がかかるため、別々に出品してください。（例. テレビとテレビ台、応接セット、ダイニングセットなど）";
+"Description for Parsel Size 2&3" = "2．実際の商品の大きさにより送料が変更になる場合や荷受け出来ない場合がございます。\n3．凹凸がある場合の3辺は、最も長い箇所で計測します。";
+"Shipping fee" = "送料";
+"Price without shipping fee" = "送料別販売価格";
+"Price with shipping fee" = "送料込販売価格";
+"Additional shipping fee" = "追加送料";
+"Tax included in fee" = "(税込)";
+
+/* Gender */
+"Gender" = "性別";
+"Female" = "女性";
+"Male" = "男性";
+"description for gender" = "性別は公開されることはありません";
+"Optional" = "お持ちの方のみ";
+"Select a gender" = "性別を選んでください";
+"Gender is not selected" = "性別が未選択です";
+
+/* ProductListBoughtCell */
+"ProductListBoughtCell.SellButton.Title" = "出品する";
+
+/* FacilityEditViewController */
+"facility" = "受取場所";
+"FacilityEdit.ValidationError.FamilyNameEmpty" = "姓を入力してください";
+"FacilityEdit.ValidationError.FirstNameEmpty" = "名を入力してください";
+
+/* delivery options */
+"enable to receive at facility" = "※郵便局/コンビニ受取可能";
+"post office or convenience" = "郵便局/コンビニ受取";
+"anonymous shipping" = "匿名配送";
+"verify guaranteed" = "検品・保証・クリーニング付";
+
+/* Live Channel list View */
+"LiveChannelList.Alert.ResumeConfirmation" = "配信を再開しますか?";
+"LiveChannelList.Alert.Resume" = "再開する";
+"LiveChannelList.Alert.Cancel" = "しない";
+"LiveChannelList.Rankers.Title" = "ランキング";
+"LiveChannelList.Beginners.Title" = "ビギナー";
+
+/* Live Stream View */
+"StartView.StartButton.Title" = "配信スタート";
+"CountDown.Start.Title" = "START";
+"LiveStream.Alert.BroadcastTimeout" = "サーバーとの接続が切れました";
+"LiveStream.Alert.Action.Restandby" = "再開する";
+"LiveStream.Alert.BroadcastDisconnected" = "サーバーとの接続が切れました";
+"LiveStream.Alert.Action.Restart" = "再開する";
+"LiveStream.Alert.Action.Cancel" = "キャンセル";
+"LiveStream.CommentButton.Title" = "コメントする";
+"LiveStream.CommentButton.Disabled.Title" = "購入のみ可能";
+"LiveStream.PublishVideoButton.Title.Publish" = "公開する";
+"LiveStream.PublishVideoButton.Title.UnPublish" = "公開しない";
+"LiveStream.Alert.Title.PublishVideo" = "この配信済み動画を公開しますか？";
+"LiveStream.Alert.Action.Publish" = "公開する";
+"LiveStream.Alert.Title.UnPublishVideo" = "この配信済み動画の公開をやめますか？";
+"LiveStream.Alert.Action.UnPublish" = "公開しない";
+"LiveStream.Alert.StopBroadcasting" = "配信を終了しますか？";
+"LiveStream.Alert.Action.StopBroadcasting" = "終了する";
+"LiveStream.Follow.Completed" = "フォローしました";
+"LiveStream.Coupon.Message" = "%@まで %@";
+"LiveStream.Share.Message" = "%@\n\n#メルチャン で%@さんが配信中♪";
+
+/* Live Instruction */
+"LiveInstruction.Gift.Text" = "スタンプを贈って盛りあげよう♪";
+"LiveInstruction.Comment.Text" = "まずは「はじめまして」のあいさつをしてみよう♪";
+"LiveInstruction.Follow.Text" = "フォローしたら次の配信時に通知が届くよ♪";
+
+/* Live Chat View */
+"LiveChat.BlockActon.Title" = "さんをブロック";
+"LiveChat.ViewProfileActon.Title" = "プロフィールを確認";
+
+/* Live Stream Finish View */
+"LiveStreamFinish.Header.Caption.Default" = "この配信は終了しています";
+"LiveStreamFinish.Header.Caption.Preparing" = "この配信済み動画は公開準備中です";
+"LiveStreamFinish.Header.Caption.Unpublic" = "この配信済み動画は非公開です";
+"LiveStreamFinish.SectionHeader.Products.Title" = "商品一覧";
+
+/* Live Channel Edit View */
+"LiveChannelEdit.NavigationBar.Title" = "配信の情報を入力";
+"LiveChannelEdit.SectionHeader.Photo.Title" = "配信のカバー写真";
+"LiveChannelEdit.SectionHeader.Title.Title" = "配信のタイトル";
+"LiveChannelEdit.SectionHeader.Category.Title" = "配信のカテゴリー";
+"LiveChannelEdit.Title.Placehoder" = "例）夏向けコーデ集めました♪見てね♡";
+"LiveChannelEdit.Category.Placehoder" = "選択してください";
+"LiveChannelEdit.SectionHeader.Products.Title" = "配信で紹介する商品";
+"LiveChannelEdit.AddButton.Title" = "新しい商品を追加する";
+"LiveChannelEdit.LiveStartButton.Title" = "配信をはじめる";
+"AddChannelEdit.AddChannelError.PhotoEmpty" = "配信のカバー写真を登録してください";
+"AddChannelEdit.AddChannelError.TitleEmpty" = "配信のタイトルを入力してください";
+"AddChannelEdit.AddChannelError.CategoryEmpty" = "配信のカテゴリーを選択してください";
+"AddChannelEdit.OrgUserTosConfirmation.Title" = "法人アカウントの切り替えについて";
+"AddChannelEdit.OrgUserTosConfirmation.Message" = "売上や出品在庫数が上限を超えたため、法人向け利用規約に同意いただく必要があります。\n\n次のページで表示される注意事項をよくご確認の上、ご同意ください。";
+"AddChannelEdit.OrgUserTosConfirmation.Confirm.Button" = "確認する";
+
+/* Live Product Edit View */
+"LiveProductEdit.SectionHeader.Products.Title" = "商品一覧";
+
+/* Live Product Select View */
+"LiveProductSelect.NavigationBar.Title" = "配信用商品を追加";
+"LiveProductSelect.SelectAmount.Title" = "在庫数を入力してください";
+"LiveProductSelect.SelectAmount.Message" = "配信限定で、同じ商品を複数販売することができます";
+"LiveProductSelect.SelectAmount.AmountLabel" = "在庫数:";
+"LiveProductSelect.SelectAmount.Add" = "追加する";
+"LiveProductSelect.Alert.StockAmountEmpty" = "在庫数が未入力です";
+
+/* Live Gift Select View */
+"LiveGiftSelect.RemainingYell.Title" = "残り応援回数：";
+"LiveGiftSelect.Alert.Message" = "本日の残り応援回数が0になりました。応援回数は毎朝5時に更新されます。";
+
+/* Report View Controller */
+"Report.Title" = "不適切な%@の報告";
+"Report.Placeholder" = "通報理由を入力してください。";
+"Report.Action.Report" = "通報";
+"Report.Kind.Live" = "動画";
+
+/* BillsTransferDisplayModel */
+"BillsTransfer.DepositMethod.Title" = "お急ぎ振込";
+"BillsTransfer.DepositMethod.Select.Use" = "利用する";
+"BillsTransfer.DepositMethod.Select.NotUse" = "利用しない";
+"BillsTransfer.DepositMethod.UseDefault" = "お急ぎ振込を利用しない";
+"BillsTransfer.DepositMethod.Use.Daily" = "お急ぎ振込を利用する";
+"BillsTransfer.DepositMethod.Use.Daily.Fee" = "(手数料¥ %d)";
+"BillsTransfer.DepositMethod.Confirm.Title" = "お急ぎ振込";
+"BillsTransfer.DepositMethod.Select.Footer" = "お急ぎ振込をご利用の際は、通常の振込手数料に加え別途手数料%d円がかかります";
+"BillsTransfer.DepositMethod.Daily.Link" = "お急ぎ振込とは";
+"BillsTransfer.Free" = "無料";
+"BillsTransfer.Proceed.Confirm" = "振込手数料が%@円かかります。%@円以上の振込申請の場合、振込手数料は%@となりますが、よろしいですか？";
+"BillsTransfer.Proceed.Confirm.Daily" = "振込手数料が%@かかります。";
+
+/* Profile Header - Stats view */
+"ProfileHeader.Stats.NumberOfItems" = "出品数";
+"ProfileHeader.Stats.Followers" = "フォロワー";
+"ProfileHeader.Stats.Followings" = "フォロー中";
+
+/* Notification Settings */
+"Settings.Notification.FollowNotification" = "フォロー中出品者の出品";
+"Settings.Notification.Live" = "メルカリチャンネル";
+
+/* Follow */
+"Follow.Empty.Followers" = "フォローされているユーザがいません";
+"Follow.Empty.Followings" = "フォローしているユーザがいません";
+
+/* Saved Search List */
+"SavedSearchList.Empty" = "保存した検索条件が\nありません";
+
+/* History */
+"Word.History" = "履歴";
+
+/* Kandou */
+"ProductEdit.Kandou.Processing" = "画像を解析しています..";
+
+/* ProductEditAssetImage */
+
+"ProductEditAssetImage.DownloadingFromiCloud" = "iCloudからダウンロード中です…";
+
+/* Stocks feature */
+"Stocks.NumberOfStocks" = "在庫";
+"Stocks.NumberOfStocks.Title" = "在庫:";
+"Stocks.LiveOnly" = "配信専用商品";
+"Stocks.StockAmountStyle.Circle" = "◯";
+"Stocks.StockAmountStyle.Triangle" = "△";
+
+/* Now */
+"Now.AgeVerification.Done" = "完了";
+"Now.AgeVerification.Alert.Title" = "入力した生年月日の確認";
+"Now.AgeVerification.Alert.SubMessage" = "入力に誤りがある場合は本人確認の際にサービスをご利用いただけなくなります。ご注意ください。";
+"Now.AgeVerification.Alert.CompletionButton.Title" = "確認して登録する";
+"Now.AgeVerification.Alert.CancelButton.Title" = "修正する";
+"Now.Assessment.Assessing" = "査定中…";
+"Now.BankAccout.Title" = "口座の登録";
+"Now.OnsiteItemList.Title" = "高額査定アイテム";
+"Now.OnsiteItemList.Section.Created.Title" = "査定開始前のアイテム";
+"Now.OnsiteItemList.Section.Assessing.Title" = "査定中のアイテム";
+"Now.Assessment.Title.Price" = "査定金額";
+"Now.Assessment.Title.isNotAvailable" = "査定ができません";
+"Now.Assessment.GoButton.Title.NeedsShipment" = "集荷依頼をして発送する";
+"Now.Assessment.BackButton.Title.Cancel" = "キャンセル";
+"Now.Assessment.BackButton.Title.Close" = "閉じる";
+"Now.OnsiteAssessment.InitialPaymentFormat" = "今すぐ%@、査定後に残額を入金します";
+"Now.OnsiteAssessment.GoButton.TitleFormat" = "まずは%@を受け取る";
+"Now.ImagesSelect.TakeItem" = "アイテムの撮影";
+"Now.ImagesSelect.Edit" = "編集";
+"Now.BuyItem.Detail.Brand" = "ブランド";
+"Now.BuyItem.Detail.Category" = "カテゴリー";
+"Now.BuyItem.Detail.Condition" = "状態";
+"Now.BuyItem.Detail.ItemName" = "アイテム名";
+"Now.BuyItem.Detail.SectionTitle" = "アイテム詳細";
+"Now.BuyItem.Detail.BrandHistory.SectionTitle" = "ブランド履歴";
+"Now.BuyItem.Select.Required" = "(必須)";
+"Now.BuyItem.Select.Brand" = "ブランド";
+"Now.BuyItem.Select.Category" = "カテゴリー";
+"Now.BuyItem.Select.Condition" = "状態";
+"Now.BuyItem.Select.ItemName" = "アイテム名";
+"Now.BuyItem.Html.Warning" = "査定前に<a href=\"article/403\">利用規約</a>を必ずご確認ください。<a href=\"article/389\">禁止行為</a>や<a href=\"article/389\">迷惑行為</a>、違法行為を行った場合、売上金の回収、及び<b>メルカリの利用制限</b>を行います。";
+"Now.Camera.InstructionText" = "全体が入るように撮影してください";
+"Now.Camera.NavigationBarTitle" = "アイテムの撮影";
+"Now.CashResult.DeadlineFormat" = "集荷期限：%@まで";
+"Now.IdentityVerification.Done" = "完了";
+"Now.IdentityVerification.Job.1" = "会社員・団体職員";
+"Now.IdentityVerification.Job.2" = "会社役員・団体役員";
+"Now.IdentityVerification.Job.3" = "公務員";
+"Now.IdentityVerification.Job.4" = "自営業";
+"Now.IdentityVerification.Job.5" = "契約・派遣社員";
+"Now.IdentityVerification.Job.6" = "パート・アルバイト";
+"Now.IdentityVerification.Job.7" = "主婦・家事手伝い";
+"Now.IdentityVerification.Job.8" = "年金受給者";
+"Now.IdentityVerification.Job.9" = "学生";
+"Now.IdentityVerification.Job.10" = "無職";
+"Now.IdentityVerification.Job.11" = "その他";
+"Now.IdentityVerification.Title" = "本人確認";
+"Now.IdentityVerification.Html.Warning" = "<b>古物営業法</b>に基づき、本人確認のため、氏名・住所・生年月日が記載された<b>本人確認書類（運転免許証・健康保険証・住民票のいずれか）</b>を撮影してご提出ください。";
+"Now.Main.Alert.AssessmentUnavailable.Title" = "査定機能がご利用できません";
+"Now.Main.Alert.AssessmentUnavailable.Message" = "集荷依頼をしてお金に変えたアイテムを発送してください。";
+"Now.Main.Alert.AssessmentUnavailable.SubMessageFormat" = "※査定機能はアイテムを発送後に利用できるようになります。\n※集荷できるアイテム数は1度に%d個までです。";
+"Now.Main.Alert.AssessmentUnavailable.CompletionButton.Title" = "集荷依頼をして発送する";
+"Now.Main.Alert.AssessmentUnavailable.CancelButton.Title" = "閉じる";
+"Now.Main.Alert.UserBanned.Title" = "査定機能がご利用できません";
+"Now.Main.Alert.UserBanned.Message" = "現在、査定機能のご利用を制限しています。";
+"Now.Main.Alert.UserBanned.CancelButton.Title" = "閉じる";
+"Now.Main.ItemList.Deadline.Format" = "集荷期限：%@";
+"Now.Main.ItemList.Header.Request.Title" = "集荷依頼待ちのアイテム";
+"Now.Main.ItemList.Header.Status.Title" = "集荷依頼中のアイテム";
+"Now.Main.ItemList.ItemCount.Format" = "など計%d点";
+"Now.Main.ItemList.Onsite.Title" = "高額査定アイテム";
+"Now.Main.PickupButton.Request.Title" = "集荷を依頼する";
+"Now.Main.PickupButton.Status.Title" = "集荷依頼の経過を見る";
+"Now.Main.ItemsButton.Request.Title" = "アイテムを見る";
+"Now.Master.ErrorMessage.InvalidData" = "データが破損しています。アプリの設定画面でキャッシュを消去してください。";
+"Now.WebView.Error.FailedLoading.Title" = "通信に失敗しました";
+"Now.WebView.Error.FailedLoading.Message" = "ネットワーク環境などをご確認の上、もう一度お試しください。";
+"Now.ConditionSelect.Warning" = "1.「新品・未使用」は、タグや箱付きなど客観的に未使用である、と確認できることを必須とします。\n\n2. 傷・汚れ・匂いの目立つものは買取り対象外となりますのでご注意下さい。\n\n3. 違反された場合は、買取りキャンセルやメルカリ利用制限などを実施します。";
+"Now.ConditionSelect.Warning.Bold.1" = "新品・未使用";
+"Now.ConditionSelect.Warning.Bold.2" = "買取り対象外";
+"Now.ConditionSelect.Warning.Bold.3" = "買取りキャンセル";
+"Now.ConditionSelect.Warning.Bold.4" = "メルカリ利用制限";
+
+/* Organizatinal User */
+"Org.SpecifiedCommercialTransactions" = "特定商取引法の表記";
+"Org.PrivacyPolicy" = "プライバシーポリシー";
+
+/* Common */
+"Common.AcquireData.Message" = "データを取得する";
+"Common.Error.ConnectionUnstable.Message" = "通信が不安定なため、データを取得できませんでした。電波の良い所で再度お試しください。";
+
+/* AntiSocial */
+"AntiSocial.Personal.Information.Register.Title" = "本人情報の登録";
+"AntiSocial.Zip.Icon" = "〒";
+"AntiSocial.Header.Description.Register" = "お客さまのあんしん・あんぜんな取引のため、本人情報のご登録をお願いしております。";
+"AntiSocial.Header.Description.Edit" = "お客様の本人情報をご登録ください。";
+"AntiSocial.Button.Register.Title.Register" = "登録する";
+"AntiSocial.Button.Register.Title.Edit" = "編集完了";
+"AntiSocial.Alert.NoEnter.AddressName" = "住所氏名が未入力です";
+"AntiSocial.Alert.NoEnter.Birthday" = "生年月日が未入力です";
+"AntiSocial.Progress.Message.Registered" = "登録を完了しました";
+"AntiSocial.Bank.Edit.Caution.NotKYC" = "振込先が間違っている場合、再振込手数料210円が発生します";
+"AntiSocial.Bank.Edit.Caution.KYC" = "※振込先が間違っている場合、再振込手数料210円が発生します。\n※登録された住所氏名と売上金の振込口座名義が一致しない場合、振込申請をすることはできません。\n※ご登録の口座が、家族名義の口座や、婚姻等による改姓等のため名義が異なる場合、「メニュー>問い合わせ>売上の振込申請について>お問い合わせする」より、お問い合わせください。";
+
+/* Offer */
+"Offer.Buyer.Request.Prompt" = "出品者の方に値引きをお願いしてみましょう";
+"Offer.Buyer.Request.Reason.CannotOffer.Format" = "元値の%d%%以上の価格にしてください";
+"Offer.Buyer.Request.Reason.TooLow.Format" = "最低販売価格（¥%d）より高い価格にしてください";
+"Offer.Buyer.Request.Reason.TooHigh" = "元値より高い価格は設定できません";
+"Offer.Buyer.Request.Description.CanOfferCount.Format" = "同時に出せるオファーは%d件までです";
+"Offer.Buyer.Create.Timeout.Instructions.Format" = "２．出品者が**%@**までに承諾しなかった場合、オファーは自動的にキャンセルになります";
+"Offer.Buyer.Submitted.Popup" = "送信しました";
+"Offer.Buyer.Wait.Response.Prompt" = "オファーを送りました。お待ちください";
+"Offer.Buyer.Buy.Title" = "この商品へのオファーが承諾されました。購入してください";
+"Offer.Buyer.Buy.Prompt" = "%@までに購入してください";
+"Offer.Seller.Confirm.Offer.Prompt" = "この商品へ値引きのオファーが来ました。この価格で販売しますか？";
+"Offer.Seller.Wait.Purchase.Prompt" = "購入をお待ちください。";
+"Offer.Seller.Create.HowToReceiveOfferConfirm.Instructions.Format" = "１．あなたが**%@**までにオファーを受け入れると相手はその価格で購入手続きに進むことができます。販売価格を変更する必要はありません";
+"Offer.Seller.Create.HowToReceiveWait.Instructions.Format" = "２．購入希望者が**%@**までに購入しなかった場合、このオファーは自動的にキャンセルとなります";
+"Offer.Cancelled.Cancel.Title" = "この商品へのオファーはキャンセルされました";
+"Offer.Cancelled.Decline.Title" = "この商品へのオファーは承諾されませんでした";
+"Offer.Cancelled.Soldout.Already.Prompt" = "商品が他のお客さまに購入されたため自動的にキャンセルとなりました";
+"Offer.Cancelled.Edit.Product.Prompt" = "商品が編集されたため自動的にキャンセルとなりました";
+"Offer.Cancelled.Timeout.Offer.Prompt" = "オファーの制限時間を超えたため自動的にキャンセルとなりました";
+"Offer.Cancelled.Rejected.Seller.Prompt" = "出品者が受け入れやすい価格でオファーしてみましょう";
+
+/* Pre Pay */
+"PrePay.Screen.Title" = "売上金でポイントを購入";
+"Prepay.Screen.NoSales" = "売上金がないためポイントを購入できません";
+"Prepay.Screen.Validation.Error.InvalidInputtedSales" = "購入するポイントが所持する売上金を超えています";
+"Prepay.Screen.Content.Detail.About.SalesBuy" = "売上金での購入について";
+"Prepay.Screen.HowTo.Message" = "まず売上金でポイントを購入してください。\nそのポイントを商品の購入にご使用ください。";
+"Prepay.Screen.Purchase.Confirm.Title" = "を購入する";
+"Prepay.Screen.Purchase.Confirm.Alert.Yes" = "購入する";
+"Prepay.Screen.Purchase.Confirm.Alert.No" = "購入しない";
+"Prepay.Screen.Purchase.PostPurchase.Title" = "購入したポイントを今回使いますか？";
+"Prepay.Screen.Purchase.PostPurchase.Alert.Yes" = "使う";
+"Prepay.Screen.Purchase.PostPurchase.Alert.No" = "使わない";
+"Prepay.Screen.Purchase.PointPurchaseCell.ExistsSales" = "売上金があります";
+"Prepay.Screen.Purchase.PointPurchaseCell.NoSales" = "売上金がありません";
+"Prepay.Screen.Purchase.SalesExpuration.NoSales" = "所持している売上金はありません";
+"Prepay.Screen.UserConfirm.Description.Prefix" = "より、あんしん・あんぜんにお取引いただくため、";
+"Prepay.Screen.UserConfirm.Description.Bold" = "売上金での商品の購入ができなくなりました。\n";
+"Prepay.Screen.UserConfirm.Description.Suffix" = "今後は以下の手順でご利用ください。";
+"Prepay.Screen.UserConfirm.AdditionalPurchase.Title" = "商品購入に必要なポイントを\nすでに持っていてます。";
+"Prepay.Screen.UserConfirm.AdditionalPurchase.Message" = "追加でポイントを購入しますか？";
+"Prepay.Screen.UserConfirm.AdditionalPurchase.Alert.Yes" = "購入する";
+"Prepay.Screen.UserConfirm.AdditionalPurchase.Alert.No" = "いいえ";
+"Prepay.Screen.PointUse.Sales.Nothing" = "売上金がありません";
+"Prepay.Screen.PointUse.Sales.NothingShort" = "ありません";
+"Prepay.Screen.Tutorial.ButtonFirst" = "次へ";
+"Prepay.Screen.Tutorial.ButtonSecond" = "ポイントの購入に進む";
+"Prepay.Screen.Tutorial.LabelFirst" = "売上金でポイントを購入";
+"Prepay.Screen.Tutorial.LabelSecond" = "ポイントで商品を購入";
+
+
+/* CatalogDetailMultiSelectView */
+"CatalogDetailMultiSelectView.NoneRow.Title" = "なし";
+
+/* CatalogGuidedFlow */
+"CatalogGuidedFlowContainer.SkipButton.Title" = "あとで設定する";
+
+/* Transfer */
+"Transfer.BillSchedule.Message0" = "に入金するには";
+"Transfer.BillSchedule.Message1" = "までに";
+"Transfer.BillSchedule.Message2" = "振込申請が必要です";
+"Transfer.BillSchedule.Link" = "振込日を確認";
+"Transfer.BillSchedule.Finish.Message" = "に入金予定です。振込完了までお待ちください。";
+
+/* Kyc Privacy Policy */
+"Kyc.PrivacyPolicy.ScreenTitle" = "個人情報の取扱いについて";
+"Kyc.PrivacyPolicy.Link.Text.Privacy" = "個人情報の取扱いについて、<a href=\"jp/privacy\">プライバシーポリシー</a>をご確認ください。";
+"Kyc.PrivacyPolicy.Link.Text.Caution" = "また、下記の同意するボタンを選択すると、プライバシーポリシーに同意したことになります。";
+
+/* Kyc Status Document */
+"Kyc.StatusMenu.IdentityDocument.FooterTitle" = "氏名・住所・生年月日が記載された本人確認書類、運転免許証・健康保険証のいずれかが必要です。";
+"Kyc.StatusMenu.IdentityDocument.Title" = "本人確認書類のアップロード";
+"Kyc.StatusMenu.IdentityDocument.LinkTitle" = "本人確認書類のアップロードについて";
+"Kyc.StatusMenu.IdentityDocument.Verifying.AlertTitle" = "本人情報確認中";
+"Kyc.StatusMenu.IdentityDocument.Verifying.AlertMessage" = "メルカリグループとしてお客さま情報を確認しております。処理が完了するまでもうしばらくお待ちください";
+"Kyc.StatusMenu.IdentityDocument.ScreenTitle" = "本人確認";
+
+/* Kyc Document Select */
+"Kyc.DocumentSelect.Title" = "本人確認書類のアップロード";
+"Kyc.DocumentSelect.HeaderTitle" = "本人確認のため、氏名・住所・生年月日が記載された本人確認書類のうちの以下のいずれかを撮影してご提出ください。";
+
+/* Kyc Photo Confirmation */
+"Kyc.PhotoConfirmation.Description" = "項目がはっきりと写った画像をご提出ください。";
+"Kyc.PhotoConfirmation.FrontPhoto.Title" = "表面写真";
+"Kyc.PhotoConfirmation.BackPhoto.Title" = "裏面写真";
+"Kyc.PhotoConfirmation.ApprovalButtopn.Title" = "次へ";
+"Kyc.PhotoConfirmation.LinkButtopn.Title" = "本人確認書類のアップロードについて";
+"Kyc.PhotoConfirmation.ConfirmAlert.Title" = "現住所の確認";
+"Kyc.PhotoConfirmation.ConfirmAlert.Message" = "ご提出頂く本人確認書類の住所と現住所は一致していますか？";
+"Kyc.PhotoConfirmation.ConfirmAlert.Ok" = "はい";
+"Kyc.PhotoConfirmation.ConfirmAlert.Ng" = "いいえ";
+
+/* Kyc Camera */
+"Kyc.Camera.Title" = "本人確認";
+"Kyc.NavigationText" = "項目がはっきりと写るように撮影してください";
+
+/* Kyc User Info */
+"Kyc.UserInfo.ScreenTitle" = "本人情報";
+"Kyc.UserInfo.ApprovalButtonTitle" = "登録する";
+"Kyc.UserInfo.DisapprovalButtonTitle" = "個人情報の変更";
+"Kyc.UserInfo.ApprovalDescription" = "書類審査に24時間かかる場合があります";
+
+"Kyc.UserInfo.ValidationError.General.Title" = "エラー";
+"Kyc.UserInfo.ValidationError.Address.Title" = "住所の確認";
+"Kyc.UserInfo.ValidationError.BuildingName.Title" = "住所の確認";
+"Kyc.UserInfo.ValidationError.Required.Message" = "入力されていない項目があります";
+"Kyc.UserInfo.ValidationError.DigitPostcode.Message" = "郵便番号は数字７桁です";
+"Kyc.UserInfo.ValidationError.Address.Format" = "%@\n\n%@ %@\n(%@ %@)\n〒%@-%@ %@%@%@%@\n";
+"Kyc.UserInfo.ValidationError.Address.Warn" = "番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。";
+"Kyc.UserInfo.ValidationError.BuildingName.Message" = "建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？";
+"Kyc.UserInfo.ValidationError.BuildingName.Button.Message.Ok" = "登録する";
+"Kyc.UserInfo.ValidationError.BuildingName.Button.Message.No" = "いいえ";
+"Kyc.UserInfo.CompletingAlert.Input.Title" = "本人情報の登録が完了しました";
+"Kyc.UserInfo.CompletingAlert.Input.Message" = "ご登録の本人情報を確認いたします。\n確認が完了するまでもうしばらくお待ちください";
+
+/* Kyc Supplementary Document */
+"Kyc.SupplementaryDocument.ScreenTitle" = "補足書類の提出";
+"Kyc.SupplementaryDocument.ApprovalButtonTitle" = "次へ";
+"Kyc.SupplementaryDocument.DisapprovalButtonTitle" = "スキップ";
+
+/* Word */
+"Word.DoAgree" = "同意する";
+"Word.Ok" = "OK";
+"Word.Confirming" = "確認中";
+
+/* KauruProduct */
+
+"KauruProduct.Search.Description.Introduction" = "タイトルや作者名から商品を検索して、\nかんたんに出品ができます。";
+"KauruProduct.Search.SearchBar.Placeholder" = "タイトルや作品名から検索";
+"KauruProduct.Search.Description.NotFound" = "該当する商品が見つかりません。";
+"KauruProduct.Author" = "作者";
+"KauruProduct.TaxInclusivePrice" = "定価";
+"KauruProduct.ReferencePrice" = "参考価格";
+
+/* Anyone */
+"Anyone.SearchResults.Title" = "ショップから新品を探しませんか？";
+"Anyone.SearchResults.ViewMore" = "もっと見る";
+
+/*DeferredPayment KYC*/
+
+"DeferredPayment.Alert.Message" = "メルカリ月イチ払いのご利用の際には、本人情報のご登録をお願いしております";
+"DeferredPayment.Alert.Register" = "登録する";
+
+/*Search*/
+"SearchResult.SearchBar.Placeholder" = "からさがす";
+
+/* SmartphoneAssessment */
+"SmartphoneAssessment.NoNumber.Title" = "<b>スマホがキャリア下取りより高く売れる!?</b>";
+"SmartphoneAssessment.IsNumberExist.Title" = "お持ちのスマホが<b>%@</b>で売れるかも!?";
+
+/* ItemDetailPreview (Duplicated with ItemDetail/Localizable)*/
+"com.kouzoh.mercari.item_detail.add_like" = "いいね！";
+"com.kouzoh.mercari.item_detail.delete_like" = "いいね！をはずす";
+"com.kouzoh.mercari.item_detail.see_seller" = "出品者をみる";
