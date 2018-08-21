@@ -3019,9 +3019,9 @@
 "保存" = "保存";
 
 /* Registration.storyboard */
-"メールアドレスで登録" = "メールアドレスで登録";
-"Facebookで登録" = "Facebookで登録";
-"Google+で登録" = "Googleで登録";
+"メールアドレスで登録" = "Sign up with email";
+"Facebookで登録" = "Continue with Facebook";
+"Google+で登録" = "Continue with Google";
 "Registration.Gender.TopDescription" = "性別（任意）";
 
 /* ProductDetailViewController.m %1=title %2=pricing */
@@ -3083,7 +3083,7 @@
 "振込内容" = "振込内容";
 
 /* お互いに安心取引するためにまずは会員登録をよろしくお願いします */
-"お互いに安心取引するためにまずは会員登録をよろしくお願いします" = "お互いに安心取引するためにまずは会員登録をよろしくお願いします";
+"お互いに安心取引するためにまずは会員登録をよろしくお願いします" = "Please sign up for a Mercari account to ensure a safe and secure experience";
 
 /* Unable to Connect to Google */
 "Unable to Connect to Google" = "ログインエラー";
@@ -3185,10 +3185,10 @@
 "メールアドレスでログイン" = "メールまたは電話番号でログイン";
 
 /* Registration.storyboard */
-"Facebookでログイン" = "Facebookでログイン";
+"Facebookでログイン" = "Continue with Facebook";
 
 /* Registration.storyboard */
-"Google+でログイン" = "Googleでログイン";
+"Google+でログイン" = "Continue with Google";
 
 /* "本当にこのコメントを削除してよろしいですか？" */
 "本当にこのコメントを削除してよろしいですか？" = "本当にこのコメントを削除してよろしいですか？";
