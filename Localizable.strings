@@ -307,7 +307,7 @@
 "会員登録・ログインについて" = "Signing up & Signing in";
 
 /* SideMenuViewController.xib */
-"会員登録・ログインへ" = "Sign up or Sign in";
+"会員登録・ログインへ" = "Sign up or log in";
 
 /* Contact.storyboard */
 "会員情報を変更したい" = "I want to change my account info";
@@ -715,7 +715,7 @@
 "EmailPasswordSettingViewController.Footer1" = "パスワードを変更したい場合は上記をすべて入力してください。\n※メルカリグループの他アプリをご利用の場合、パスワードを変更するとログアウトされます。変更後は各アプリ内より再度ログインをお願いします。";
 "EmailPasswordSettingViewController.Footer1.Proper" = "パスワードを設定したい場合は上記をすべて入力してください。\n※メルカリグループの他アプリをご利用の場合、パスワードを変更するとログアウトされます。変更後は各アプリ内より再度ログインをお願いします。";
 "メールアドレスを変更すると確認メールが送信されます。メール内のURLをクリックすると変更完了です。" = "メールアドレスを変更すると確認メールが送信されます。メール内のURLをクリックすると変更完了です。";
-"新パスワード(確認)" = "新パスワード(確認)";
+"新パスワード(確認)" = "Confirm new password";
 
 /* ※無料振込チケットがあるため、今回の振込手数料は無料です (残り%d枚) */
 "※無料振込チケットがあるため、今回の振込手数料は無料です (残り%d枚)" = "※振込無料チケットがあるため、今回の振込手数料は無料です (残り%d枚)";
@@ -2219,37 +2219,37 @@
 "トラブルがあった" = "トラブルがあった";
 
 /* Contact.storyboard */
-"トラブルがあった / その他" = "トラブルがあった / その他";
+"トラブルがあった / その他" = "Other issues";
 
 /* Contact.storyboard */
-"トラブルがあった / 出品者側" = "トラブルがあった / 出品者側";
+"トラブルがあった / 出品者側" = "Seller issues";
 
 /* Contact.storyboard */
-"トラブルがあった / 購入者側" = "トラブルがあった / 購入者側";
+"トラブルがあった / 購入者側" = "Buyer issues";
 
 /* トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。 */
-"トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。" = "トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。";
+"トラブルがあった場合、以下のリンクに対応方法が記載されているので必ずお読みください。該当しない場合のみ下記のフォームよりお問い合わせください。" = "If you encounter a problem, read our FAQs first. If you don't find an answer there, feel free to contact us through the form below!";
 
 /* 今後、表示しない */
-"今後、表示しない" = "今後、表示しない";
+"今後、表示しない" = "Don't ask again";
 
 /* FacebookRegisterViewController.xib, ProfileEditViewController.xib, UserRegisterViewController.xib */
-"ニックネーム" = "ニックネーム";
+"ニックネーム" = "Username";
 
 /* ニックネームが最大文字数を超えています。%d文字削除してください */
-"ニックネームが最大文字数を超えています。%d文字削除してください" = "ニックネームが最大文字数を超えています。%d文字削除してください";
+"ニックネームが最大文字数を超えています。%d文字削除してください" = "Your username is above the character limit. Please use %d less characters";
 
 /* ニックネームが未入力です */
-"ニックネームが未入力です" = "ニックネームが未入力です";
+"ニックネームが未入力です" = "Please enter your username";
 
 /* ニックネームと写真の登録 */
-"ニックネームと写真の登録" = "ニックネームと写真の登録";
+"ニックネームと写真の登録" = "Sign Up";
 
 /* FacebookRegisterViewController.xib */
-"ニックネームと写真を登録してください" = "ニックネームと写真を登録してください";
+"ニックネームと写真を登録してください" = "Please enter a username and add a photo";
 
 /* ニックネームは20文字以内です */
-"ニックネームは20文字以内です" = "ニックネームは20文字以内です";
+"ニックネームは20文字以内です" = "Enter your username in less than 20 characters";
 
 /* ニュース */
 "ニュース" = "News";
@@ -2261,43 +2261,43 @@
 "ニュースタイトル" = "ニュースタイトル";
 
 /* Contact.storyboard */
-"嫌がらせ・荒らし行為をされた" = "嫌がらせ・荒らし行為をされた";
+"嫌がらせ・荒らし行為をされた" = "Report an abuse";
 
 /* 毎回 */
-"毎回" = "毎回";
+"毎回" = "Every time";
 
 /* ハンドメイド */
-"ハンドメイド" = "ハンドメイド";
+"ハンドメイド" = "Handmade";
 
 /* チケット */
-"チケット" = "チケット";
+"チケット" = "Tickets";
 
 /* Setting.storyboard */
-"バージョン情報" = "バージョン情報";
+"バージョン情報" = "Version";
 
 /* FacebookRegisterViewController.xib, LoginViewController.xib, UserRegisterViewController.xib */
-"パスワード" = "パスワード";
+"パスワード" = "Password";
 
 /* UserRegisterViewController.xib */
-"パスワード (確認)" = "パスワード (確認)";
+"パスワード (確認)" = "Password (Confirmation)";
 
 /* パスワードが未入力です */
-"パスワードが未入力です" = "パスワードが未入力です";
+"パスワードが未入力です" = "Please enter a password. ";
 
 /* パスワードは6文字以上15文字以下です */
-"パスワードは6文字以上15文字以下です" = "パスワードは6文字以上15文字以下です";
+"パスワードは6文字以上15文字以下です" = "Your password must be between 6 and 15 characters";
 
 /* PasswordResetViewController.xib */
-"パスワードをリセットする" = "パスワードをリセットする";
+"パスワードをリセットする" = "Reset Password";
 
 /* Contact.storyboard */
-"パスワードを忘れた" = "パスワードを忘れた";
+"パスワードを忘れた" = "I forgot my password";
 
 /* パスワードを忘れた方 */
-"パスワードを忘れた方" = "パスワードを忘れた方";
+"パスワードを忘れた方" = "Password Reset";
 
 /* LoginViewController.xib */
-"パスワードを忘れた方はこちら" = "パスワードを忘れた方はこちら";
+"パスワードを忘れた方はこちら" = "Forgot password?";
 
 /* 金券、クーポン、WEBマネー、現行紙幣 */
 "金券、クーポン、WEBマネー、現行紙幣" = "金券・クーポン・WebMoney";
@@ -2666,7 +2666,7 @@
 "￥3,000" = "￥3,000";
 
 /* CommentBalloonView.xib, ReviewListViewCell.xib */
-"ユーザ名" = "User Name";
+"ユーザ名" = "Username";
 
 /* 編集内容がクリアされますがよろしいですか？ */
 "編集内容がクリアされますがよろしいですか？" = "Cancel?";
@@ -2690,16 +2690,16 @@
 "Prohibited Item" = "Prohibited Item";
 
 /* ログイン */
-"ログイン" = "Sign in";
+"ログイン" = "Log in";
 
 /* (タイトル)ログイン */
-"(タイトル)ログイン" = "Sign In";
+"(タイトル)ログイン" = "Log In";
 
 /* ログイン中 */
-"ログイン中" = "Signing in";
+"ログイン中" = "Logging in";
 
 /* Contact.storyboard */
-"ログインできない" = "I can't sign in";
+"ログインできない" = "I can't log in";
 
 /* 売上履歴 */
 "売上履歴" = "Balance history";
