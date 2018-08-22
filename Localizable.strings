@@ -6,19 +6,19 @@
 "一度ポイントに交換すると売上金に戻すことはできません。よろしいですか？" = "一度ポイントに交換すると売上金に戻すことはできません。よろしいですか？";
 
 /* 一部のポイントを利用 */
-"一部のポイントを利用" = "一部のポイントを利用";
+"一部のポイントを利用" = "Using credits";
 
 /* Purchase.storyboard, Purchase.storyboard */
-"一部のポイントを使う" = "一部のポイントを使う";
+"一部のポイントを使う" = "Apply some credits";
 
 /* Contact.storyboard */
-"退会理由（必須）" = "退会理由（必須）";
+"退会理由（必須）" = "Tell us why you are deleting your account (required)";
 
 /* 退会理由 : %@\n */
-"退会理由 : %@\n" = "退会理由 : %@\n";
+"退会理由 : %@\n" = "Tell us why you are deleting your account: %@\n";
 
 /* 退会理由を選択してください */
-"退会理由を選択してください" = "退会理由を選択してください";
+"退会理由を選択してください" = "Please select the reason for deleting your account";
 
 /* 退会申請の前にログインしてください */
 "退会申請の前にログインしてください" = "退会申請の前にログインしてください";
@@ -1101,7 +1101,7 @@
 "削除中" = "削除中";
 
 /* ErrorView.xib */
-"削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。" = "削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。";
+"削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。" = "Your email may have been deleted for the following reasons:\nIf you are using a mobile email address, please ensure that you can receive emails from the domain \"mercariapp.com\".\n- The registered email was wrong and we received a deletion request from the owner of the account\n- Our emails were not being received, and the system deleted it automatically\n\nFor further inquiries, please contact us at contact@mercariapp.com";
 
 /* 削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？ */
 "削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？" = "削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？";
@@ -2571,79 +2571,79 @@
 "メールアカウントを設定してください" = "メールアカウントを設定してください";
 
 /* メールアドレス */
-"メールアドレス" = "メールアドレス";
+"メールアドレス" = "Email";
 
 /* メールアドレス（確認） */
-"メールアドレス（確認）" = "メールアドレス（確認）";
+"メールアドレス（確認）" = "Email (confirmation)";
 
 /* ContactViewController.xib */
-"メールアドレス (確認)" = "メールアドレス (確認)";
+"メールアドレス (確認)" = "Email (confirmation)";
 
 /* メールアドレスが一致していません */
-"メールアドレスが一致していません" = "メールアドレスが一致していません";
+"メールアドレスが一致していません" = "The email addresses do not match";
 
 /* メールアドレスが未入力です */
-"メールアドレスが未入力です" = "メールアドレスが未入力です";
+"メールアドレスが未入力です" = "Please enter an email address";
 
 /* メールアドレスまたは電話番号が未入力です */
-"メールアドレスまたは電話番号が未入力です" = "メールアドレスまたは電話番号が未入力です";
+"メールアドレスまたは電話番号が未入力です" = "Please enter an email address";
 
 /* ErrorView.xib */
-"メールアドレスが削除されました" = "メールアドレスが削除されました";
+"メールアドレスが削除されました" = "The email address has been deleted";
 
 /* ContactViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
-"メールアドレスが間違っていたり、ドメイン指定受信していると返答が届きませんのでご注意ください。" = "メールアドレスが間違っていたり、ドメイン指定受信していると返答が届きませんのでご注意ください。";
+"メールアドレスが間違っていたり、ドメイン指定受信していると返答が届きませんのでご注意ください。" = "Please ensure your email address is correct and that you can accept emails from mercari.jp";
 
 /* メールアドレスは255文字以内です */
-"メールアドレスは255文字以内です" = "メールアドレスは255文字以内です";
+"メールアドレスは255文字以内です" = "Your email address cannot exceed 255 characters";
 
 /* メールアドレスは\n%@\nで登録してもよろしいですか？ */
-"メールアドレスは\n%@\nで登録してもよろしいですか？" = "メールアドレスは\n%@\nで登録してもよろしいですか？";
+"メールアドレスは\n%@\nで登録してもよろしいですか？" = "Please confirm that you would like to sign up using:\n%@";
 
 /* メールアドレスを入力してください */
-"メールアドレスを入力してください" = "メールアドレスを入力してください";
+"メールアドレスを入力してください" = "Please enter your email address";
 
 /* Setting.storyboard */
-"メール・パスワード" = "メール・パスワード";
+"メール・パスワード" = "My Email & Password";
 
 /* メール・パスワードの設定 */
-"メール・パスワードの設定" = "メール・パスワードの設定";
+"メール・パスワードの設定" = "My Email & Password";
 
 /* FullscreenImageViewController.xib */
-"拡大・縮小" = "拡大・縮小";
+"拡大・縮小" = "Zoom in/Zoom out";
 
 /* 口座名義(セイ) */
-"口座名義(セイ)" = "口座名義(セイ)";
+"口座名義(セイ)" = "Acct. holder's name";
 
 /* 口座名義(セイ)が未入力です */
-"口座名義(セイ)が未入力です" = "口座名義(セイ)が未入力です";
+"口座名義(セイ)が未入力です" = "Please enter the account holder's name";
 
 /* 口座名義(メイ) */
-"口座名義(メイ)" = "口座名義(メイ)";
+"口座名義(メイ)" = "Account name (first name)";
 
 /* 口座名義(メイ)が未入力です */
-"口座名義(メイ)が未入力です" = "口座名義(メイ)が未入力です";
+"口座名義(メイ)が未入力です" = "Please enter the account name (first name)";
 
 /* 口座種別 */
-"口座種別" = "口座種別";
+"口座種別" = "Account type";
 
 /* 口座種別の選択 */
-"口座種別の選択" = "口座種別の選択";
+"口座種別の選択" = "Account type";
 
 /* 口座種別を選択してください */
-"口座種別を選択してください" = "口座種別を選択してください";
+"口座種別を選択してください" = "Please select account type.";
 
 /* 口座番号 */
-"口座番号" = "口座番号";
+"口座番号" = "Checking account number";
 
 /* 口座番号が未入力です */
-"口座番号が未入力です" = "口座番号が未入力です";
+"口座番号が未入力です" = "Please enter a checking account number";
 
 /* PurchaseConfirmViewController.xib */
-"以下の内容でよろしければ" = "以下の内容でよろしければ";
+"以下の内容でよろしければ" = "The information below is correct";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"以下のボタンを押すと上記フォームでの変更は反映されません" = "以下のボタンを押すと上記フォームでの変更は反映されません";
+"以下のボタンを押すと上記フォームでの変更は反映されません" = "Pressing the below button will not reflect the change to the form.";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
 "日本と海外のサイズ比較" = "日本と海外のサイズ比較";
@@ -2667,46 +2667,46 @@
 "￥3,000" = "￥3,000";
 
 /* CommentBalloonView.xib, ReviewListViewCell.xib */
-"ユーザ名" = "ユーザ名";
+"ユーザ名" = "User Name";
 
 /* 編集内容がクリアされますがよろしいですか？ */
-"編集内容がクリアされますがよろしいですか？" = "編集内容がクリアされますがよろしいですか？";
+"編集内容がクリアされますがよろしいですか？" = "Cancel?";
 
 /* Search.storyboard */
-"リズリサ" = "リズリサ";
+"リズリサ" = "(No need to translate)";
 
 /* ProfileEditViewController.xib */
-"自己紹介" = "自己紹介";
+"自己紹介" = "About me";
 
 /* 自己紹介が最大文字数を超えています。%d文字削除してください */
-"自己紹介が最大文字数を超えています。%d文字削除してください" = "自己紹介が最大文字数を超えています。%d文字削除してください";
+"自己紹介が最大文字数を超えています。%d文字削除してください" = "Your description exceeds the max character limit by %d!";
 
 /* ProductDetailItemView.xib */
-"ルームウェア" = "ルームウェア";
+"ルームウェア" = "Casual wear";
 
 /* レディース */
-"レディース" = "レディース";
+"レディース" = "Women";
 
 /* Prohibited Item */
-"Prohibited Item" = "Prohibited Item"; //翻訳必要なし
+"Prohibited Item" = "Prohibited Item";
 
 /* ログイン */
-"ログイン" = "ログイン";
+"ログイン" = "Sign in";
 
 /* (タイトル)ログイン */
-"(タイトル)ログイン" = "ログイン";
+"(タイトル)ログイン" = "Sign In";
 
 /* ログイン中 */
-"ログイン中" = "ログイン中";
+"ログイン中" = "Signing in";
 
 /* Contact.storyboard */
-"ログインできない" = "ログインできない";
+"ログインできない" = "I can't sign in";
 
 /* 売上履歴 */
-"売上履歴" = "売上履歴";
+"売上履歴" = "Balance history";
 
 /* <h1>売上履歴はまだありません</h1> */
-"SalesHistory.NoHistory.Prepay" = "<h1>所持している売上金はありません</h1>";
+"<h1>売上履歴はまだありません</h1>" = "<h1>No Balance history yet!</h1>";
 
 /* 売上金の振込申請期限 */
 "売上金の振込申請期限" = "売上金の振込申請期限";
