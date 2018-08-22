@@ -280,50 +280,49 @@
 "(タイトル)会員登録" = "Sign up";
 
 /* 会員登録ありがとうございました */
-"会員登録ありがとうございました" = "会員登録ありがとうございました";
+"会員登録ありがとうございました" = "Thank you for signing up and welcome to Mercari! ";
 
 /* 会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません */
-"会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません";
+"会員登録すると「いいね！」をした一覧が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "Sign up to see items you liked";
 
 /* 会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません */
-"会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません";
+"会員登録すると「いいね！」をした一覧、閲覧履歴が見られるようになります\n\n※Facebookの「いいね！」とは連動しません" = "Sign up to see your likes and views";
 
 /* 会員登録すると検索条件を保存できるようになります */
-"会員登録すると検索条件を保存できるようになります" = "会員登録すると検索条件を保存できるようになります";
+"会員登録すると検索条件を保存できるようになります" = "Sign up to save your filters";
 
 /* 会員登録するといいね！やコメントが出来るようになります */
-"会員登録するといいね！やコメントが出来るようになります" = "会員登録するといいね！やコメントができるようになります";
+"会員登録するといいね！やコメントが出来るようになります" = "Sign up to like or comment";
 
 /* 会員登録すると出品した商品を見られるようになります */
-"会員登録すると出品した商品を見られるようになります" = "会員登録すると出品した商品を見られるようになります";
+"会員登録すると出品した商品を見られるようになります" = "Sign up to see items you listed";
 
 /* 会員登録すると購入した商品を見られるようになります */
-"会員登録すると購入した商品を見られるようになります" = "会員登録すると購入した商品を見られるようになります";
+"会員登録すると購入した商品を見られるようになります" = "Sign up to see items you purchased";
 
 /* LoginViewController.xib */
-"会員登録はこちら" = "会員登録はこちら";
+"会員登録はこちら" = "Sign up here!";
 
 /* 会員登録・ログインについて */
-"会員登録・ログインについて" = "会員登録・ログインについて";
+"会員登録・ログインについて" = "Signing up & Signing in";
 
 /* SideMenuViewController.xib */
-"会員登録・ログインへ" = "Sign up or log in";
+"会員登録・ログインへ" = "Sign up or Sign in";
 
 /* Contact.storyboard */
-"会員情報を変更したい" = "会員情報を変更したい";
+"会員情報を変更したい" = "I want to change my account info";
 
 /* 会員情報を確認中 */
-"会員情報を確認中" = "会員情報を確認中";
+"会員情報を確認中" = "Confirming...";
 
 /* 通信中... */
-"通信中..." = "通信中...";
+"通信中..." = "Sending…";
 
 /* 通信に失敗しました */
-"通信に失敗しました" = "通信に失敗しました";
-"ErrorMessage.Connection.Failed" = "通信に失敗しました";
+"通信に失敗しました" = "Connection failed";
 
 /* Oops! Try listing again in an area with a stronger connection or via a wireless network. */
-"Oops! Try listing again in an area with a stronger connection or via a wireless network." = "通信環境が悪いため出品できません。通信環境のよいところで再度出品してください。";
+"Oops! Try listing again in an area with a stronger connection or via a wireless network." = "Oops! Try listing again in an area with a stronger connection or via a wireless network.";
 
 /* Search.storyboard */
 "〜" = "〜";
@@ -413,41 +412,41 @@
 "%@ (%@ 利用)" = "%1$@ (%2$@ 利用)";
 
 /* %@ にパスワード再設定のメールを送りました */
-"%@ にパスワード再設定のメールを送りました" = "%@ にパスワード再設定のメールを送りました";
+"%@ にパスワード再設定のメールを送りました" = "Your password has been reset! A reset link has been sent to the following email address: %@";
 
 /* %@ 使う */
-"%@ 使う" = "%@ 使う";
+"%@ 使う" = "- %@";
 
 /* %@からの評価： */
-"%@からの評価：" = "%@からの評価：";
+"%@からの評価：" = "%@'s rating:";
 
 /* %@さん */
-"%@さん" = "%@さん";
+"%@さん" = "%@";
 
 /* %@の評価： */
-"%@の評価：" = "%@の評価：";
+"%@の評価：" = "Rating of %@:";
 
 /* ContactViewController.xib */
-"%@わからないことがある場合はまずは以下のリンクをご覧ください。それでも解決しない場合は下記のフォームよりお問い合わせください。" = "%@わからないことがある場合はまずは以下のリンクをご覧ください。それでも解決しない場合は下記のフォームよりお問い合わせください。";
+"%@わからないことがある場合はまずは以下のリンクをご覧ください。それでも解決しない場合は下記のフォームよりお問い合わせください。" = "%@ Please see the link below if you have any questions. Need a bit more help? Feel free to contact us using the form below.";
 
 /* %@を選択してください */
-"%@を選択してください" = "%@を選択してください";
+"%@を選択してください" = "Select %@";
 
 /* %d分前 */
-"%d分前__{one}__" = "%d分前";
-"%d分前__{other}__" = "%d分前";
+"%d分前__{one}__" = "%d minute ago";
+"%d分前__{other}__" = "%d minutes ago";
 
 /* %d時間前 */
-"%d時間前__{one}__" = "%d時間前";
-"%d時間前__{other}__" = "%d時間前";
+"%d時間前__{one}__" = "%d hour ago";
+"%d時間前__{other}__" = "%d hours ago";
 
 /* %d日前 */
-"%d日前__{one}__" = "%d日前";
-"%d日前__{other}__" = "%d日前";
+"%d日前__{one}__" = "%d day ago";
+"%d日前__{other}__" = "%d days ago";
 
 /* %dヶ月前 */
-"%dヶ月前__{one}__" = "%dヶ月前";
-"%dヶ月前__{other}__" = "%dヶ月前";
+"%dヶ月前__{one}__" = "%d month ago";
+"%dヶ月前__{other}__" = "%d months ago";
 
 /* ProductDetailViewController.xib */
 "(送料込み)" = "(送料込み)";
@@ -459,19 +458,19 @@
 "(1,000文字まで)\n例）こんにちは☆\nハンドメイドを中心にどんどん出品していくのでよろしくお願いします♡" = "(1,000文字まで)\n例）こんにちは☆\nハンドメイドを中心にどんどん出品していくのでよろしくお願いします♡";
 
 /* (必須) */
-"(必須)" = "(必須)";
+"(必須)" = "(required)";
 
 /* (任意) */
-"(任意)" = "(任意)";
+"(任意)" = "(optional)";
 
 /* 利用しますか？ */
-"利用しますか？" = "利用しますか？";
+"利用しますか？" = "Use Credits?";
 
 /* 利用規約 */
-"利用規約" = "利用規約";
+"利用規約" = "Terms of Service";
 
 /* 利用ポイント */
-"利用ポイント" = "利用ポイント";
+"利用ポイント" = "Credits used";
 
 /* 未振込の振込申請があるため退会できません */
 "未振込の振込申請があるため退会できません" = "未振込の振込申請があるため退会できません";
@@ -2115,31 +2114,31 @@
 "貯蓄預金" = "貯蓄預金";
 
 /* EmailPasswordSettingViewController.xib */
-"新パスワード" = "新パスワード";
+"新パスワード" = "New password";
 
 /* EmailPasswordSettingViewController.xib */
-"新パスワード (確認)" = "新パスワード (確認)";
+"新パスワード (確認)" = "New password (confirmation)";
 
 /* 新パスワードが一致しません */
-"新パスワードが一致しません" = "新パスワードが一致しません";
+"新パスワードが一致しません" = "The passwords do not match.";
 
 /* 新パスワードが未入力です */
-"新パスワードが未入力です" = "新パスワードが未入力です";
+"新パスワードが未入力です" = "Please enter your new password. ";
 
 /* 新パスワードは6文字以上15文字以下です */
-"新パスワードは6文字以上15文字以下です" = "新パスワードは6文字以上15文字以下です";
+"新パスワードは6文字以上15文字以下です" = "Your new password must be between 6 and 15 characters.";
 
 /* Digital item */
 "Digital item" = "Digital item";
 
 /* コスメ・美容 */
-"コスメ・美容" = "コスメ・美容";
+"コスメ・美容" = "Beauty";
 
 /* コメント */
-"コメント" = "コメント";
+"コメント" = "Comment";
 
 /* Comment (ProductDetailViewController) */
-"Comment" = "コメント";
+"Comment" = "Comment";
 
 /* コメント %@ */
 "コメント %@" = "コメント %@";
@@ -2961,100 +2960,102 @@
 "都道府県" = "都道府県";
 
 /* Contact.storyboard */
-"対象商品" = "対象商品";
+"対象商品" = "Item";
 
 /* NotificationListViewController.xib */
-"現在、あなたへのお知らせはありません" = "You have no notifications";
+"現在、あなたへのお知らせはありません" = "You have no notifications!";
 
 /* Setting.storyboard */
-"現在、登録済みのクレジットカード情報はありません" = "現在、登録済みのクレジットカード情報はありません";
+"現在、登録済みのクレジットカード情報はありません" = "No payment information";
 
 /* <h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p> */
-"<h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p>" = "<h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p>";
+"<h1>現在、登録済みのクレジットカード情報はありません。</h1><br/><br/><p>購入時に利用したクレジットカードが登録され、ここに表示されます。</p>" = "<h1>No payment information</h1>";
 
 /* NotificationListViewController.xib */
 "現在、やることリストはありません" = "There's nothing in your To Do List";
 
 /* Purchase.storyboard */
-"現在ご利用可能なカードは、VISA / MasterCardです" = "現在ご利用可能なカードは、VISA / MasterCardです";
+"現在ご利用可能なカードは、VISA / MasterCardです" = "We accept VISA and MasterCard.";
 
 /* Purchase.storyboard */
-"配送料" = "配送料";
+"配送料" = "Shipping fee";
 
 /* EmailPasswordSettingViewController.xib */
-"現在のパスワード" = "現在のパスワード";
+"現在のパスワード" = "Current password";
 
 /* 現在のパスワードが未入力です */
-"現在のパスワードが未入力です" = "現在のパスワードが未入力です";
+"現在のパスワードが未入力です" = "Please enter your password.";
 
 /* 現在の売上金 */
-"現在の売上金" = "現在の売上金";
+"現在の売上金" = "Current balance";
 
 /* 評価: %1$@   出品数: %2$@ */
-"評価: %1$@   出品数: %2$@" = "評価: %1$@   出品数: %2$@";
+"評価: %1$@   出品数: %2$@" = "Score: %1$@   Listings: %2$@";
 
 /* 評価: <b>%1$@</b>   出品数: <b>%2$@</b> */
-"評価: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;出品数: <b>%2$@</b>" = "評価: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;出品数: <b>%2$@</b>";
+"評価: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;出品数: <b>%2$@</b>" = "Score: <b>%1$@</b>&nbsp;&nbsp;&nbsp;&nbsp;Listings: <b>%2$@</b>";
 
 /* ProfileHeaderViewCell.xib */
-"もっと読む"  = "もっと読む";
+"もっと読む"  = "Read more";
 
 /* 編集 */
-"編集" = "編集";
-"Word.Edit" = "編集";
+"編集" = "Edit";
 
 /* ProductListViewController.m */
 "ProductListViewController.TableFooter.ProductListViewModeBuy.SegmentBuyWaiting" = "<h1>取引中の商品がありません</h1><br/><br/><p>メルカリでは安全・簡単に購入できます。<a href=\"category/5/#9\">購入の流れ</a>をぜひご覧ください。</p>";
 
 /* 自己紹介文を書きましょう！ */
-"自己紹介文を書きましょう！" = "自己紹介文を書きましょう！";
+"自己紹介文を書きましょう！" = "Tell us a little bit about yourself!\nTap the top right of the screen > Edit profile to enter your profile description.";
 
 /* 自己紹介文がまだ記入されてません！ */
-"自己紹介文がまだ記入されてません！" = "自己紹介文がまだ記入されてません！";
+"自己紹介文がまだ記入されてません！" = "No description yet!";
 
-/* <h1>取引中の商品がありません</h1>	 */
-"<h1>取引中の商品がありません</h1>" = "<h1>取引中の商品がありません</h1>";
+/* <h1>取引中の商品がありません</h1>     */
+"<h1>取引中の商品がありません</h1>" = "<h1>No pending transactions!</h1>";
 
 /* 保存 */
-"保存" = "保存";
+"保存" = "Save";
 
 /* Registration.storyboard */
-"メールアドレスで登録" = "Sign up with email";
+"メールアドレスで登録" = "Sign up with Email";
+
 "Facebookで登録" = "Continue with Facebook";
+
 "Google+で登録" = "Continue with Google";
-"Registration.Gender.TopDescription" = "性別（任意）";
+
+"Registration.Gender.TopDescription" = "Gender (optional)";
 
 /* ProductDetailViewController.m %1=title %2=pricing */
-"Check it out: %1$@ is %2$@ on Mercari!" = "『%1$@ (%2$@)』 フリマアプリ「メルカリ」で販売中♪";
+"Check it out: %1$@ is %2$@ on Mercari!" = "Check it out: %1$@ is %2$@ on Mercari!";
 
 /*
  ProductDetailViewController.m
- ExhibitFinishViewController.m
  ProductCollectionViewController.m
+ ExhibitFinishViewController.m
  %1=invitation code
  */
-"Use \"%1$@\" to sign up and get %2$@ off!" = "";
+"Use \"%1$@\" to sign up and get %2$@ off!" = "Use \"%1$@\" to sign up and get %2$@ off!";
 
 /* LINEでシェア */
-"LINEでシェア" = "LINEでシェア";
+"LINEでシェア" = "LINE";
 
 /* Twitterでシェア */
-"Twitterでシェア" = "Twitterでシェア";
+"Twitterでシェア" = "Twitter";
 
 /* Facebookでシェア */
-"Facebookでシェア" = "Facebookでシェア";
+"Facebookでシェア" = "Facebook";
 
 /* メールでシェア */
-"メールでシェア" = "メールでシェア";
+"メールでシェア" = "Email";
 
 /* SMSの設定を確認してください */
-"SMSの設定を確認してください" = "SMSの設定を確認してください";
+"SMSの設定を確認してください" = "Please check your SMS settings";
 
 /* SMSでシェア */
-"SMSでシェア" = "SMSでシェア";
+"SMSでシェア" = "SMS";
 
 /* あなたが出品した商品は「出品した商品」からいつでも見ることができます */
-"あなたが出品した商品は「出品した商品」からいつでも見ることができます" = "あなたが出品した商品は「出品した商品」からいつでも見ることができます";
+"あなたが出品した商品は「出品した商品」からいつでも見ることができます" = "Your listing is now live. You can find it anytime under Selling.";
 
 "Please make sure you set the Item Price so what you make is $0 or more." = "販売価格は配送手数料以上の値を入力してください";
 
@@ -3752,13 +3753,13 @@
 "Tax included in fee" = "(税込)";
 
 /* Gender */
-"Gender" = "性別";
-"Female" = "女性";
-"Male" = "男性";
+"Gender" = "Gender";
+"Female" = "Female";
+"Male" = "Male";
 "description for gender" = "性別は公開されることはありません";
-"Optional" = "お持ちの方のみ";
-"Select a gender" = "性別を選んでください";
-"Gender is not selected" = "性別が未選択です";
+"Optional" = "Optional";
+"Select a gender" = "Select a gender";
+"Gender is not selected" = "Gender is not selected";
 
 /* ProductListBoughtCell */
 "ProductListBoughtCell.SellButton.Title" = "出品する";
