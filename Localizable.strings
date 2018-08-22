@@ -1094,10 +1094,10 @@
 "お客様番号・確認番号とは？" = "お客様番号・確認番号とは？";
 
 /* FullscreenImageViewController.xib, Search.storyboard */
-"削除" = "削除";
+"削除" = "Delete";
 
 /* 削除中 */
-"削除中" = "削除中";
+"削除中" = "Deleting";
 
 /* ErrorView.xib */
 "削除された理由としては以下のものが考えられます。\n携帯アドレスなどをご利用の場合は、mercari.jpからのメールを受け取れるように設定をお願いいたします。\n\n・入力されたメールアドレスが間違っており本来の\n　持ち主から削除の依頼がされた\n・メールが不着のため運営システムが削除を行った\n\n大変お手数ですが support@mercari.jp までお問い合わせください。" = "Your email may have been deleted for the following reasons:\nIf you are using a mobile email address, please ensure that you can receive emails from the domain \"mercariapp.com\".\n- The registered email was wrong and we received a deletion request from the owner of the account\n- Our emails were not being received, and the system deleted it automatically\n\nFor further inquiries, please contact us at contact@mercariapp.com";
@@ -2555,19 +2555,19 @@
 "メンズ" = "メンズ";
 
 /* メール */
-"メール" = "メール";
+"メール" = "Email";
 
 /* PasswordResetViewController.xib */
-"メールが届かない" = "メールが届かない";
+"メールが届かない" = "Haven't received the email?";
 
 /* EmailPasswordSettingViewController.xib */
-"メールが届かない場合" = "メールが届かない場合";
+"メールが届かない場合" = "I did not receive an email confirmation";
 
 /* LoginViewController.xib */
-"メールまたは電話番号" = "メールまたは電話番号";
+"メールまたは電話番号" = "Email";
 
 /* メールアカウントを設定してください */
-"メールアカウントを設定してください" = "メールアカウントを設定してください";
+"メールアカウントを設定してください" = "Please set up an email account";
 
 /* メールアドレス */
 "メールアドレス" = "Email";
@@ -3183,7 +3183,7 @@
 "~" = "~";
 
 /* Registration.storyboard */
-"メールアドレスでログイン" = "メールまたは電話番号でログイン";
+"メールアドレスでログイン" = "Log in with email";
 
 /* Registration.storyboard */
 "Facebookでログイン" = "Continue with Facebook";
@@ -3756,7 +3756,7 @@
 "Gender" = "Gender";
 "Female" = "Female";
 "Male" = "Male";
-"description for gender" = "性別は公開されることはありません";
+"description for gender" = "This information will not be visible to other users";
 "Optional" = "Optional";
 "Select a gender" = "Select a gender";
 "Gender is not selected" = "Gender is not selected";
