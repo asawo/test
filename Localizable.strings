@@ -107,40 +107,40 @@
 "（送料込み）" = "（送料込み）";
 
 /* 変更 */
-"変更" = "変更";
+"変更" = "Update";
 
 /* 変更中 */
-"変更中" = "変更中";
+"変更中" = "Updating...";
 
 /* 変更する */
-"変更する" = "変更する";
+"変更する" = "Update";
 
 /* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
-"上記で解決しない場合" = "上記で解決しない場合";
+"上記で解決しない場合" = "Still looking for answers?";
 
 /* Contact.storyboard */
-"上記に同意して退会する" = "上記に同意して退会する";
+"上記に同意して退会する" = "Accept the terms and delete account";
 
 /* 上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。 */
-"上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。" = "上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。";
+"上記の番号にSMSで認証番号を送ります。\n電話番号を変更する場合はキャンセルを押してください。" = "We'll send a verification code to the phone number above. \nIf you want to change the phone number, please tap Cancel";
 
 /* 上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります */
-"上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります" = "上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります";
+"上の会員登録ボタンを押すことにより、<br><a href=\"mercari://signup/openTOS\">利用規約</a>に同意したことになります" = "By tapping Sign up above, you agree to the <a href=\"mercari://signup/openTOS\">Terms of Service</a>";
 
 /* 下4ケタ%@ */
-"下4ケタ%@" = "下4ケタ%@";
+"下4ケタ%@" = "Last 4 digits %@";
 
 /* 下のボタンを押すと変更されます */
-"下のボタンを押すと変更されます" = "下のボタンを押すと変更されます";
+"下のボタンを押すと変更されます" = "(No need to translate)";
 
 /* 下のボタンを押すと出品されます */
-"下のボタンを押すと出品されます" = "下のボタンを押すと出品されます";
+"下のボタンを押すと出品されます" = "(No need to translate)";
 
 /* Setting.storyboard */
-"個人情報" = "個人情報";
+"個人情報" = "ACCOUNT SETTINGS";
 
 /* 個人情報の公開 */
-"個人情報の公開" = "個人情報の公開";
+"個人情報の公開" = "Sharing personal information";
 
 /* Purchase Main */
 "PurchaseMain.Buy.Confirm.Message.Format.Coupons.Kyc" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nクーポン使用：%3$@\nポイント使用：%4$@\n支払い金額：%6$@";
@@ -151,28 +151,28 @@
 "PurchaseMain.Address.Validation.NoNumber" = "※部屋番号の入力をお忘れではないですか？";
 
 /* 「%@」を購入しますか？ */
-"「%@」を購入しますか？" = "「%@」を購入しますか？";
+"「%@」を購入しますか？" = "Order \"%@\"?";
 
 /* Contact.storyboard */
-"「商品が届かない！」「返信がない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。\n\n" = "「商品が届かない！」「返信がない！」など短いコメントでは事務局で状況が把握できず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。\n\n";
+"「商品が届かない！」「返信がない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。\n\n" = "Be sure to include as much information as possible in your description so that we can better assist you.\n\n";
 
 /* Contact.storyboard */
-"「エラーになる！」「繋がらない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。" = "「エラーになる！」「繋がらない！」など短いコメントでは事務局で状況が把握できず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。";
+"「エラーになる！」「繋がらない！」など短いコメントでは事務局で状況が把握出来ず結果的に解決まで時間がかかってしまいます。\n詳細な内容を記載するようにしてください。" = "Be sure to include as much information as possible in your description so that we can better assist you.";
 
 /* PurchaseConfirmViewController.xib */
-"「購入する」ボタンを押してください" = "「購入する」ボタンを押してください";
+"「購入する」ボタンを押してください" = "Tap the \"Buy\" button.";
 
 /* InformViewController.xib */
-"同意して続ける" = "同意して続ける";
+"同意して続ける" = "Agree and continue";
 
 /* 不適切な商品の報告 */
-"不適切な商品の報告" = "不適切な商品の報告";
+"不適切な商品の報告" = "Report item";
 
 /* 不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。 */
-"不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。" = "不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。";
+"不適切な商品の報告に基づいて随時、事務局でチェックさせていただき対応してまいります。特に返答はいたしませんが、ご了承ください。" = "We will look into your report as soon as possible. \nWe may not send a response back regarding the issue, but rest assured we take item reports very seriously.";
 
 /* Contact.storyboard */
-"不適切なコメントの報告に基づいて随時、事務局でチェックさせていただき対応してまいります。\n特に返信はいたしませんが、ご了承ください。" = "不適切なコメントの報告に基づいて随時、事務局でチェックさせていただき対応してまいります。\n特に返信はいたしませんが、ご了承ください。";
+"不適切なコメントの報告に基づいて随時、事務局でチェックさせていただき対応してまいります。\n特に返信はいたしませんが、ご了承ください。" = "We will look into your report as soon as possible.\nWe may not send a response back regarding the issue, but rest assured we take reports on comments very seriously.";
 
 /* You have a response to your inquiry! */
 "You have a response to your inquiry!" = "You have a response to your inquiry!";
@@ -184,7 +184,7 @@
 "LET US KNOW WHAT YOU THINK" = "LET US KNOW WHAT YOU THINK";
 
 /* How do you feel about the Mercari? */
-"How do you feel about the Mercari?" = "How do you feel about the Mercari?";
+"How do you feel about the Mercari?" = "Mercari makes me:";
 
 /* Happy */
 "Happy" = "Happy";
