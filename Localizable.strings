@@ -3087,7 +3087,7 @@
 "お互いに安心取引するためにまずは会員登録をよろしくお願いします" = "Please sign up for a Mercari account to ensure a safe and secure experience";
 
 /* Unable to Connect to Google */
-"Unable to Connect to Google" = "ログインエラー";
+"Unable to Connect to Google" = "Unable to Connect to Google";
 
 /* Google+ログインがサポートされていません */
 "Google+ログインがサポートされていません" = "Googleログインがサポートされていません";
@@ -3105,13 +3105,13 @@
 "ブランド一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。" = "ブランド一覧が取得できません。\nネットワーク環境などをご確認の上、もう一度お試しください。";
 
 /* 不明なエラーです */
-"不明なエラーです" = "不明なエラーです";
+"不明なエラーです" = "Unknown error";
 
 /* 配送料の負担(出品) */
-"配送料の負担(出品)" = "配送料の負担";
+"配送料の負担(出品)" = "Paid by";
 
 /* 配送料の負担(検索) */
-"配送料の負担(検索)" = "配送料の負担";
+"配送料の負担(検索)" = "Shipping paid by";
 
 /* Fee */
 "Fee" = "Fee";
@@ -4102,7 +4102,7 @@
 "Kyc.UserInfo.DisapprovalButtonTitle" = "個人情報の変更";
 "Kyc.UserInfo.ApprovalDescription" = "書類審査に24時間かかる場合があります";
 
-"Kyc.UserInfo.ValidationError.General.Title" = "エラー";
+"Kyc.UserInfo.ValidationError.General.Title" = "Error";
 "Kyc.UserInfo.ValidationError.Address.Title" = "住所の確認";
 "Kyc.UserInfo.ValidationError.BuildingName.Title" = "住所の確認";
 "Kyc.UserInfo.ValidationError.Required.Message" = "入力されていない項目があります";
@@ -4117,13 +4117,13 @@
 
 /* Kyc Supplementary Document */
 "Kyc.SupplementaryDocument.ScreenTitle" = "補足書類の提出";
-"Kyc.SupplementaryDocument.ApprovalButtonTitle" = "次へ";
-"Kyc.SupplementaryDocument.DisapprovalButtonTitle" = "スキップ";
+"Kyc.SupplementaryDocument.ApprovalButtonTitle" = "Next";
+"Kyc.SupplementaryDocument.DisapprovalButtonTitle" = "Skip";
 
 /* Word */
-"Word.DoAgree" = "同意する";
+"Word.DoAgree" = "Agree";
 "Word.Ok" = "OK";
-"Word.Confirming" = "確認中";
+"Word.Confirming" = "Confirming";
 
 /* KauruProduct */
 
