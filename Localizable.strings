@@ -1490,16 +1490,16 @@
 "v1.0" = "v1.0";
 
 /* 選択してください */
-"選択してください" = "選択してください";
+"選択してください" = "Please select";
 
 /* 選択しない */
-"選択しない" = "選択しない";
+"選択しない" = "No Brand";
 
 /* Purchase.storyboard */
-"決済手数料" = "決済手数料";
+"決済手数料" = "Transaction Fee";
 
 /* Purchase.storyboard, Purchase.storyboard */
-"決定" = "決定";
+"決定" = "Continue";
 
 /* ProductEditViewController */
 "ProductEditViewController.Row.RequiredPlaceholder" = "(必須)";
@@ -1523,94 +1523,94 @@
 "NetworkLimitationCheck.Error.ListingDisabled" = "『△』『×』の商品は出品できません";
 
 /* 発送元の地域 */
-"発送元の地域" = "発送元の地域";
+"発送元の地域" = "Ships from";
 
 /* 発送するまでの日数 */
-"発送するまでの日数" = "発送までの日数";
+"発送するまでの日数" = "Ships within";
 
 /* 発送されるまでの日数 */
-"発送されるまでの日数" = "発送までの日数";
+"発送されるまでの日数" = "Ships within";
 
 /* Contact.storyboard */
-"発送までの日数を過ぎても発送されない" = "発送までの日数を過ぎても発送されない";
+"発送までの日数を過ぎても発送されない" = "I haven't received my order yet";
 
 /* 発送待ち */
-"発送待ち" = "発送待ち";
+"発送待ち" = "Awaiting shipping";
 
 /* 発送・受取・評価について */
-"発送・受取・評価について" = "発送・受取・評価について";
+"発送・受取・評価について" = "About your orders";
 
 /* Contact.storyboard */
-"発生頻度（必須）" = "発生頻度（必須）";
+"発生頻度（必須）" = "Frequency (required)";
 
 /* 発生頻度 : %@\n */
-"発生頻度 : %@\n" = "発生頻度 : %@\n";
+"発生頻度 : %@\n" = "Frequency: %@\n";
 
 /* 発生頻度を選択してください */
-"発生頻度を選択してください" = "発生頻度を選択してください";
+"発生頻度を選択してください" = "Please select the frequency";
 
 /* Contact.storyboard */
-"発生日時（必須）" = "発生日時（必須）";
+"発生日時（必須）" = "Date (required)";
 
 /* 発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況： */
-"発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況：" = "発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況：";
+"発生日時： 月　日　時　分頃\n発生頻度：(例：毎回、5回に1度)\n発生状況：" = "Time of occurrence: Month Day Approx. Time Frequency of occurrence: (Ex: Every time, once every 5 times, etc.) When this happens?\nby ogim, a month ago";
 
 /* 発生日時 : %@\n */
-"発生日時 : %@\n" = "発生日時 : %@\n";
+"発生日時 : %@\n" = "Time of occurrence: %@\n";
 
 /* 発生日時を選択してください */
-"発生日時を選択してください" = "発生日時を選択してください";
+"発生日時を選択してください" = "Please select a date";
 
 /* Purchase.storyboard */
 "ほげほげタルトキーホルダーかわいいほげほげあいうえお" = "ほげほげタルトキーホルダーかわいいほげほげあいうえお";
 
 /* 登録 */
-"登録" = "登録";
+"登録" = "Save";
 
 /* 登録中 */
-"登録中" = "登録中";
+"登録中" = "Registering";
 
 /* 登録中のクレジットカード情報 */
-"登録中のクレジットカード情報" = "登録中のクレジットカード情報";
+"登録中のクレジットカード情報" = "Your registered credit card information";
 
 /* 登録する */
-"登録する" = "登録する";
+"登録する" = "Update";
 
 /* 登録をして出品する */
-"登録をして出品する" = "登録をして出品する";
+"登録をして出品する" = "Sign up and Sell";
 
 /* 登録をして購入する */
-"登録をして購入する" = "登録をして購入する";
+"登録をして購入する" = "Sign up and Buy";
 
 /* Contact.storyboard */
-"偽物が届いた" = "偽物が届いた";
+"偽物が届いた" = "The item I bought was counterfeit";
 
 /* 偽ブランドの販売 */
-"偽ブランドの販売" = "偽ブランドの販売";
+"偽ブランドの販売" = "Selling counterfeit items";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"偽ブランド品の禁止" = "偽ブランド品の禁止";
+"偽ブランド品の禁止" = "Counterfeit items FAQs";
 
 /* Contact.storyboard */
-"まずは、ガイドとよくある質問をお読みください" = "まずは、ガイドとよくある質問をお読みください";
+"まずは、ガイドとよくある質問をお読みください" = "Welcome to Our Help Center";
 
 /* Contact.storyboard */
-"ガイドとよくある質問" = "ガイドとよくある質問";
+"ガイドとよくある質問" = "GOT QUESTIONS?";
 
 /* Contact.storyboard */
-"送信する" = "送信する";
+"送信する" = "Send";
 
 /* Contact.storyboard */
-"退会に関するガイドを確認しました" = "退会に関するガイドを確認しました";
+"退会に関するガイドを確認しました" = "I have read the guide on deleting accounts";
 
 /* Contact.storyboard */
-"退会に関するガイド" = "退会に関するガイド";
+"退会に関するガイド" = "How to delete your account";
 
 /* UserRegisterViewController.xib */
-"まずは会員登録をよろしくお願いします" = "まずは会員登録をよろしくお願いします";
+"まずは会員登録をよろしくお願いします" = "Please sign up first";
 
 /* <h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p> */
-"<h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p>" = "<h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p>";
+"<h1>まだ「いいね！」した商品がありません</h1><br/><br/><p>商品ページから「いいね！」すると、あとでここで見ることができます。この商品いいかも、と思ったら気軽に「いいね！」しておくと便利です。<br/>※Facebookの「いいね！」とは連動しません</p>" = "<h1>No likes yet!</h1><br/><br/><p class=\"center\">Liked items show up here, and we'll notify you if the price drops!</p>";
 
 /* <h1>まだ閲覧した商品がありません</h1> */
 "<h1>まだ閲覧した商品がありません</h1>" = "<h1>まだ閲覧した商品がありません</h1>";
