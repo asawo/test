@@ -1726,98 +1726,98 @@
 "例）1234567" = "例）1234567";
 
 /* FacebookRegisterViewController.xib, ProfileEditViewController.xib, UserRegisterViewController.xib */
-"例）AYA☆セール中" = "例）AYA☆セール中";
+"例）AYA☆セール中" = "User Name";
 
 /* Setting.storyboard */
-"例）青山 1-1-1" = "例）青山 1-1-1";
+"例）青山 1-1-1" = "Street name";
 
 /* Setting.storyboard */
-"例）彩" = "例）彩";
+"例）彩" = "First name";
 
 /* Setting.storyboard */
-"例）山田" = "例）山田";
+"例）山田" = "Last name";
 
 /* Setting.storyboard */
-"例）アヤ" = "例）アヤ";
+"例）アヤ" = "User Name";
 
 /* 例）データが取得出来ません */
-"例）データが取得出来ません" = "例）データが取得できません";
+"例）データが取得出来ません" = "Ex. Please try again in an area with a stable network connection.";
 
 /* 例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。 */
-"例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。" = "例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。";
+"例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。" = "Ex. I'm trying to rate the buyer/seller on the Order Status page, but I keep getting an error message.";
 
 /* Setting.storyboard */
-"例）ヤマダ" = "例）ヤマダ";
+"例）ヤマダ" = "Ex. Yamada";
 
 /* Setting.storyboard */
-"例）柳ビル 103" = "例）柳ビル 103";
+"例）柳ビル 103" = "Suite / Apt / Unit / Other";
 
 /* 例) %@ */
-"例) %@" = "例) %@";
+"例) %@" = "Ex. %@";
 
 /* UsersAddressEditViewController.xib */
-"例) 横浜市緑区" = "例) 横浜市緑区";
+"例) 横浜市緑区" = "Ex. Midori-ku, Yokohama";
 
 /* UsersAddressEditViewController.xib */
-"例) 09012345678" = "例) 09012345678";
+"例) 09012345678" = "Ex. 09012345678";
 
 /* 例) 123 (数字3桁) */
-"例) 123 (数字3桁)" = "例) 123 (数字3桁)";
+"例) 123 (数字3桁)" = "Routing number";
 
 /* UsersAddressEditViewController.xib */
-"例) 1234567" = "例) 1234567";
+"例) 1234567" = "Ex. 1234567";
 
 /* 例) 1234567 (数字7桁) */
-"例) 1234567 (数字7桁)" = "例) 1234567 (数字7桁)";
+"例) 1234567 (数字7桁)" = "Account number";
 
 /* UsersAddressEditViewController.xib */
-"例) 青山 1-1-1" = "例) 青山 1-1-1";
+"例) 青山 1-1-1" = "Ex. Aoyama 1-1-1";
 
 /* UsersAddressEditViewController.xib */
-"例) 彩" = "例) 彩";
+"例) 彩" = "User Name";
 
 /* UsersAddressEditViewController.xib */
-"例) 山田" = "例) 山田";
+"例) 山田" = "Ex. Yamada";
 
 /* 例) アヤ */
-"例) アヤ" = "例) アヤ";
+"例) アヤ" = "User Name";
 
 /* 例) ヤマダ */
-"例) ヤマダ" = "例) ヤマダ";
+"例) ヤマダ" = "Ex. Yamada";
 
 /* UsersAddressEditViewController.xib */
-"例) 柳ビル 103" = "例) 柳ビル 103";
+"例) 柳ビル 103" = "Ex. 103 Yanagi Building";
 
 /* 残さない */
-"残さない" = "残さない";
+"残さない" = "Don't save";
 
 /* 残す */
-"残す" = "残す";
+"残す" = "Save";
 
 /* 完了 */
-"完了" = "完了";
-"Word.Done" = "完了";
+"完了" = "Done";
+"Word.Done" = "Done";
 
 /* PhoneNumberAuth.storyboard */
-"認証して完了" = "認証して完了";
+"認証して完了" = "Complete sign up";
 
 /* PhoneNumberAuth.storyboard */
-"認証番号" = "認証番号";
+"認証番号" = "Verification Code";
 
 /* 認証番号を送信しました */
-"認証番号を送信しました" = "認証番号を送信しました";
+"認証番号を送信しました" = "Your verification code has been sent";
 
 /* 認証番号を入力してください */
-"認証番号を入力してください" = "認証番号を入力してください";
+"認証番号を入力してください" = "Please enter your verification code";
 
 /* PhoneNumberAuth.storyboard */
-"認証番号を再送" = "認証番号を再送";
+"認証番号を再送" = "Resend Verification Code";
 
 /* 認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。 */
-"認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。" = "認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。";
+"認証番号を電話にてお知らせします。\n\n発信者番号が非表示になる場合や、ご契約のプランによっては着信料金がかかる場合があります。" = "Our automated system will call you with your verification code. \n\nThe caller ID may be unknown and you may be charged for the call depending on your mobile plan.";
 
 /* 福袋（中身が不明のセット） */
-"福袋（中身が不明のセット）" = "福袋（中身がわからないセット）";
+"福袋（中身が不明のセット）" = "Inappropriate content";
 
 /* アダルト商品 */
 "アダルト商品" = "アダルト商品";
@@ -1910,8 +1910,8 @@
 "¥300" = "¥300";
 
 /* エラー */
-"エラー" = "エラー";
-"Error" = "エラー";
+"エラー" = "Error";
+"Error" = "Error";
 
 /* エンタメ */
 "エンタメ" = "エンタメ";
@@ -2171,52 +2171,52 @@
 "コンビニ・ATM支払い" = "コンビニ・ATM支払い";
 
 /* 暴言・脅迫 */
-"暴言・脅迫" = "暴言・脅迫";
+"暴言・脅迫" = "Inappropriate comment";
 
 /* サイズ */
-"サイズ" = "サイズ";
+"サイズ" = "Size";
 
 /* サーバーにつながりにくい状況が発生しております。ご迷惑をおかけしますが、しばらくお待ちいただいてからアプリをご利用ください。\n\n最新の運用情報をTwitterのメルカリアカウントで配信しておりますのでご確認ください。 */
-"Comment.Server.Disconnect" = "ご迷惑をおかけし申し訳ございません。\nサーバーにつながりにくい状況が発生しております。\n恐れ入りますが、復旧までしばらくお待ちください。\n\nTwitterのメルカリアカウントで進展をご案内させて頂く場合もございますので、併せてご確認ください。";
+"Comment.Server.Disconnect" = "Oops! Something went wrong!\n\nSorry for the inconvenience, we are experiencing some difficulties connecting to our servers and are currently working on resolving the issue. \n\nPlease try again later.\n\nFollow the link below to the Mercari Twitter account for announcements and status updates.\n\nWe thank you for your patience!";
 
 /* 家電・スマホ */
-"家電・スマホ" = "家電・スマホ";
+"家電・スマホ" = "Electronics";
 
 /* システムエラーです。管理者にお問い合わせ下さい */
-"システムエラーです。管理者にお問い合わせ下さい" = "サーバーにつながりにくい状況が発生しております。ご迷惑をおかけしますが、しばらくお待ちいただいてからアプリをご利用ください。";
+"システムエラーです。管理者にお問い合わせ下さい" = "Oops, our servers are busy at the moment. Please wait and try again later.";
 
 /* 買いたい商品がない */
-"買いたい商品がない" = "買いたい商品がない";
+"買いたい商品がない" = "Listings weren't appealing";
 
 /* スポーツ・レジャー */
-"スポーツ・レジャー" = "スポーツ・レジャー";
+"スポーツ・レジャー" = "Sports & Outdoors";
 
 /* 誹謗中傷 */
-"誹謗中傷" = "誹謗中傷";
+"誹謗中傷" = "Mental abuse";
 
 /* 確認 */
-"確認" = "確認";
+"確認" = "Confirmation";
 
 /* Setting.storyboard */
-"確認済み" = "確認済み";
+"確認済み" = "Confirmed";
 
 /* Purchase.storyboard */
-"セキュリティコード" = "セキュリティコード";
+"セキュリティコード" = "Security code";
 
 /* Purchase.storyboard */
-"セキュリティコードとは？" = "セキュリティコードとは？";
+"セキュリティコードとは？" = "What is a security code？";
 
 /* セキュリティコードを入力してください */
-"セキュリティコードを入力してください" = "セキュリティコードを入力してください";
+"セキュリティコードを入力してください" = "Please enter your security code";
 
 /* Purchase.storyboard, Purchase.storyboard */
-"必須" = "必須";
+"必須" = "Required";
 
 /* データを取得できませんでした。しばらくしてからお試しください。 */
-"データを取得できませんでした。しばらくしてからお試しください。" = "データを取得できませんでした。しばらくしてからお試しください。";
+"データを取得できませんでした。しばらくしてからお試しください。" = "Oops! No Internet connection. Please try again later.";
 
 /* トラブルがあった */
-"トラブルがあった" = "トラブルがあった";
+"トラブルがあった" = "Report an issue";
 
 /* Contact.storyboard */
 "トラブルがあった / その他" = "Other issues";
