@@ -755,22 +755,22 @@
 "※振込先が間違っている場合、再振込手数料210円が発生します" = "※振込先が間違っている場合、再振込手数料210円が発生します";
 
 /* PhoneNumberAuth.storyboard */
-"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。";
+"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "Note: We will not display or share your phone number with anyone else";
 
 /* 本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います */
-"本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います" = "本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います";
+"本人確認のため、携帯電話のSMS(ショートメッセージサービス)を利用して認証を行います" = "Please verify your phone number so we know you're a real person!";
 
 /* 携帯電話の番号を入力 */
-"Phone Number" = "携帯電話の番号を入力";
+"Phone Number" = "Phone Number";
 
 /* ※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。 */
-"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。";
+"※電話番号は本人確認や不正利用防止のために利用します。他のユーザに公開されることはありません。" = "Note: We will not display or share your phone number with anyone else";
 
 /* 認証番号を入力 */
-"認証番号を入力" = "認証番号を入力";
+"認証番号を入力" = "Your Code";
 
 /* 電話番号認証 */
-"電話番号認証" = "電話番号認証";
+"電話番号認証" = "Enter Your Code";
 
 /* 30秒たっても認証番号が届かない方へ */
 "30秒たっても認証番号が届かない方へ" = "30秒たっても認証番号が届かない方へ";
@@ -2338,52 +2338,51 @@
 "取引中のトラブル" = "取引中のトラブル";
 
 /* 取引画面 */
-"取引画面" = "取引画面";
+"取引画面" = "Order Status";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
-"取引画面へ" = "取引画面へ";
+"取引画面へ" = "View order";
 
 /* 取引が不安だ */
-"取引が不安だ" = "取引が不安だ";
+"取引が不安だ" = "Transactions felt insecure";
 
 /* 取引の流れ */
-"取引の流れ" = "取引の流れ";
+"取引の流れ" = "Orders FAQs";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"取引の流れを確認する" = "取引の流れを確認する";
+"取引の流れを確認する" = "What are the next steps?";
 
 /* 取引完了 */
-"取引完了" = "取引完了";
-
+"取引完了" = "Completed";
 /* PhoneNumberAuth.storyboard */
-"取引をより安全にするため、SMSにて電話番号を確認させて頂いております。" = "取引をより安全にするため、SMSにて電話番号を確認させて頂いております。";
+"取引をより安全にするため、SMSにて電話番号を確認させて頂いております。" = "To protect our users, we require SMS verification of your phone number.";
 
 /* Contact.storyboard */
-"取引をキャンセルしたい" = "取引をキャンセルしたい";
+"取引をキャンセルしたい" = "I want to cancel my order";
 
 /* Contact.storyboard */
-"プレオープン期間について" = "プレオープン期間について";
+"プレオープン期間について" = "Mercari's Beta";
 
 /* プレオープン中につき￥0 */
-"プレオープン中につき￥0" = "プレオープン中につき￥0";
+"プレオープン中につき￥0" = "￥0 during Mercari's Beta!";
 
 /* Setting.storyboard */
-"プロフィール" = "プロフィール";
+"プロフィール" = "My Profile";
 
 /* プロフィールの設定 */
-"プロフィールの設定" = "プロフィールの設定";
+"プロフィールの設定" = "My Profile";
 
 /* プロフィールを設定しました */
-"プロフィールを設定しました" = "プロフィールを設定しました";
+"プロフィールを設定しました" = "Saved";
 
 /* Contact.storyboard, Contact.storyboard */
-"受取評価してくれない" = "受取評価してくれない";
+"受取評価してくれない" = "The buyer hasn't submitted a rating yet";
 
 /* 受取評価待ち */
-"受取評価待ち" = "受取評価待ち";
+"受取評価待ち" = "Awaiting rating from buyer";
 
 /* ベビー・キッズ */
-"ベビー・キッズ" = "ベビー・キッズ";
+"ベビー・キッズ" = "Babies & Kids";
 
 /* SideMenuViewCell.xib */
 "ヘッダー" = "ヘッダー";
@@ -2392,43 +2391,43 @@
 "ホーム" = "Home";
 
 /* BillsTransferFinishViewController.xib, Contact.storyboard, Contact.storyboard, Contact.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard */
-"ホームへ" = "ホームへ";
+"ホームへ" = "Go to Home";
 
 /* ProductListViewController */
 
-"Deactivate" = "公開停止";
+"Deactivate" = "Deactivate";
 
-"Activate" = "公開";
+"Activate" = "Activate";
 
-"Deactivate all" = "すべて公開停止にする";
+"Deactivate all" = "Deactivate all";
 
-"Activate all" = "すべて公開にする";
+"Activate all" = "Activate all";
 
-"Done Select" = "決定";
+"Done Select" = "Done";
 
-"Deactivate all listings?" = "すべて公開停止にしますか？";
+"Deactivate all listings?" = "Deactivate all listings?";
 
-"Activate all listings?" = "すべて公開にしますか？";
+"Activate all listings?" = "Activate all listings?";
 
-"Deactivate/Activate Success" = "設定しました";
+"Deactivate/Activate Success" = "Saved!";
 
-"Deactivate/Activate Fail" = "一部設定に失敗しました\n再度設定してください";
+"Deactivate/Activate Fail" = "Failed to save some statuses.\nPlease try again";
 
-"You have %d drafts__{other}__" = "下書きが%d件あります";
+"You have %d drafts__{other}__" = "You have %d drafts";
 
-"You have %d drafts__{one}__" = "下書きが%d件あります";
+"You have %d drafts__{one}__" = "You have a draft";
 
 /* ProductListViewCell.xib, ProductListViewCell~ipad.xib */
-"補足説明" = "補足説明";
+"補足説明" = "Additional Explanation";
 
 /* ポイント利用 */
-"ポイント利用" = "ポイント利用";
+"ポイント利用" = "Credits";
 
 /* Purchase.storyboard */
-"ポイント利用の変更" = "ポイント利用の変更";
+"ポイント利用の変更" = "Change credit usage";
 
 /* ポイント履歴 */
-"ポイント履歴" = "ポイント履歴";
+"ポイント履歴" = "Mercari credits history";
 
 /* <h1>ポイント履歴はまだありません</h1> */
 "PointHistory.NoPoint.Prepay" = "<h1>所持しているポイントはありません</h1>";
@@ -2866,73 +2865,73 @@
 "建物名・部屋番号 (任意)" = "建物名・部屋番号 (任意)";
 
 /* UsersAddressEditViewController.xib, PhoneNumberAuth.storyboard, Setting.storyboard */
-"電話番号" = "電話番号";
+"電話番号" = "Phone number";
 
 /* 電話番号の確認 */
-"電話番号の確認" = "電話番号の確認";
+"電話番号の確認" = "Phone Number Verification";
 
 /* 電話番号の確認がとれました */
-"電話番号の確認がとれました" = "電話番号の確認がとれました";
+"電話番号の確認がとれました" = "Verification Complete";
 
 /* PhoneNumberAuth.storyboard */
-"電話番号の確認が必要な理由" = "電話番号の確認が必要な理由";
+"電話番号の確認が必要な理由" = "Why do I need to verify?";
 
 /* 電話番号を入力してください */
-"電話番号を入力してください" = "電話番号を入力してください";
+"電話番号を入力してください" = "Please enter your phone number";
 
 /* PhoneNumberAuth.storyboard */
-"電話接続による認証" = "電話接続による認証";
+"電話接続による認証" = "Phone Call Verification";
 
 /* Setting.storyboard */
-"購入" = "購入";
+"購入" = "Buyer ";
 
 /* 購入者 */
-"購入者" = "購入者";
+"購入者" = "Buyer";
 
 /* 購入者/出品者 : %@\n */
-"購入者/出品者 : %@\n" = "購入者/出品者 : %@\n";
+"購入者/出品者 : %@\n" = "Buyer/Seller: %@\n";
 
 /* 購入者/出品者かを選択してください */
-"購入者/出品者かを選択してください" = "購入者/出品者かを選択してください";
+"購入者/出品者かを選択してください" = "Choose either Buyer or Seller";
 
 /* ReviewListViewCell.xib */
-"購入者からの評価：" = "購入者からの評価：";
+"購入者からの評価：" = "Rating from buyer:";
 
 /* Contact.storyboard, Contact.storyboard */
-"購入者が支払いを完了しない" = "購入者が支払いを完了しない";
+"購入者が支払いを完了しない" = "The buyer has not sent the payment yet";
 
 /* ReviewListViewCell.xib */
-"購入者の評価：" = "購入者の評価：";
+"購入者の評価：" = "Buyer rating:";
 
 /* Contact.storyboard */
-"購入者側" = "購入者側";
+"購入者側" = "Buyer issues";
 
 /* 購入者側/出品者側 : %@\n */
-"購入者側/出品者側 : %@\n" = "購入者側/出品者側 : %@\n";
+"購入者側/出品者側 : %@\n" = "Buyer / Seller: %@\n";
 
 /* 購入者側/出品者側どちらですか？ */
-"購入者側/出品者側どちらですか？" = "購入者側/出品者側どちらですか？";
+"購入者側/出品者側どちらですか？" = "Are you a buyer or a seller?";
 
 /* Purchase.storyboard */
-"購入手続き" = "購入手続き";
+"購入手続き" = "Checkout";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
-"購入手続きへ" = "購入手続きへ";
+"購入手続きへ" = "Buy";
 
 /* 購入した商品 */
 "購入した商品" = "Buying";
 
 /* 購入する */
-"購入する" = "購入する";
+"購入する" = "Checkout";
 
 /* (確認)購入する */
-"(確認)購入する" = "購入する";
+"(確認)購入する" = "Yes";
 
 /* 購入の流れ */
-"購入の流れ" = "購入の流れ";
+"購入の流れ" = "About Purchasing";
 
 /* 購入完了 */
-"購入完了" = "購入完了";
+"購入完了" = "Order confirmed";
 
 /* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
 "PurchaseFinishViewController.DescriptionLabel.ATM" = "取引画面で各コンビニ/銀行ATMを選択してお支払いください";
@@ -3740,7 +3739,7 @@
 "html.warning.largeShipping" = "大型らくらくメルカリ便の<a href=\"category/15/#50\">注意事項</a>を必ずお読みください。実際の商品の大きさにより送料が変更になる場合や、荷受け出来ない場合がございます。";
 "Shipping from" = "発送元";
 "Show only prefectures" = "※出品時は都道府県のみ表示されます";
-"Enter telephone number" = "電話番号を入力してください";
+"Enter telephone number" = "Enter your phone number";
 "Parsel Size for Product" = "商品の三辺合計サイズ";
 "Confirm important points" = "注意事項を必ずご確認ください";
 "Description for Parsel Size 1" = "1．セット商品は個別に送料がかかるため、別々に出品してください。（例. テレビとテレビ台、応接セット、ダイニングセットなど）";
