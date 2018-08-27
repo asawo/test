@@ -2057,61 +2057,61 @@
 "説明文と違う商品が届いた" = "説明文と違う商品が届いた";
 
 /* キャッシュの消去 */
-"キャッシュの消去" = "キャッシュの消去";
+"キャッシュの消去" = "Clear cache";
 
 /* キャッシュを消去しました */
-"キャッシュを消去しました" = "キャッシュを消去しました";
+"キャッシュを消去しました" = "Cache cleared";
 
 /* Setting.storyboard */
-"キャッシュを消去する" = "キャッシュを消去する";
+"キャッシュを消去する" = "Clear cache";
 
 /* キャンセル */
-"キャンセル" = "キャンセル";
+"キャンセル" = "Cancel";
 
 /* Search.storyboard */
-"キーワード" = "キーワード";
+"キーワード" = "Keyword";
 
 /* SearchBarView.xib, Search.storyboard */
-"キーワードからさがす" = "キーワードからさがす";
+"キーワードからさがす" = "Search Mercari";
 
 /* ProductCollectionNextViewCell.xib, ProductListNextViewCell.xib */
-"読み込み中…" = "読み込み中…";
+"読み込み中…" = "Loading...";
 
 /* Contact.storyboard */
-"読んでも解決しないのでお問い合わせをする" = "読んでも解決しないのでお問い合わせをする";
+"読んでも解決しないのでお問い合わせをする" = "NEED A BIT MORE HELP?";
 
 /* Search.storyboard */
-"クリア" = "クリア";
+"クリア" = "Clear";
 
 /* クレジットカード */
-"クレジットカード" = "クレジットカード";
+"クレジットカード" = "Credit Card";
 
 /* Purchase.storyboard */
-"クレジットカード （手数料 ￥0）" = "クレジットカード （手数料 ￥0）";
+"クレジットカード （手数料 ￥0）" = "Credit Card";
 
 /* クレジットカード支払い */
-"クレジットカード支払い" = "クレジットカード支払い";
+"クレジットカード支払い" = "Credit card payment";
 
 /* クレジットカード入力 */
-"クレジットカード入力" = "クレジットカード入力";
+"クレジットカード入力" = "Enter your credit card number";
 
 /* Purchase.storyboard */
-"クレジットカードを変更" = "クレジットカードを変更";
+"クレジットカードを変更" = "Change credit card";
 
 /* クレジットカードを設定してください */
-"クレジットカードを設定してください" = "クレジットカードを設定してください";
+"クレジットカードを設定してください" = "Please enter your credit card information.";
 
 /* クレジットカードを追加しました */
-"クレジットカードを追加しました" = "クレジットカードを追加しました";
+"クレジットカードを追加しました" = "Your credit card information has been added";
 
 /* クレジットカード情報 */
-"クレジットカード情報" = "クレジットカード情報";
+"クレジットカード情報" = "My Payments";
 
 /* クレジットカード情報を確認中 */
-"クレジットカード情報を確認中" = "クレジットカード情報を確認中";
+"クレジットカード情報を確認中" = "Confirming...";
 
 /* 貯蓄預金 */
-"貯蓄預金" = "貯蓄預金";
+"貯蓄預金" = "Savings account";
 
 /* EmailPasswordSettingViewController.xib */
 "新パスワード" = "New password";
