@@ -1826,61 +1826,60 @@
 "クリップボードにコピーしました" = "クリップボードにコピーしました";
 
 /* 準備中 */
-"準備中" = "準備中";
+"準備中" = "Coming soon...";
 
 /* 写真 */
-"写真" = "写真";
+"写真" = "Photo";
 
 /* 写真にアクセスできません */
-"写真にアクセスできません" = "写真にアクセスできません";
+"写真にアクセスできません" = "Could not load photo. ";
 
 /* FullscreenImageViewController.xib */
-"写真の編集" = "写真の編集";
+"写真の編集" = "Edit photo";
 
 /* 写真選択 */
-"写真選択" = "写真選択";
+"写真選択" = "Select photo";
 
 /* 写真を削除してもよろしいですか？ */
-"写真を削除してもよろしいですか？" = "写真を削除してもよろしいですか？";
-
+"写真を削除してもよろしいですか？" = "Delete photo?";
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"続けて出品" = "続けて出品";
+"続けて出品" = "Create another listing";
 
 /* Search.storyboard */
-"価格" = "価格";
+"価格" = "Price";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"価格の決め方" = "価格の決め方";
+"価格の決め方" = "Price FAQs";
 
 /* 価格を正しく入力してください */
-"価格を正しく入力してください" = "価格を正しく入力してください";
+"価格を正しく入力してください" = "Please enter a valid price";
 
 /* アカウント情報を確認中 */
-"アカウント情報を確認中" = "アカウント情報を確認中";
+"アカウント情報を確認中" = "Confirming account information...";
 
 /* Setting.storyboard */
-"アップデート" = "アップデート";
+"アップデート" = "Update";
 
 /* アップデートのお知らせ */
-"アップデートのお知らせ" = "アップデートのお知らせ";
+"アップデートのお知らせ" = "Information about update";
 
 /* Contact.storyboard */
-"アプリが落ちる" = "アプリが落ちる";
+"アプリが落ちる" = "The app crashed";
 
 /* Contact.storyboard */
-"アプリの動作が不安定な場合は端末の再起動やアプリのアップデートで直る場合がありますので、お試しいただいてからお問い合わせください。" = "アプリの動作が不安定な場合は端末の再起動やアプリのアップデートで直る場合がありますので、お試しいただいてからお問い合わせください。";
+"アプリの動作が不安定な場合は端末の再起動やアプリのアップデートで直る場合がありますので、お試しいただいてからお問い合わせください。" = "If the app is unstable, restarting your mobile device or updating the app may resolve the issue. Please contact us if problems persist.";
 
 /* Setting.storyboard */
-"アプリケーション情報" = "アプリケーション情報";
+"アプリケーション情報" = "About this app";
 
 /* 関連する商品名 : %@\n */
-"関連する商品名 : %@\n" = "関連する商品名 : %@\n";
+"関連する商品名 : %@\n" = "Related item names: %@\n";
 
 /* Contact.storyboard */
-"関係する商品名" = "関係する商品名";
+"関係する商品名" = "Item name";
 
 /* 宣伝、探し物 */
-"宣伝、探し物" = "宣伝・探し物";
+"宣伝、探し物" = "Advertising/Soliciting";
 
 /* インテリア・雑貨 */
 "インテリア・雑貨" = "インテリア・雑貨";
