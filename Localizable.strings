@@ -1675,37 +1675,37 @@
 "やることリスト" = "To Do List";
 
 /* 内容 */
-"内容" = "内容";
+"内容" = "Details";
 
 /* 内容に同意したらチェックを２つ入れてください */
-"内容に同意したらチェックを２つ入れてください" = "内容に同意したらチェックを２つ入れてください";
+"内容に同意したらチェックを２つ入れてください" = "Please check the boxes if you agree to the terms";
 
 /* 内部エラーが発生しました */
-"内部エラーが発生しました" = "内部エラーが発生しました";
+"内部エラーが発生しました" = "An error has occurred. Please try again";
 
 /* ゆうちょ銀行に振り込むには？ */
-"ゆうちょ銀行に振り込むには？" = "ゆうちょ銀行に振り込むには？";
+"ゆうちょ銀行に振り込むには？" = "How do I make a transfer to a JP Bank account?";
 
 /* Contact.storyboard */
-"ゆうちょ銀行の振込申請について" = "ゆうちょ銀行の振込申請について";
+"ゆうちょ銀行の振込申請について" = "How do I request a transfer to a JP Bank account?";
 
 /* Contact.storyboard */
-"When will it be transfered？" = "いつ振り込まれるんですか？";
+"When will it be transfered？" = "When will it be transfered？";
 
 /* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
-"よくあるお問い合わせ" = "よくあるお問い合わせ";
+"よくあるお問い合わせ" = "Top Questions";
 
 /* Contact.storyboard */
-"よくある質問" = "よくある質問";
+"よくある質問" = "FAQs";
 
 /* よくある質問と答え */
-"よくある質問と答え" = "よくある質問と答え";
+"よくある質問と答え" = "FAQs";
 
 /* よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。 */
-"よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。" = "よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。";
+"よくある質問と答えが下記のリンクに記載されています。必ずお読みになってから、フォームよりご連絡ください。" = "You'll find our FAQs at the link below. Please be sure to have a look there before submitting your inquiry.";
 
 /* FullscreenImageViewController.xib, Purchase.storyboard */
-"閉じる" = "閉じる";
+"閉じる" = "Close";
 
 /* 事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。 */
 "事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。" = "事務局ではすべての機能要望を参考にさせていただき随時、機能改善してまいります。特に返答はいたしませんが、ご了承ください。";
