@@ -57,7 +57,7 @@
 "送料込" = "送料込";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, ProductDetailViewController~ipad.xib, Exhibit.storyboard, Exhibit_iPad.storyboard */
-"送料込み" = "送料込み";
+"送料込み" = "Free Shipping";
 "ProductDetailViewController.LikeDialogAlert.Title" = "いいね！しておくと商品が値下げされた時に通知を受け取ることが出来ます";
 "ProductDetailViewController.LikeDialogAlert.Yes" = "いいね！する";
 "ProductDetailViewController.LikeDialogAlert.No" = "今回はやめておく";
@@ -80,10 +80,10 @@
 "送信中" = "送信中";
 
 /* Setting.storyboard */
-"市区町村" = "市区町村";
+"市区町村" = "City";
 
 /* Setting.storyboard */
-"都道府県を選択してください" = "選択してください";
+"都道府県を選択してください" = "Select prefecture";
 
 /* UsersAddressEditViewController.xib */
 "市町区村" = "市町区村";
@@ -92,10 +92,10 @@
 "七分袖カーディガン" = "七分袖カーディガン";
 
 /* ProductDetailViewController.xib */
-"メルカリ安心への取り組み" = "メルカリ安心への取り組み";
+"メルカリ安心への取り組み" = "Mercari Buyer Guarantee";
 
 /* ProductDetailViewController.xib */
-"お金は事務局に支払われ、お互い評価後に振込まれます" = "お金は事務局に支払われ、評価後に振り込まれます";
+"お金は事務局に支払われ、お互い評価後に振込まれます" = "Receive your item as listed, or we’ll reimburse you.";
 
 /* Exhibit.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard, Exhibit_iPad.storyboard */
 "理由：禁止出品物(クーポンなどの割引券、回数券)、禁止出品物(オンラインゲームのアイテムなど実態のないもの)" = "理由：禁止出品物(クーポンなどの割引券、回数券)、禁止出品物(オンラインゲームのアイテムなど実態のないもの)";
@@ -241,7 +241,7 @@
 "不具合の詳細状況 : %@\n" = "不具合の詳細状況 : %@\n";
 
 /* Setting.storyboard */
-"名（全角）" = "名（全角）";
+"名（全角）" = "First name";
 
 /* UsersAddressEditViewController.xib */
 "名 (全角)" = "名 (全角)";
@@ -253,7 +253,7 @@
 "名前を入力してください" = "名前を入力してください";
 
 /* Setting.storyboard */
-"名カナ（全角）" = "名カナ（全角）";
+"名カナ（全角）" = "First name (katakana)";
 
 /* UsersAddressEditViewController.xib */
 "名カナ (全角)" = "名カナ (全角)";
@@ -373,7 +373,7 @@
 "初めて購入する方へ" = "初めて購入する方へ";
 
 /* Purchase.storyboard */
-"期限" = "期限";
+"期限" = "Expiration date";
 
 /* 期限を入力してください */
 "期限を入力してください" = "期限を入力してください";
@@ -388,13 +388,13 @@
 "次に期限切れする日時" = "次に期限切れする日時";
 
 /* 次へ */
-"次へ" = "次へ";
+"次へ" = "Next";
 
 /* #,##0円 */
 "#,##0円" = "#,##0円";
 
 /* %1$@（手数料 %2$@） */
-"%1$@（手数料 %2$@）" = "%1$@\n(手数料 %2$@)";
+"%1$@（手数料 %2$@）" = "%1$@\n(Transaction Fee %2$@)";
 
 /* %1$@ %2$@ (%3$@ %4$@) 様\n */
 "%1$@ %2$@ (%3$@ %4$@) 様\n" = "%1$@ %2$@ (%3$@ %4$@) 様\n";
@@ -601,10 +601,10 @@
 "支払い待ち" = "支払い待ち";
 
 /* 支払い方法 */
-"支払い方法" = "支払い方法";
+"支払い方法" = "Payment";
 
 /* Purchase.storyboard */
-"支払い方法について" = "支払い方法について";
+"支払い方法について" = "Payment FAQs";
 
 /* Contact.storyboard */
 "支払い方法を変更したい" = "支払い方法を変更したい";
@@ -613,13 +613,13 @@
 "支払い方法を選択してください" = "支払い方法を選択してください";
 
 /* (支払い方法)選択してください */
-"(支払い方法)選択してください" = "選択してください";
+"(支払い方法)選択してください" = "Select payment method";
 
 /* (配送先)設定してください */
-"(配送先)設定してください" = "設定してください";
+"(配送先)設定してください" = "Enter your address";
 
 /* Purchase.storyboard */
-"支払い金額" = "支払い金額";
+"支払い金額" = "Total";
 
 /* Shipping fee */
 "Shipping fee" = "Shipping fee";
@@ -706,7 +706,7 @@
 "9999" = "9999";
 
 /* SIMILAR ITEMS */
-"SIMILAR ITEMS" = "関連商品";
+"SIMILAR ITEMS" = "Similar Items";
 
 /* Contact.storyboard */
 "不具合報告は詳細に記載してください" = "不具合報告は詳細に記載してください";
@@ -855,7 +855,7 @@
 "いいね！ 0" = "いいね！ 0";
 
 /* Like (ProductDetailViewController) */
-"Like" = "いいね!";
+"Like" = "Like";
 
 /* Contact.storyboard */
 "いただいた商品の報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n商品の報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。" = "いただいた商品の報告は事務局にて確認させていただき、メルカリのサービス向上に役立たせていただきます。\n\n商品の報告につきましては返信をしておりませんが、お問い合わせがありましたら、いつでもご連絡ください。";
@@ -949,7 +949,7 @@
 "商品の詳細" = "商品の詳細";
 
 /* 商品の説明 */
-"商品の説明" = "商品の説明";
+"商品の説明" = "Item Description";
 
 "ProductEditViewController.ProductDetailTextView.Placeholder" = "商品の説明 (任意 1,000文字以内)\n(色、素材、重さ、定価、注意点など)\n\n例)　2010年頃に1万円で購入したジャケットです。ライトグレーで傷はありません。あわせやすいのでおすすめです。\n\n#ジャケット #ジャケットコーデ";
 
@@ -995,7 +995,7 @@
 "VerifyGuaranteedShippingTime" = "※検品を行うため、到着までお時間をいただきます";
 
 /* 商品の状態 */
-"商品の状態" = "商品の状態";
+"商品の状態" = "Condition";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
 "商品の情報を入力" = "商品の情報を入力";
@@ -1141,10 +1141,10 @@
 "前回の情報を使う" = "前回の情報を使う";
 
 /* 配送先 */
-"配送先" = "配送先";
+"配送先" = "Ship to";
 
 /* ポイントを使用 */
-"ポイントを使用" = "ポイントを使用";
+"ポイントを使用" = "Use points";
 
 /* 選択できません */
 "選択できません" = "選択できません";
@@ -1168,7 +1168,7 @@
 "住所の変更" = "住所の変更";
 
 /* 住所の登録 */
-"住所の登録" = "住所の登録";
+"住所の登録" = "Add New Address";
 
 /* 使用できるポイントを超えています */
 "使用できるポイントを超えています" = "使用できるポイントを超えています";
@@ -1201,19 +1201,19 @@
 "住所を確認中" = "住所を確認中";
 
 /* 配送について */
-"Shipping" = "配送について";
+"Shipping" = "Shipping";
 
 /* オプション */
-"Option" = "オプション";
+"Option" = "Options";
 
 /* 配送のガイド */
-"配送のガイド" = "配送のガイド";
+"配送のガイド" = "Shipping FAQs";
 
 /* 配送の方法 */
-"配送の方法" = "配送の方法";
+"配送の方法" = "Shipping method";
 
 /* 配送料の負担 */
-"配送料の負担" = "配送料の負担";
+"配送料の負担" = "Shipping fee";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
 "配送方法の種類" = "配送方法の種類";
@@ -1405,10 +1405,10 @@
 "公開停止中" = "公開停止中";
 
 /* My Addresses */
-"My Addresses" = "住所一覧";
+"My Addresses" = "My Addresses";
 
 /* Add new shipping address */
-"Add new address" = "新しい住所を登録";
+"Add new address" = "Add new address";
 "Add new facility" = "新しい受取場所を登録";
 
 /* Your address will not be changed for purchases that are currently in progress.\n\nTo change your address for a purchase in progress, please contact us through the Help Center. */
@@ -1717,13 +1717,13 @@
 "事務局によるキャンセル" = "事務局によるキャンセル";
 
 /* Setting.storyboard */
-"例）横浜市緑区" = "例）横浜市緑区";
+"例）横浜市緑区" = "Ex. 横浜市緑区";
 
 /* Setting.storyboard */
-"例）09012345678" = "例）09012345678";
+"例）09012345678" = "Ex. 09012345678";
 
 /* Setting.storyboard */
-"例）1234567" = "例）1234567";
+"例）1234567" = "Ex. 1234567";
 
 /* FacebookRegisterViewController.xib, ProfileEditViewController.xib, UserRegisterViewController.xib */
 "例）AYA☆セール中" = "User Name";
@@ -2020,7 +2020,7 @@
 "悪い：" = "悪い：";
 
 /* カテゴリー */
-"カテゴリー" = "カテゴリー";
+"カテゴリー" = "Category";
 
 /* Search.storyboard */
 "カテゴリーからさがす" = "カテゴリーからさがす";
@@ -2146,25 +2146,25 @@
 "コメント 0" = "コメント 0";
 
 /* コメントする */
-"コメントする" = "コメントする";
+"コメントする" = "Comment";
 
 /* コメントの報告 */
-"コメントの報告" = "コメントの報告";
+"コメントの報告" = "Report a comment";
 
 /* Contact.storyboard */
-"コメントの報告ありがとうございます" = "コメントの報告ありがとうございます";
+"コメントの報告ありがとうございます" = "Thank you for making Mercari a safer place to shop!";
 
 /* コメントは1,000文字以内です */
-"コメントは1,000文字以内です" = "コメントは1,000文字以内です";
+"コメントは1,000文字以内です" = "Comments can be up to 1,000 characters.";
 
 /* コンタクトレンズ・カラコン */
 "コンタクトレンズ・カラコン" = "医薬品・医療品";
 
 /* コンビニ/ATM */
-"コンビニ/ATM" = "コンビニ/ATM";
+"コンビニ/ATM" = "Convenience store/ATM";
 
 /* Purchase.storyboard */
-"コンビニ/ATM （手数料 ￥100）" = "コンビニ/ATM （手数料 ￥100）";
+"コンビニ/ATM （手数料 ￥100）" = "Convenience store/ATM (Transaction Fee ￥100)";
 
 /* コンビニ・ATM支払い */
 "コンビニ・ATM支払い" = "コンビニ・ATM支払い";
@@ -2302,13 +2302,13 @@
 "金券、クーポン、WEBマネー、現行紙幣" = "金券・クーポン・WebMoney";
 
 /* Setting.storyboard */
-"姓（全角）" = "姓（全角）";
+"姓（全角）" = "Last name";
 
 /* UsersAddressEditViewController.xib */
 "姓 (全角)" = "姓 (全角)";
 
 /* Setting.storyboard */
-"姓カナ（全角）" = "姓カナ（全角）";
+"姓カナ（全角）" = "Last name (katakana)";
 
 /* UsersAddressEditViewController.xib */
 "姓カナ (全角)" = "姓カナ (全角)";
@@ -2454,7 +2454,7 @@
 "ポイントの確認" = "ポイント";
 
 /* ポイントはありません */
-"ポイントはありません" = "ポイントはありません";
+"ポイントはありません" = "No points available";
 
 /* ポイントを利用しない */
 "ポイントを利用しない" = "ポイントを利用しない";
@@ -2769,7 +2769,7 @@
 "直接取引、交換、半交換の持ちかけ" = "他サービス誘導・直接取引・交換";
 
 /* Setting.storyboard */
-"郵便番号（数字）" = "郵便番号（数字）";
+"郵便番号（数字）" = "ZIP code";
 
 /* 姓(カナ)はカタカナで入力してください */
 "姓(カナ)はカタカナで入力してください" = "姓(カナ)はカタカナで入力してください";
@@ -2781,10 +2781,10 @@
 "郵便番号は数字７桁です" = "郵便番号は数字７桁です";
 
 /* CommentTableViewController.xib */
-"相手のことを考え丁寧なコメントを心がけましょう。不快な言葉づかいなどは<b>アクセス禁止</b>や<b>退会処分</b>となることがあります。" = "相手のことを考え丁寧なコメントを心がけましょう。不快な言葉づかいなどは<b>利用制限</b>や<b>退会処分</b>となることがあります。";
+"相手のことを考え丁寧なコメントを心がけましょう。不快な言葉づかいなどは<b>アクセス禁止</b>や<b>退会処分</b>となることがあります。" = "Please be polite and keep comments appropriate. Inappropriate comments may result in being <b>suspended</b> or <b>banned</b> from Mercari.";
 
 /* 出品者 */
-"出品者" = "出品者";
+"出品者" = "Seller";
 
 /* Contact.storyboard */
 "出品者側" = "出品者側";
@@ -2955,7 +2955,7 @@
 "購入・支払いについて" = "購入・支払いについて";
 
 /* UsersAddressEditViewController.xib, Setting.storyboard */
-"都道府県" = "都道府県";
+"都道府県" = "Prefecture";
 
 /* Contact.storyboard */
 "対象商品" = "Item";
@@ -3525,10 +3525,10 @@
 "No Items yet" = "まだ商品がありません";
 
 /* Section Titles (ProductDetailViewController) */
-"Description" = "商品の説明";
-"Details" = "商品の情報";
-"Seller" = "出品者";
-"Comments" = "コメント";
+"Description" = "Item Description";
+"Details" = "Item Details";
+"Seller" = "Seller";
+"Comments" = "Comments";
 
 /* Free (ProductDetailViewController) */
 "Free" = "Free";
@@ -3537,10 +3537,10 @@
 "Invitations Sent!\n\nKeep spreading the word.\nInvite more to get more!" = "Invitations Sent!\n\nKeep spreading the word.\nInvite more to get more!";
 
 /* Pay with */
-"Pay with" = "支払い方法";
+"Pay with" = "Pay with";
 
 /* Credit or Debit card */
-"Credit or Debit card" = "クレジットカード";
+"Credit or Debit card" = "Credit or debit card";
 
 /* Add Credit or Debit card */
 "Add Credit or Debit card" = "クレジットカードの追加";
@@ -3552,7 +3552,7 @@
 "4-digit security code on the front of your card" = "カードの前面に記載されている4桁の番号をご確認ください";
 
 /* 3-digit security code on the back of your card or 4-digit security code on the front of your card */
-"3-digit security code on the back of your card or 4-digit security code on the front of your card" = "カードの前面に記載されている4桁の番号、もしくは背面に記載されている3桁の番号をご確認ください";
+"3-digit security code on the back of your card or 4-digit security code on the front of your card" = "Your security code is a 3-digit code on the back of your card or a 4-digit code on the front of your card.";
 
 /* New to Mercari? */
 "New to Mercari?" = "New to Mercari?";
@@ -3707,7 +3707,7 @@
 
 /* PurchaseCardAddViewController */
 "Card Number" = "Card Number";
-"Add Card" = "追加する";
+"Add Card" = "Add Card";
 
 /* GMOPG */
 "GMOPG.ErrorDescription.100-109" = "カード番号が正しくありません。";
@@ -3721,12 +3721,12 @@
 "Select Address" = "SELECT ADDRESS";
 
 /* AddressListViewModel */
-"HeaderLabel.HomeOrOffice" = "ご自宅/勤務先など";
+"HeaderLabel.HomeOrOffice" = "Home/Office";
 "HeaderLabel.PostOfficeOrConveni" = "郵便局/コンビニ受取";
-"FooterLabel.WarningForNonYuYu" = "※「新しい住所を登録」に郵便局/コンビニの住所を設定されても、商品を受取ることはできません";
+"FooterLabel.WarningForNonYuYu" = "* You cannot pick this item up at a post office or convenience store. Please add a home or office address.";
 
 /* AddressEditViewController */
-"AddressEdit.Header.Default" = "住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。";
+"AddressEdit.Header.Default" = "You only need to register an address once. We'll remember the details to save you the hassle next time.";
 "AddressEdit.Header.Now" = "※本人確認書類と同じ住所を登録してください\n\n※お金に変えたアイテムはこの住所に集荷に伺います";
 
 /* Encourage Save Search Dialog */
@@ -3770,7 +3770,7 @@
 /* delivery options */
 "enable to receive at facility" = "※郵便局/コンビニ受取可能";
 "post office or convenience" = "郵便局/コンビニ受取";
-"anonymous shipping" = "匿名配送";
+"anonymous shipping" = "Anonymous Delivery";
 "verify guaranteed" = "検品・保証・クリーニング付";
 
 /* Live Channel list View */
@@ -3870,9 +3870,9 @@
 "BillsTransfer.Proceed.Confirm.Daily" = "振込手数料が%@かかります。";
 
 /* Profile Header - Stats view */
-"ProfileHeader.Stats.NumberOfItems" = "出品数";
-"ProfileHeader.Stats.Followers" = "フォロワー";
-"ProfileHeader.Stats.Followings" = "フォロー中";
+"ProfileHeader.Stats.NumberOfItems" = "listings";
+"ProfileHeader.Stats.Followers" = "followers";
+"ProfileHeader.Stats.Followings" = "following";
 
 /* Notification Settings */
 "Settings.Notification.FollowNotification" = "フォロー中出品者の出品";
@@ -4032,7 +4032,7 @@
 "Prepay.Screen.Purchase.PostPurchase.Alert.Yes" = "使う";
 "Prepay.Screen.Purchase.PostPurchase.Alert.No" = "使わない";
 "Prepay.Screen.Purchase.PointPurchaseCell.ExistsSales" = "売上金があります";
-"Prepay.Screen.Purchase.PointPurchaseCell.NoSales" = "売上金がありません";
+"Prepay.Screen.Purchase.PointPurchaseCell.NoSales" = "No balance available";
 "Prepay.Screen.Purchase.SalesExpuration.NoSales" = "所持している売上金はありません";
 "Prepay.Screen.UserConfirm.Description.Prefix" = "より、あんしん・あんぜんにお取引いただくため、";
 "Prepay.Screen.UserConfirm.Description.Bold" = "売上金での商品の購入ができなくなりました。\n";
