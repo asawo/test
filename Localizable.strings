@@ -1953,71 +1953,71 @@
 
 /* Exhibit.storyboard */
 
-"Save Draft" = "下書きに保存";
+"Save Draft" = "Save Draft";
 
 /* Exhibit.storyboard */
 
-"Save Changes" = "上書き保存";
+"Save Changes" = "Save Changes";
 
-"Save changes to draft?" = "上書き保存しますか？";
+"Save changes to draft?" = "Save changes to draft?";
 
 /* Exhibit.storyboard */
 
-"Delete this Draft" = "削除";
+"Delete this Draft" = "Delete";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"販売手数料 (10%)" = "販売手数料 (10%)";
+"販売手数料 (10%)" = "Selling fee (10%)";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"販売手数料 (プレオープン中)" = "販売手数料 (プレオープン中)";
+"販売手数料 (プレオープン中)" = "Selling fee (10%) (Beta period)";
 
 /* DraftItemsListViewController.storyboard */
 
-"Drafts" = "下書き一覧";
+"Drafts" = "Drafts";
 
-"Create New Listing" = "新しく出品する";
+"Create New Listing" = "Create New Listing";
 
-"No Draft!" = "下書き中の商品がありません";
+"No Draft!" = "No Draft!";
 
 /* 販売手数料(10%) */
-"販売手数料(10%)" = "販売手数料(10%)";
+"販売手数料(10%)" = "Selling fee (10%)";
 
 /* 販売価格 */
-"販売価格" = "販売価格";
+"販売価格" = "Pricing";
 
 /* 販売価格 (300〜100,000) */
-"販売価格 (300〜100,000)" = "販売価格 (300〜100,000)";
+"販売価格 (300〜100,000)" = "Pricing (300〜100,000)";
 
 /* 販売価格は%1$@〜%2$@円の範囲で入力してください */
-"販売価格は%1$@〜%2$@円の範囲で入力してください" = "販売価格は%1$@〜%2$@円の範囲で入力してください";
+"販売価格は%1$@〜%2$@円の範囲で入力してください" = "The price of the item must be between $%1$@ and $%2$@";
 
 /* 販売価格は300〜100,000円の範囲で入力してください */
-"販売価格は300〜100,000円の範囲で入力してください" = "販売価格は300〜100,000円の範囲で入力してください";
+"販売価格は300〜100,000円の範囲で入力してください" = "Add price";
 
 /* Contact.storyboard */
-"販売価格を変更したい" = "販売価格を変更したい";
+"販売価格を変更したい" = "Can I change the price of my item?";
 
 /* Shipping methods */
-"shipping_method.title" = "配送オプション";
-"shipping_method.all" = "すべての配送オプション";
-"shipping_method.anonymous" = "匿名配送";
-"shipping_method.japan_post" = "郵便局/コンビニ受取";
-"shipping_method.no_option" = "オプションなし";
+"shipping_method.title" = "Shipping Method";
+"shipping_method.all" = "All Shipping Methods";
+"shipping_method.anonymous" = "Anonymous Shipping";
+"shipping_method.japan_post" = "Receive item at post office/convenience store";
+"shipping_method.no_option" = "No option";
 
 /* 販売状況 */
-"販売状況" = "販売状況";
+"販売状況" = "Status";
 
 /* 販売代金の受取 */
-"販売代金の受取" = "販売代金の受取";
+"販売代金の受取" = "Receive payment.";
 
 /* 販売代金の受取について */
-"販売代金の受取について" = "販売代金の受取について";
+"販売代金の受取について" = "About payments";
 
 /* 悪い */
-"悪い" = "悪い";
+"悪い" = "Poor";
 
 /* ReviewListViewController.xib */
-"悪い：" = "悪い：";
+"悪い：" = "Poor";
 
 /* カテゴリー */
 "カテゴリー" = "Category";
