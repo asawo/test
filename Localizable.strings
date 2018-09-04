@@ -325,67 +325,67 @@
 "Oops! Try listing again in an area with a stronger connection or via a wireless network." = "Oops! Try listing again in an area with a stronger connection or via a wireless network.";
 
 /* Search.storyboard */
-"〜" = "〜";
+"〜" = "-";
 
 /* 検索 */
-"検索" = "検索";
+"検索" = "Search";
 
 /* 検索中 */
-"検索中" = "検索中";
+"検索中" = "Searching...";
 
 /* Search.storyboard */
-"検索結果と詳細検索画面　　　から検索条件を保存することができます" = "検索結果と詳細検索画面　　　から検索条件を保存することができます";
+"検索結果と詳細検索画面　　　から検索条件を保存することができます" = "(No need to translate)";
 
 /* Search.storyboard */
-"検索結果と詳細検索画面から検索条件を保存することができます" = "検索結果と詳細検索画面から検索条件を保存することができます";
+"検索結果と詳細検索画面から検索条件を保存することができます" = "Your filters can be saved from the search results and search screen";
 
 /* 検索条件をクリアしますか？ */
-"検索条件をクリアしますか？" = "検索条件をクリアしますか？";
+"検索条件をクリアしますか？" = "Clear?";
 
 /* Search.storyboard */
-"検索条件を保存しておくことができます" = "検索条件を保存しておくことができます";
+"検索条件を保存しておくことができます" = "Search filters can be saved";
 
 /* 検索条件を保存しました */
-"検索条件を保存しました" = "検索条件を保存しました";
+"検索条件を保存しました" = "Your search filter has been saved";
 
 /* Search.storyboard, Search.storyboard */
-"検索のヘルプ" = "検索のヘルプ";
+"検索のヘルプ" = "Search FAQｓ";
 
 /* Recent Searches */
-"Recent Searches" = "検索履歴";
+"Recent Searches" = "Recent Searches";
 
 /* ...and more!! */
-"...and more!!" = "もっと探す";
+"...and more!!" = "...and more!";
 
 /* Search for millions of items! */
-"Search for millions of items!" = "人気のアイテムを探してみよう";
+"Search for millions of items!" = "Search for millions of items!";
 
 /* You don't have any recent searches yet! */
-"You don't have any recent searches yet!" = "検索履歴はありません";
+"You don't have any recent searches yet!" = "You don't have any recent searches yet!";
 
 /* Got it! */
 "Got it!" = "OK";
 
 /* 初めて出品する方へ */
-"初めて出品する方へ" = "初めて出品する方へ";
+"初めて出品する方へ" = "For first-time sellers";
 
 /* 初めて購入する方へ */
-"初めて購入する方へ" = "初めて購入する方へ";
+"初めて購入する方へ" = "For first-time buyers";
 
 /* Purchase.storyboard */
-"期限" = "Expiration date";
+"期限" = "Expiration Date";
 
 /* 期限を入力してください */
-"期限を入力してください" = "期限を入力してください";
+"期限を入力してください" = "Please enter the expiration date";
 
 /*  (%1$@〜%2$@) */
 " (%1$@〜%2$@)" = " (%1$@〜%2$@)";
 
 /* Setting.storyboard */
-"次に期限切れするポイント" = "次に期限切れするポイント";
+"次に期限切れするポイント" = "(No need to translate)";
 
 /* Setting.storyboard */
-"次に期限切れする日時" = "次に期限切れする日時";
+"次に期限切れする日時" = "Next deadline";
 
 /* 次へ */
 "次へ" = "Next";
