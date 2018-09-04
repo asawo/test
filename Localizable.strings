@@ -2023,10 +2023,10 @@
 "カテゴリー" = "Category";
 
 /* Search.storyboard */
-"カテゴリーからさがす" = "Search by category";
+"カテゴリーからさがす" = "Search by Category";
 
 /* Search.storyboard */
-"ブランドからさがす" = "Search by brand";
+"ブランドからさがす" = "Search by Brand";
 
 /* SquareCameraViewController.xib, SquareCameraViewController~ipad.xib */
 "カメラが搭載されていません\n左下のボタンから写真を選んでください" = "It doesn't look like your device has a camera. Please select a picture from your gallery";
@@ -2430,121 +2430,121 @@
 "ポイント履歴" = "Mercari credits history";
 
 /* <h1>ポイント履歴はまだありません</h1> */
-"PointHistory.NoPoint.Prepay" = "<h1>所持しているポイントはありません</h1>";
+"<h1>ポイント履歴はまだありません</h1>" = "<h1>No credit history yet!</h1>";
 
 /* Setting.storyboard */
-"ポイント履歴を見る" = "ポイント履歴を見る";
+"ポイント履歴を見る" = "Mercari credits history";
 
 /* Setting.storyboard */
-"ポイントとは？" = "ポイントとは？";
+"ポイントとは？" = "Mercari credits FAQs";
 
 /* Setting.storyboard */
-"ポイントと交換する" = "ポイントと交換する";
+"ポイントと交換する" = "Convert to credits";
 
 /* ポイントに交換 */
-"ポイントに交換" = "ポイントに交換";
+"ポイントに交換" = "Convert to credits";
 
 /* Setting.storyboard */
-"ポイントに交換する" = "ポイントに交換する";
+"ポイントに交換する" = "Convert to credits";
 
 /* ポイントの利用 */
-"ポイントの利用" = "ポイントの利用";
+"ポイントの利用" = "Using credits";
 
 /* ポイントの確認 */
-"ポイントの確認" = "ポイント";
+"ポイントの確認" = "Credits";
 
 /* ポイントはありません */
-"ポイントはありません" = "No points available";
+"ポイントはありません" = "No credits";
 
 /* ポイントを利用しない */
-"ポイントを利用しない" = "ポイントを利用しない";
+"ポイントを利用しない" = "Don't use credits";
 
 /* ポイントを利用することができます */
-"ポイントを利用することができます" = "ポイントを利用することができます";
+"ポイントを利用することができます" = "You can use credits!";
 
 /* Balance */
-"Balance" = "売上金を使用";
+"Balance" = "Balance";
 
 /* 売上金があります */
-"売上金があります" = "売上金があります";
+"売上金があります" = "Apply balance";
 
 /* 売上金はありません */
-"売上金はありません" = "売上金はありません";
+"売上金はありません" = "No balance";
 
 /* 売上金を使わない */
-"売上金を使わない" = "売上金を使わない";
+"売上金を使わない" = "Do not apply balance";
 
 /* すべての売上金を使う */
-"すべての売上金を使う" = "すべての売上金を使う";
+"すべての売上金を使う" = "Apply all balance";
 
 /* 一部の売上金を使う */
-"一部の売上金を使う" = "一部の売上金を使う";
+"一部の売上金を使う" = "Apply some balance";
 
 /* 使う売上金を入力 */
-"使う売上金を入力" = "使う売上金を入力";
+"使う売上金を入力" = "Enter amount";
 
 /* 売上金使用の変更 */
-"売上金使用の変更" = "売上金使用の変更";
+"売上金使用の変更" = "Balance";
 
 /* 所持売上金 */
-"所持売上金" = "売上金";
+"所持売上金" = "My balance";
 
 /* 全額売上金 */
-"全額売上金" = "全額売上金";
+"全額売上金" = "Balance only";
 
 /* ポイント・売上金 */
-"ポイント・売上金" = "ポイント・売上金";
+"ポイント・売上金" = "Balance & Credits";
 
 /* 使用できる金額を超えています */
-"使用できる金額を超えています" = "使用できる金額を超えています";
+"使用できる金額を超えています" = "You don't have enough balance";
 
 /* 禁止出品物と偽ブランド品の禁止 */
-"禁止出品物と偽ブランド品の禁止" = "禁止出品物と偽ブランド品の禁止";
+"禁止出品物と偽ブランド品の禁止" = "Prohibited & Counterfeit items";
 
 /* 販売代金と受取について */
-"販売代金と受取について" = "振込申請とスケジュール";
+"販売代金と受取について" = "Bank direct deposit FAQs";
 
 /* Purchase.storyboard */
-"ポイントを使わない" = "ポイントを使わない";
+"ポイントを使わない" = "Do not apply credits";
 
 /* Setting.storyboard */
-"ポイントを交換する" = "ポイントを交換する";
+"ポイントを交換する" = "Convert credits";
 
 /* ポイント交換 */
-"ポイント交換" = "ポイント交換";
+"ポイント交換" = "Convert credits";
 
 /* ポイント交換可能な売上金がありません */
-"ポイント交換可能な売上金がありません" = "ポイント交換可能な売上金がありません";
+"ポイント交換可能な売上金がありません" = "Your balance amount cannot be exchanged for credits";
 
 /* ポイント情報を確認中 */
-"ポイント情報を確認中" = "ポイント情報を確認中";
+"ポイント情報を確認中" = "Confirming...";
 
 /* Setting.storyboard */
-"ポイント・売上" = "売上・ポイント";
+"ポイント・売上" = "BALANCE AND CREDITS";
 
 /* Purchase.storyboard, Purchase.storyboard */
-"保有ポイント数" = "保有ポイント数";
+"保有ポイント数" = "Your credits";
 
 /* 保有ポイント以下の数字を入力してください */
-"保有ポイント以下の数字を入力してください" = "保有ポイント以下の数字を入力してください";
+"保有ポイント以下の数字を入力してください" = "Enter amount less than your credit balance";
 
 /* 保存中 */
-"保存中" = "保存中";
+"保存中" = "Saving";
 
 /* 保存した検索条件 */
-"保存した検索条件" = "保存した検索条件";
+"保存した検索条件" = "Saved searches";
 
 /* Search.storyboard */
-"保存した検索条件はまだありません" = "保存した検索条件はまだありません";
+"保存した検索条件はまだありません" = "You don't have any saved searches yet!";
 
 /* 保留中 */
-"保留中" = "保留中";
+"保留中" = "On Hold";
 
 /* SideMenuViewController.xib */
-"メルカリおすすめのアプリ" = "メルカリおすすめのアプリ";
+"メルカリおすすめのアプリ" = "Apps recommended by Mercari";
 
 /* UserRegisterViewController.xib */
-"メルカリが許可なく投稿することはありません" = "メルカリが許可なく投稿することはありません";
+"メルカリが許可なく投稿することはありません" = "Mercari will never post without your permission.";
 
 /* メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？ */
 "メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？" = "メルカリでは表示を高速化するために閲覧した画像などをキャッシュとして一時的に保存しています。キャッシュを消去するとアプリの容量を減らすことができます。購入・出品した情報などが消えることはありません。\n\nキャッシュを消去しますか？";
