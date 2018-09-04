@@ -1502,14 +1502,14 @@
 "決定" = "Continue";
 
 /* ProductEditViewController */
-"ProductEditViewController.Row.RequiredPlaceholder" = "(必須)";
-"ProductEditViewController.Row.OptionalPlaceholder" = "(任意)";
-"ProductEditViewController.Shipping.Header" = "配送について";
-"ProductEditViewController.Shipping.Payer" = "配送料の負担";
-"ProductEditViewController.Shipping.Method" = "配送の方法";
-"ProductEditViewController.Shipping.Origin" = "発送元の地域";
-"ProductEditViewController.Shipping.DeliveryTime" = "発送までの日数";
-"ProductEditViewController.Price.Header" = "販売価格 (%1$@〜%2$@)"; // minPrice, maxPrice
+"ProductEditViewController.Row.RequiredPlaceholder" = "(required)";
+"ProductEditViewController.Row.OptionalPlaceholder" = "(optional)";
+"ProductEditViewController.Shipping.Header" = "Shipping";
+"ProductEditViewController.Shipping.Payer" = "Shipping paid by";
+"ProductEditViewController.Shipping.Method" = "Shipping method";
+"ProductEditViewController.Shipping.Origin" = "Ships from";
+"ProductEditViewController.Shipping.DeliveryTime" = "Can ship item in";
+"ProductEditViewController.Price.Header" = "Pricing (%1$@〜%2$@)"; // minPrice, maxPrice
 "ProductEditViewController.Alert.DeleteConfirmation.Message" = "削除すると二度と復活できません。削除する代わりに停止することもできます。\n\n本当に削除しますか？";
 
 /* NetworkLimitationCheckViewController */
@@ -1922,18 +1922,18 @@
 "販売中" = "販売中";
 
 /* 販売手数料 */
-"販売手数料" = "販売手数料";
+"販売手数料" = "Selling fee";
 
 /* 販売手数料 (%@) */
-"販売手数料 (%@)" = "販売手数料 (%@)";
+"販売手数料 (%@)" = "Selling fee (%@)";
 
 /* 販売手数料 (%d%%) */
-"販売手数料 (%d%%)" = "販売手数料 (%d%%)";
+"販売手数料 (%d%%)" = "Selling fee (%d%%)";
 
 /* ProductEditViewController */
-"Save Draft Confirm" = "はい";
-"Save Change Confirm" = "はい";
-"Don't Save Confirm" = "いいえ";
+"Save Draft Confirm" = "Yes";
+"Save Change Confirm" = "Yes";
+"Don't Save Confirm" = "No";
 "ProductEditViewController.SmartphoneGuidedFlowButton.Title" = "スマホの機種を選択する";
 "ProductEditViewController.EntertainmentGuidedFlowButton.Title" = "バーコードでかんたん入力";
 "ProductEditViewController.AlertAction.Barcode" = "バーコードで出品（本など）";
@@ -3169,10 +3169,10 @@
 "Fact: Items sell faster when you include FREE Shipping!" = "Fact: Items sell faster when you include FREE Shipping!";
 
 /* カード番号（必須） */
-"カード番号（必須）" = "必須";
+"カード番号（必須）" = "Required";
 
 /* セキュリティコード（必須） */
-"セキュリティコード（必須）" = "必須";
+"セキュリティコード（必須）" = "Required";
 
 /* ※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。 */
 "※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。" = "※売上金は、事務局で自動的にポイント交換(1円=1ポイント)してから、購入に充てられます。";
@@ -3928,7 +3928,7 @@
 "Now.BuyItem.Detail.ItemName" = "アイテム名";
 "Now.BuyItem.Detail.SectionTitle" = "アイテム詳細";
 "Now.BuyItem.Detail.BrandHistory.SectionTitle" = "ブランド履歴";
-"Now.BuyItem.Select.Required" = "(必須)";
+"Now.BuyItem.Select.Required" = "(Required)";
 "Now.BuyItem.Select.Brand" = "ブランド";
 "Now.BuyItem.Select.Category" = "カテゴリー";
 "Now.BuyItem.Select.Condition" = "状態";
