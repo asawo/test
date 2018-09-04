@@ -2835,7 +2835,7 @@
 "出品を一旦停止する" = "出品を一旦停止する";
 
 /* ProductEditViewController.m */
-"Save draft for later?" = "下書きに保存しますか？";
+"Save draft for later?" = "Save draft for later?";
 
 /* 出品を削除しました */
 "出品を削除しました" = "出品を削除しました";
@@ -3298,13 +3298,13 @@
 "This user has been unblocked" = "この会員のブロックを解除しました";
 
 /* No */
-"No" = "いいえ";
+"No" = "No";
 
 /* Yes */
-"Yes" = "はい";
+"Yes" = "Yes";
 
 /* Billing zip code */
-"Billing zip code" = "郵便番号";
+"Billing zip code" = "Billing zip code";
 
 /* (section)Bank account holder's name */
 "(section)Bank account holder's name" = "Bank account holder's name";
