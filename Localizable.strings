@@ -2023,37 +2023,37 @@
 "カテゴリー" = "Category";
 
 /* Search.storyboard */
-"カテゴリーからさがす" = "カテゴリーからさがす";
+"カテゴリーからさがす" = "Search by category";
 
 /* Search.storyboard */
-"ブランドからさがす" = "ブランドからさがす";
+"ブランドからさがす" = "Search by brand";
 
 /* SquareCameraViewController.xib, SquareCameraViewController~ipad.xib */
-"カメラが搭載されていません\n左下のボタンから写真を選んでください" = "カメラが搭載されていません\n左下のボタンから写真を選んでください";
+"カメラが搭載されていません\n左下のボタンから写真を選んでください" = "It doesn't look like your device has a camera. Please select a picture from your gallery";
 
 /* Purchase.storyboard */
-"カード番号" = "カード番号";
+"カード番号" = "Card number";
 
 /* カード番号が%d桁ではありません */
-"カード番号が%d桁ではありません" = "カード番号が%d桁ではありません";
+"カード番号が%d桁ではありません" = "Please enter a valid card number. ";
 
 /* カード番号が正しくありません */
-"カード番号が正しくありません" = "カード番号が正しくありません";
+"カード番号が正しくありません" = "Invalid card number. Please try again";
 
 /* Purchase.storyboard */
-"カード情報" = "カード情報";
+"カード情報" = "Credit Card Information";
 
 /* カード情報を消去しました */
-"カード情報を消去しました" = "カード情報を消去しました";
+"カード情報を消去しました" = "Your payment information has been deleted";
 
 /* ガイド */
 "ガイド" = "Help Center";
 
 /* Contact.storyboard, Contact.storyboard, Contact.storyboard, Contact.storyboard */
-"ガイドへ" = "ガイドへ";
+"ガイドへ" = "Go to Help Center";
 
 /* Contact.storyboard */
-"説明文と違う商品が届いた" = "説明文と違う商品が届いた";
+"説明文と違う商品が届いた" = "The item doesn't match the description";
 
 /* キャッシュの消去 */
 "キャッシュの消去" = "Clear cache";
@@ -2305,16 +2305,16 @@
 "姓（全角）" = "Last name";
 
 /* UsersAddressEditViewController.xib */
-"姓 (全角)" = "姓 (全角)";
+"姓 (全角)" = "Last name";
 
 /* Setting.storyboard */
 "姓カナ（全角）" = "Last name (katakana)";
 
 /* UsersAddressEditViewController.xib */
-"姓カナ (全角)" = "姓カナ (全角)";
+"姓カナ (全角)" = "Last name (katakana)";
 
 /* ブランド */
-"ブランド" = "ブランド";
+"ブランド" = "Brand";
 
 /* ブランドの偽造品・模造品・レプリカ */
 "ブランドの偽造品・模造品・レプリカ" = "ブランドの偽造品・模造品・レプリカ";
