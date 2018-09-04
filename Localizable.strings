@@ -786,7 +786,7 @@
 "認証番号を再送することもできます。もう一度電話番号を入力してください。" = "認証番号を再送することもできます。もう一度電話番号を入力してください。";
 
 /* 電話番号を入力する */
-"電話番号を入力する" = "電話番号を入力する";
+"電話番号を入力する" = "Enter phone number";
 
 /* ※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。 */
 "※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。" = "※SMSが届かない場合は<a href=\"mercari://sms/openGuide/\">SMS受信設定</a>を確認して、もう一度電話番号を入力してください。";
@@ -831,13 +831,13 @@
 "あるユーザが「ある商品」にいいねをつけました" = "あるユーザが「ある商品」にいいねをつけました";
 
 /* 時々 */
-"時々" = "時々";
+"時々" = "Sometimes";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard, Setting.storyboard, Setting.storyboard, Setting.storyboard */
 "Detail" = "Detail";
 
 /* いいえ */
-"いいえ" = "いいえ";
+"いいえ" = "No";
 
 /* いいね！一覧 */
 "いいね！一覧" = "Liked Items";
@@ -882,13 +882,13 @@
 "Facebookに問い合わせ中" = "Facebookに問い合わせ中";
 
 /* Unable to Connect to Facebook */
-"Unable to Connect to Facebook" = "Facebookに接続できません";
+"Unable to Connect to Facebook" = "Unable to Connect to Facebook";
 
 /* Facebookへの問い合わせが取り消されました */
 "Facebookへの問い合わせが取り消されました" = "Facebookの「設定」からアプリの利用制限についてご確認ください";
 
 /* Please Enable Mercari in System Settings */
-"Please Enable Mercari in System Settings" = "iOSの設定をご確認ください";
+"Please Enable Mercari in System Settings" = "Please Enable Mercari in System Settings";
 
 /* Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください */
 "Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください" = "Mercari is not authorized to use your Facebook account on this device. To authorize Mercari, open the Settings app on your device and tap on the Facebook option. Under Facebook settings, enable the Mercari app and try again.";
@@ -953,9 +953,9 @@
 
 "ProductEditViewController.ProductDetailTextView.Placeholder" = "商品の説明 (任意 1,000文字以内)\n(色、素材、重さ、定価、注意点など)\n\n例)　2010年頃に1万円で購入したジャケットです。ライトグレーで傷はありません。あわせやすいのでおすすめです。\n\n#ジャケット #ジャケットコーデ";
 
-"ProductEditViewController.Alert.GoToDraftList" = "下書き一覧へ";
+"ProductEditViewController.Alert.GoToDraftList" = "Saved drafts";
 
-"ProductEditViewController.Alert.ChooseFromLibrary" = "写真をアルバムから選択";
+"ProductEditViewController.Alert.ChooseFromLibrary" = "Choose existing photo";
 
 "ProductEditViewController.SaveDraftAlert.Detail" = "スマートフォンに関する項目は保存されません。下書き保存をしますか？";
 
@@ -981,7 +981,7 @@
 
 "ProductEditViewController.SafeSmartphone.OptionFee" = "オプション料金";
 
-"ProductEditViewController.Header.Option" = "オプション";
+"ProductEditViewController.Header.Option" = "Options";
 
 "ProductEditViewController.Footer.SafeSmartphoneExplain" = "スマホを販売する際に必要な、データ削除や初期化などの手続きをメルカリがサポートする有料オプションです。\n※配送方法はらくらくメルカリ便のみとなります\n※商品の状態が新品の場合はご利用いただけません";
 
@@ -1144,7 +1144,7 @@
 "配送先" = "Ship to";
 
 /* ポイントを使用 */
-"ポイントを使用" = "Use points";
+"ポイントを使用" = "Use credits";
 
 /* 選択できません */
 "選択できません" = "選択できません";
@@ -1165,7 +1165,7 @@
 "全額ポイント" = "全額ポイント";
 
 /* 住所の変更 */
-"住所の変更" = "住所の変更";
+"住所の変更" = "Edit Address";
 
 /* 住所の登録 */
 "住所の登録" = "Add New Address";
