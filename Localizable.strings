@@ -891,62 +891,62 @@
 "Please Enable Mercari in System Settings" = "iOSの設定をご確認ください";
 
 /* Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください */
-"Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください" = "Facebookアカウントの使用が許可されていません。iOSの「設定」の「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください";
+"Facebookアカウントの使用が許可されていません。設定アプリの「Facebook＞アカウントの使用を許可するApp」で「メルカリ」をオンにしてください" = "Mercari is not authorized to use your Facebook account on this device. To authorize Mercari, open the Settings app on your device and tap on the Facebook option. Under Facebook settings, enable the Mercari app and try again.";
 
 /* Googleに問い合わせ中 */
-"Googleに問い合わせ中" = "Googleに問い合わせ中";
+"Googleに問い合わせ中" = "Connecting with Google...";
 
 /* 商品の写真を登録してください  */
-"商品の写真を登録してください" = "商品の写真を登録してください";
+"商品の写真を登録してください" = "Register item image";
 
-/* 写真を撮る */
-"写真を撮る" = "写真を撮る";
+/* Take a photo */
+"写真を撮る" = "Take a photo";
 
-/* アルバムから選択する */
-"アルバムから選択する" = "アルバムから選択する";
+/* Choose existing photo */
+"アルバムから選択する" = "Choose existing photo";
 
 /* 商品変更の確認 */
-"商品変更の確認" = "商品変更の確認";
+"商品変更の確認" = "Confirm item changes";
 
 /* 商品名 */
-"商品名" = "商品名";
+"商品名" = "Name";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"商品名 (必須 40文字まで)" = "商品名 (必須 40文字まで)";
+"商品名 (必須 40文字まで)" = "Item name (required)";
 
 /* 商品名が最大文字数を超えています。%d文字削除してください */
-"商品名が最大文字数を超えています。%d文字削除してください__{one}__" = "商品名が最大文字数を超えています。%d文字削除してください";
-"商品名が最大文字数を超えています。%d文字削除してください__{other}__" = "商品名が最大文字数を超えています。%d文字削除してください";
+"商品名が最大文字数を超えています。%d文字削除してください__{one}__" = "Your item name exceeds the character limit. Please remove %d character";
+"商品名が最大文字数を超えています。%d文字削除してください__{other}__" = "Your item name exceeds the character limit. Please remove %d characters";
 
 /* 商品名が未入力です */
-"商品名が未入力です" = "商品名が未入力です";
+"商品名が未入力です" = "Enter Item Name";
 
 /* 商品名と説明 */
-"商品名と説明" = "商品名と説明";
+"商品名と説明" = "Description";
 
 /* 商品ID */
-"商品ID" = "商品ID";
+"商品ID" = "Item ID";
 
 /* 商品ID : %@\n */
-"商品ID : %@\n" = "商品ID : %@\n";
+"商品ID : %@\n" = "Item ID: %@\n";
 
 /* 商品IDを入力してください */
-"商品IDを入力してください" = "商品IDを入力してください";
+"商品IDを入力してください" = "Please enter the item ID";
 
 /* 商品削除中 */
-"商品削除中" = "商品削除中";
+"商品削除中" = "Deleting item...";
 
 /* Contact.storyboard, Contact.storyboard */
-"商品が届かない、受取評価をしてもらえないなどの場合、まずは取引メッセージを送ってください。\n返信がない、解決しない場合は下記のフォームよりお問い合わせください。" = "商品が届かない、受取評価をしてもらえないなどの場合、まずは取引メッセージを送ってください。\n返信がない、解決しない場合は下記のフォームよりお問い合わせください。";
+"商品が届かない、受取評価をしてもらえないなどの場合、まずは取引メッセージを送ってください。\n返信がない、解決しない場合は下記のフォームよりお問い合わせください。" = "If you haven't received your item or are having some trouble receiving a rating, try sending the buyer/seller a message. \nIf you don't receive a reply or are having problems resolving the situation, please send us a message using the form below.";
 
 /* 商品の報告 */
-"商品の報告" = "商品の報告";
+"商品の報告" = "Report an item";
 
 /* Contact.storyboard */
-"商品の報告ありがとうございます" = "商品の報告ありがとうございます";
+"商品の報告ありがとうございます" = "Thank you for making Mercari a safer place to shop!";
 
 /* 商品の詳細 */
-"商品の詳細" = "商品の詳細";
+"商品の詳細" = "Item Details";
 
 /* 商品の説明 */
 "商品の説明" = "Item Description";
@@ -985,11 +985,11 @@
 
 "ProductEditViewController.Footer.SafeSmartphoneExplain" = "スマホを販売する際に必要な、データ削除や初期化などの手続きをメルカリがサポートする有料オプションです。\n※配送方法はらくらくメルカリ便のみとなります\n※商品の状態が新品の場合はご利用いただけません";
 
-/* 商品の説明が最大文字数を超えています。%d文字削除してください */
-"商品詳細は1,000文字以内で入力してください" = "商品詳細は1,000文字以内で入力してください";
+/* 商品詳細は1,000文字以内で入力してください */
+"商品詳細は1,000文字以内で入力してください" = "Please enter your item details in under 1,000 characters";
 
 /* 商品説明を入力してください */
-"商品説明を入力してください" = "商品説明を入力してください";
+"商品説明を入力してください" = "Please enter item description";
 
 /* ProductDetailItemView */
 "VerifyGuaranteedShippingTime" = "※検品を行うため、到着までお時間をいただきます";
@@ -998,28 +998,28 @@
 "商品の状態" = "Condition";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"商品の情報を入力" = "商品の情報を入力";
+"商品の情報を入力" = "Create Listing";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
-"商品の編集" = "商品の編集";
+"商品の編集" = "Edit";
 
 /* Contact.storyboard, Contact.storyboard */
-"商品へ" = "商品へ";
+"商品へ" = "Go to item";
 
 /* Contact.storyboard */
-"商品を送ったが、戻ってきた" = "商品を送ったが、戻ってきた";
+"商品を送ったが、戻ってきた" = "Mailed item was returned back to me";
 
 /* Contact.storyboard */
-"商品を受取る前に評価をしてしまった" = "商品を受取る前に評価をしてしまった";
+"商品を受取る前に評価をしてしまった" = "I rated the item before I received it";
 
 /* 商品情報 */
-"商品情報" = "商品情報";
+"商品情報" = "Item information";
 
 /* 商品情報が正しくありません */
-"商品情報が正しくありません" = "商品情報が正しくありません";
+"商品情報が正しくありません" = "The item info is incorrect.";
 
 /* Exhibit.storyboard, Exhibit.storyboard, Exhibit_iPad.storyboard, Exhibit_iPad.storyboard */
-"商品情報を確認する" = "商品情報を確認する";
+"商品情報を確認する" = "Post Listing";
 
 /* 商品情報を取得し終わるまでお待ちください */
 "商品情報を取得し終わるまでお待ちください" = "商品情報を取得し終わるまでお待ちください";
