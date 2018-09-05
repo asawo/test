@@ -143,10 +143,10 @@
 "個人情報の公開" = "Sharing personal information";
 
 /* Purchase Main */
-"PurchaseMain.Buy.Confirm.Message.Format.Coupons.Kyc" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nクーポン使用：%3$@\nポイント使用：%4$@\n支払い金額：%6$@";
-"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons.Kyc" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nポイント使用：%3$@\n支払い金額：%5$@";
-"PurchaseMain.Buy.Confirm.Message.Format.Coupons" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nクーポン使用：%3$@\nポイント使用：%4$@\n売上金使用：%5$@\n支払い金額：%6$@";
-"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons" = "「%1$@」を購入しますか？\n\n支払い方法：%2$@\nポイント使用：%3$@\n売上金使用：%4$@\n支払い金額：%5$@";
+"PurchaseMain.Buy.Confirm.Message.Format.Coupons.Kyc" = "Buy %1$@?\n\nPayment method: %2$@\nCoupons: %3$@\nPoints: %4$@\nTotal: %6$@";
+"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons.Kyc" = "Buy %1$@?\n\nPayment method: %2$@\nPoints: %3$@\nTotal: %5$@";
+"PurchaseMain.Buy.Confirm.Message.Format.Coupons" = "Buy %1$@?\n\nPayment method: %2$@\nCoupons: %3$@\nPoints: %4$@\nBalance: %5$@\nTotal: %6$@";
+"PurchaseMain.Buy.Confirm.Message.Format.NoCoupons" = "Buy %1$@?\n\nPayment method: %2$@\nPoints: %3$@\nBalance: %4$@\nTotal: %5$@";
 "PurchaseMain.Address.Validation.Move" = "※配送先に変更はありませんか？";
 "PurchaseMain.Address.Validation.NoNumber" = "※部屋番号の入力をお忘れではないですか？";
 
@@ -482,7 +482,7 @@
 "本当にこのカード情報を消去してよろしいですか" = "本当にこのカード情報を消去してよろしいですか";
 
 /* 有効期限 %@ */
-"有効期限 %@" = "有効期限 %@";
+"有効期限 %@" = "Expires %@";
 
 /* 本物ではないブランド品 */
 "本物ではないブランド品" = "本物ではないブランド品";
@@ -503,7 +503,7 @@
 "設定中" = "設定中";
 
 /* 設定してください */
-"設定してください" = "設定してください";
+"設定してください" = "Choose";
 
 /* 設定アプリの「位置情報サービス」でアクセスを有効にしてください */
 "設定アプリの「位置情報サービス」でアクセスを有効にしてください" = "設定アプリの「位置情報サービス」でアクセスを有効にしてください";
@@ -655,7 +655,7 @@
 "1" = "1";
 
 /* 1分以内 */
-"1分以内" = "1分以内";
+"1分以内" = "<1 minute ago";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib */
 "100" = "100";
@@ -798,7 +798,7 @@
 "主要金融機関" = "主要金融機関";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"戻る" = "戻る";
+"戻る" = "Back";
 
 /* Contact.storyboard */
 "画像が表示されない" = "画像が表示されない";
@@ -1156,7 +1156,7 @@
 "ポイント使用の変更" = "ポイント使用の変更";
 
 /* 購入が完了しました！ */
-"購入が完了しました！" = "購入が完了しました";
+"購入が完了しました！" = "Congratulations!";
 
 /* 買い物を続ける */
 "買い物を続ける" = "買い物を続ける";
@@ -1183,7 +1183,7 @@
 "住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。" = "住所の登録は初回のみ必要です。二回目以降は登録した住所を利用でき、変更することも可能です。";
 
 /* 住所の確認 */
-"住所の確認" = "住所の確認";
+"住所の確認" = "Address error";
 
 /* 配送先を設定してください */
 "配送先を設定してください" = "配送先を設定してください";
@@ -1297,7 +1297,7 @@
 "評価" = "評価";
 
 /* 評価一覧 */
-"評価一覧" = "評価一覧";
+"評価一覧" = "Ratings";
 
 /* ProductDetailViewController.xib, ProductDetailViewController~ipad.xib, ProfileHeaderReviewViewCell.xib */
 "評価：" = "評価：";
@@ -1327,7 +1327,7 @@
 "すでにFacebookを利用して会員登録済みです。ログインします" = "すでにFacebookを利用して会員登録済みです。ログインします";
 
 /* すべて */
-"すべて" = "すべて";
+"すべて" = "All";
 
 /* すべてのコメントを見る */
 "すべてのコメントを見る" = "すべてのコメントを見る";
@@ -1366,7 +1366,7 @@
 "入力された情報から禁止されている行為・出品物に当たる可能性があります。" = "入力された情報から禁止されている行為・出品物に当たる可能性があります。";
 
 /* 入力されていない項目があります */
-"入力されていない項目があります" = "入力されていない項目があります";
+"入力されていない項目があります" = "Please fill in all required fields.";
 
 /* UserRegisterViewController.xib */
 "facebookを利用して登録" = "facebookを利用して登録";
@@ -1390,7 +1390,7 @@
 "適用" = "適用";
 
 /* UsersAddressEditViewController.xib, Setting.storyboard */
-"番地" = "番地";
+"番地" = "Block/building number";
 
 /* 番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。 */
 "番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。" = "番地に数字が含まれていません。確認してください。\n数字がない場合は、無番地と入力してください。";
@@ -1409,7 +1409,7 @@
 
 /* Add new shipping address */
 "Add new address" = "Add new address";
-"Add new facility" = "新しい受取場所を登録";
+"Add new facility" = "Add new pickup location";
 
 /* Your address will not be changed for purchases that are currently in progress.\n\nTo change your address for a purchase in progress, please contact us through the Help Center. */
 "Your address will not be changed for purchases that are currently in progress.\n\nTo change your address for a purchase in progress, please contact us through the Help Center." = "取引中の商品のお届け先は変更されません。変更が必要な場合、取引メッセージで出品者に連絡してください。";
@@ -1430,7 +1430,7 @@
 "のぞみんのぞみん のぞみんのぞみん ☆プロフィール必読☆" = "のぞみんのぞみん のぞみんのぞみん ☆プロフィール必読☆";
 
 /* 普通 */
-"普通" = "普通";
+"普通" = "Good";
 
 /* 普通預金 */
 "普通預金" = "普通預金";
@@ -1445,7 +1445,7 @@
 "はい" = "はい";
 
 /* 良い */
-"良い" = "良い";
+"良い" = "Great";
 
 /* ReviewListViewController.xib */
 "良い：" = "良い：";
@@ -1454,7 +1454,7 @@
 "良い/普通" = "良い/普通";
 
 /* <h1>評価はまだありません</h1> */
-"<h1>評価はまだありません</h1>" = "<h1>評価はまだありません</h1>";
+"<h1>評価はまだありません</h1>" = "<h1>No ratings yet!</h1>";
 
 /* ProductDetailViewController~ipad.xib */
 "ぱんだしゃちょうほげほげああああ" = "ぱんだしゃちょうほげほげああああ";
@@ -1717,7 +1717,7 @@
 "事務局によるキャンセル" = "事務局によるキャンセル";
 
 /* Setting.storyboard */
-"例）横浜市緑区" = "Ex. 横浜市緑区";
+"例）横浜市緑区" = "Ex. Midori-ku, Yokohama";
 
 /* Setting.storyboard */
 "例）09012345678" = "Ex. 09012345678";
@@ -1729,16 +1729,16 @@
 "例）AYA☆セール中" = "User Name";
 
 /* Setting.storyboard */
-"例）青山 1-1-1" = "Street name";
+"例）青山 1-1-1" = "Ex. 1-1-1 Aoyama";
 
 /* Setting.storyboard */
-"例）彩" = "First name";
+"例）彩" = "Ex. Aya";
 
 /* Setting.storyboard */
-"例）山田" = "Last name";
+"例）山田" = "Ex. Yamada";
 
 /* Setting.storyboard */
-"例）アヤ" = "User Name";
+"例）アヤ" = "Ex. アヤ";
 
 /* 例）データが取得出来ません */
 "例）データが取得出来ません" = "Ex. Please try again in an area with a stable network connection.";
@@ -1747,7 +1747,7 @@
 "例）取引画面の支払い情報を発行しようとして、コンビニを選択するとエラーになる。取引メッセージは送れている。" = "Ex. I'm trying to rate the buyer/seller on the Order Status page, but I keep getting an error message.";
 
 /* Setting.storyboard */
-"例）ヤマダ" = "Ex. Yamada";
+"例）ヤマダ" = "Ex. ヤマダ";
 
 /* Setting.storyboard */
 "例）柳ビル 103" = "Suite / Apt / Unit / Other";
@@ -1916,7 +1916,7 @@
 "エンタメ" = "エンタメ";
 
 /* 販売利益 */
-"販売利益" = "販売利益";
+"販売利益" = "You get:";
 
 /* 販売中 */
 "販売中" = "販売中";
@@ -1948,7 +1948,7 @@
 "ProductEditViewController.OptionFee.Title" = "オプション料金";
 "ProductEditViewController.TOS.Title" = "あんしんスマホサポートご利用の場合は、以下確認をお願いします。";
 "ProductEditViewController.TOS.Description" = "あんしんスマホサポート<a href=\"https://www.mercari.com/jp/tos_smartphone_support/\">利用特約</a>に同意する";
-"ProductEditImagesSelectView.BarcodeCamera.Title" = "バーコードにカメラをかざしてください\n（本・CD/DVD/BD・ゲームソフトのみ）";
+"ProductEditImagesSelectView.BarcodeCamera.Title" = "Position the barcode in the center of the screen.\n (Only available for books,\nCDs/DVDs/BDs, and video games.)"; /* バーコードにカメラをかざしてください\n（本・CD/DVD/BD・ゲームソフトのみ） */
 "ProductEditViewController.AlertController.LargeShipment.Title" = "発送元の住所に不備がある場合、商品の取引ができない可能性があります。以下の住所で出品しますか？\n\n%@";
 
 /* Exhibit.storyboard */
@@ -2808,7 +2808,7 @@
 "出品中・取引中の商品があるため退会できません" = "出品中・取引中の商品があるため退会できません";
 
 /* Exhibit.storyboard, Exhibit_iPad.storyboard */
-"出品が完了しました！" = "出品が完了しました！";
+"出品が完了しました！" = "Success!";
 
 /* 出品した商品 */
 "出品した商品" = "Selling";
@@ -2853,7 +2853,7 @@
 "出品情報の確認" = "出品情報の確認";
 
 /* Setting.storyboard */
-"建物名（任意）" = "建物名（任意）";
+"建物名（任意）" = "Building name (Optional)";
 
 /* 建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？ */
 "建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？" = "建物名/部屋番号を入力しない場合、配送ができない可能性があります。以下の住所で登録してよろしいですか？";
@@ -2935,7 +2935,7 @@
 
 /* PurchaseFinishViewController.xib, PurchaseFinishViewController~ipad.xib */
 "PurchaseFinishViewController.DescriptionLabel.ATM" = "取引画面で各コンビニ/銀行ATMを選択してお支払いください";
-"PurchaseFinishViewController.DescriptionLabel.NotATM" = "出品者の発送通知をお待ちください";
+"PurchaseFinishViewController.DescriptionLabel.NotATM" = "The seller will let you know once they've shipped your purchase.";
 "PurchaseFinishViewController.DescriptionLabel.NotATM.IsShopItem" = "商品の到着をお待ちください";
 "PurchaseFinishViewController.SuggestSell.ButtonTitle" = "出品する";
 
@@ -3250,16 +3250,16 @@
 "I’m selling %1$@ on Mercari!" = "『%1$@ (%2$@)』 フリマアプリ「メルカリ」で販売中♪";
 
 /* (購入完了)シェアする */
-"(購入完了)シェアする" = "商品をシェアしよう!";
+"(購入完了)シェアする" = "Tell your friends!";
 
 /* (購入完了)フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』 */
 "(購入完了)フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』" = "フリマアプリ「メルカリ」で買いました♪『%1$@ (%2$@)』";
 
 /* Edit profile */
-"Edit profile" = "プロフィール編集";
+"Edit profile" = "Edit profile";
 
 /* Share items */
-"Share profile" = "プロフィールシェア";
+"Share profile" = "Share profile";
 
 /* ProductCollectionViewController.m */
 "Take a look at what's on sale now at Mercari!" = "フリマアプリ「メルカリ」で販売してます";
@@ -3280,7 +3280,7 @@
 "Unblock this user" = "ブロックを解除";
 
 /* Block this user */
-"Block this user" = "この会員をブロック";
+"Block this user" = "Block this user";
 
 /* Do you want to block this user? */
 "Do you want to block this user?" = "ブロックしますか？";
@@ -3392,7 +3392,7 @@
 "Credits below will expire within 3 months" = "3ヶ月以内に失効するポイントです";
 
 /* (購入中の住所編集)登録する */
-"(購入中の住所編集)登録する" = "登録する";
+"(購入中の住所編集)登録する" = "Add";
 
 /* (購入中の住所編集)変更する */
 "(購入中の住所編集)変更する" = "変更する";
@@ -3673,14 +3673,14 @@
 
 /* New Camera */
 
-"All Photos" = "すべての写真";
+"All Photos" = "All Photos";
 "Are you sure you want to go back to the listing screen without saving photo?__{one}__" = "画像を保存せずに出品画面に戻りますか？";
-"Are you sure you want to go back to the listing screen without saving photo?__{other}__" = "画像を保存せずに出品画面に戻りますか？";
+"Are you sure you want to go back to the listing screen without saving photo?__{other}__" = "Are you sure you want to go back to the listing screen without saving this photo?";
 
-"Go Back" = "はい";
-"Library" = "アルバム";
-"Camera" = "カメラ";
-"Barcode" = "バーコード";
+"Go Back" = "Go Back";
+"Library" = "Library";
+"Camera" = "Camera";
+"Barcode" = "Barcode";
 "Photo Library Access" = "アルバムから選択できません";
 "Mercari needs access to your photo library\nto upload item images to your listing" = "メルカリでアルバムから写真を選択するために、\niOSの設定で写真へのアクセスを許可してください";
 "Enable library access" = "設定画面へ";
@@ -3722,7 +3722,7 @@
 
 /* AddressListViewModel */
 "HeaderLabel.HomeOrOffice" = "Home/Office";
-"HeaderLabel.PostOfficeOrConveni" = "郵便局/コンビニ受取";
+"HeaderLabel.PostOfficeOrConveni" = "Post Office/Convenience Store Pickup";
 "FooterLabel.WarningForNonYuYu" = "* You cannot pick this item up at a post office or convenience store. Please add a home or office address.";
 
 /* AddressEditViewController */
@@ -3769,7 +3769,7 @@
 
 /* delivery options */
 "enable to receive at facility" = "※郵便局/コンビニ受取可能";
-"post office or convenience" = "郵便局/コンビニ受取";
+"post office or convenience" = "Post Office/Convenience Store Pickup";
 "anonymous shipping" = "Anonymous Delivery";
 "verify guaranteed" = "検品・保証・クリーニング付";
 
@@ -3985,15 +3985,15 @@
 "Common.Error.ConnectionUnstable.Message" = "通信が不安定なため、データを取得できませんでした。電波の良い所で再度お試しください。";
 
 /* AntiSocial */
-"AntiSocial.Personal.Information.Register.Title" = "本人情報の登録";
+"AntiSocial.Personal.Information.Register.Title" = "Register Personal Information"; /* 本人情報の登録 */
 "AntiSocial.Zip.Icon" = "〒";
-"AntiSocial.Header.Description.Register" = "お客さまのあんしん・あんぜんな取引のため、本人情報のご登録をお願いしております。";
+"AntiSocial.Header.Description.Register" = "In order to keep Mercari a safe and secure place for all users, we need to know a little about you first."; /* お客さまのあんしん・あんぜんな取引のため、本人情報のご登録をお願いしております。 */
 "AntiSocial.Header.Description.Edit" = "お客様の本人情報をご登録ください。";
-"AntiSocial.Button.Register.Title.Register" = "登録する";
+"AntiSocial.Button.Register.Title.Register" = "Register";
 "AntiSocial.Button.Register.Title.Edit" = "編集完了";
-"AntiSocial.Alert.NoEnter.AddressName" = "住所氏名が未入力です";
-"AntiSocial.Alert.NoEnter.Birthday" = "生年月日が未入力です";
-"AntiSocial.Progress.Message.Registered" = "登録を完了しました";
+"AntiSocial.Alert.NoEnter.AddressName" = "Please enter your name and address.";
+"AntiSocial.Alert.NoEnter.Birthday" = "Please enter your date of birth.";
+"AntiSocial.Progress.Message.Registered" = "Registration successful!";
 "AntiSocial.Bank.Edit.Caution.NotKYC" = "振込先が間違っている場合、再振込手数料210円が発生します";
 "AntiSocial.Bank.Edit.Caution.KYC" = "※振込先が間違っている場合、再振込手数料210円が発生します。\n※登録された住所氏名と売上金の振込口座名義が一致しない場合、振込申請をすることはできません。\n※ご登録の口座が、家族名義の口座や、婚姻等による改姓等のため名義が異なる場合、「メニュー>問い合わせ>売上の振込申請について>お問い合わせする」より、お問い合わせください。";
 
