@@ -2706,7 +2706,7 @@
 "<h1>売上履歴はまだありません</h1>" = "<h1>No Balance history yet!</h1>";
 
 /* 売上金の振込申請期限 */
-"売上金の振込申請期限" = "売上金の振込申請期限";
+"SalesHistory.NoHistory.Prepay" = "売上金の振込申請期限";
 
 /* 振込申請期限が3ヶ月以内の売上金 */
 "振込申請期限が3ヶ月以内の売上金" = "振込申請期限が3ヶ月以内の売上金";
@@ -2998,6 +2998,7 @@
 
 /* 編集 */
 "編集" = "Edit";
+"Word.Edit" = "編集";
 
 /* ProductListViewController.m */
 "ProductListViewController.TableFooter.ProductListViewModeBuy.SegmentBuyWaiting" = "<h1>取引中の商品がありません</h1><br/><br/><p>メルカリでは安全・簡単に購入できます。<a href=\"category/5/#9\">購入の流れ</a>をぜひご覧ください。</p>";
